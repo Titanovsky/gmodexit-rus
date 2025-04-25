@@ -1,0 +1,1 @@
+{"11":{"movetype":6.0,"sleep":false,"color":{"r":255.0,"b":255.0,"a":255.0,"g":255.0},"solid":6.0,"class":"prop_physics","hp":1000.0,"model":"models/galaxy/rust/wood_pillar.mdl","mat":"","pos":"[-8632.8145 -11246.79 -358.4664]","motion":true,"owner":"STEAM_0:0:553958298","ang":"{0 50.8379 90}","maxhp":3000.0,"collision":0.0,"map":"gm_amb_remeselnik_island"}}

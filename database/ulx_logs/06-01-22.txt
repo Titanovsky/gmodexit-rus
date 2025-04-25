@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/05-31-22.txt">
+[05:05:05] Server is shutting down/changing levels.
+
+
+
+[05:06:50] New map: gm_construct
+[06:30:35] Server is shutting down/changing levels.

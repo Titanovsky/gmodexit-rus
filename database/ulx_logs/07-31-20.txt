@@ -1,0 +1,154 @@
+<Logging continued from "data/ulx_logs/07-30-20.txt">
+[00:27:52] (SILENT) Titanovsky ran rcon command: bot
+[00:27:52] Client "Bot01" connected.
+[00:27:52] Client "Bot01" spawned in server <BOT> (took 2444 seconds).
+[00:27:53] (SILENT) Titanovsky ran rcon command: bot
+[00:27:53] Client "Bot02" connected.
+[00:27:53] Client "Bot02" spawned in server <BOT> (took 2445 seconds).
+[00:27:54] (SILENT) Titanovsky ran rcon command: bot
+[00:27:54] Client "Bot03" connected.
+[00:27:54] Client "Bot03" spawned in server <BOT> (took 2446 seconds).
+[00:28:16] Titanovsky teleported to Bot01
+[02:13:25] Titanovsky: Да
+[02:34:34] Server is shutting down/changing levels.
+
+
+
+[11:45:01] New map: gm_rus
+[11:45:23] Client "Titanovsky" connected.
+[11:46:14] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 51 seconds).
+[11:47:23] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[11:47:24] Client "Titanovsky" connected.
+[11:47:38] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[11:48:33] (SILENT) Titanovsky ran rcon command: bot
+[11:48:33] Client "Bot01" connected.
+[11:48:33] Client "Bot01" spawned in server <BOT> (took 214 seconds).
+[11:48:33] (SILENT) Titanovsky ran rcon command: bot
+[11:48:33] Client "Bot02" connected.
+[11:48:33] Client "Bot02" spawned in server <BOT> (took 214 seconds).
+[18:13:02] Titanovsky teleported to Bot01
+[18:13:09] Titanovsky killed Bot01 using player
+[18:18:42] Titanovsky teleported to Bot02
+[18:18:46] Titanovsky killed Bot02 using player
+[18:19:33] Titanovsky brought Bot01
+[18:19:37] Titanovsky killed Bot01 using player
+[18:20:32] Titanovsky returned Bot01 to their original position
+[18:20:32] Titanovsky brought Bot01
+[18:39:31] Titanovsky brought Bot02
+[18:39:38] Titanovsky killed Bot02 using player
+[18:40:23] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/concrete_barrier001a.mdl
+[18:40:23] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:34:16] Server is shutting down/changing levels.
+
+
+
+[19:34:37] New map: gm_rus
+[19:34:49] Client "Titanovsky" connected.
+[19:35:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[19:36:09] Titanovsky<STEAM_0:1:95303327> spawned model models/props_borealis/mooring_cleat01.mdl
+[20:28:48] Client "ExtraDipus" connected.
+[20:29:58] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 70 seconds).
+[20:36:15] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:39:51] Client "ExtraDipus" connected.
+[20:40:54] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 63 seconds).
+[20:42:26] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:43:26] Client "ExtraDipus" connected.
+[20:44:13] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 47 seconds).
+[20:44:39] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:45:03] Client "ExtraDipus" connected.
+[20:45:47] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 44 seconds).
+[20:47:09] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:47:28] Client "ExtraDipus" connected.
+[20:48:15] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 47 seconds).
+[20:53:56] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:54:53] Client "ExtraDipus" connected.
+[20:55:36] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 43 seconds).
+[20:58:35] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[21:03:01] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:03:01] Client "Titanovsky" connected.
+[21:03:12] Client "ExtraDipus" connected.
+[21:03:15] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[21:04:00] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 48 seconds).
+[21:04:39] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[21:04:51] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:05:09] Client "Titanovsky" connected.
+[21:05:23] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[21:10:52] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:10:53] Client "Titanovsky" connected.
+[21:11:07] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[21:33:46] Server is shutting down/changing levels.
+
+
+
+[21:34:07] New map: gm_rus
+[21:34:38] Client "Titanovsky" connected.
+[21:34:53] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 15 seconds).
+[21:37:36] Titanovsky suicided!
+[21:37:51] Titanovsky suicided!
+[21:37:53] (Console) removed rank from Titanovsky
+[21:39:34] Titanovsky: /puka
+[21:39:34] (Console) added Titanovsky to group superadmin on 1 days
+[21:39:52] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:39:53] Client "Titanovsky" connected.
+[21:40:08] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 15 seconds).
+[21:41:58] (SILENT) Titanovsky ran rcon command: bot
+[21:41:58] Client "Bot01" connected.
+[21:41:58] Client "Bot01" spawned in server <BOT> (took 473 seconds).
+[21:41:58] (SILENT) Titanovsky ran rcon command: bot
+[21:41:58] Client "Bot02" connected.
+[21:41:58] Client "Bot02" spawned in server <BOT> (took 473 seconds).
+[21:41:58] (SILENT) Titanovsky ran rcon command: bot
+[21:41:58] Client "Bot03" connected.
+[21:41:58] Client "Bot03" spawned in server <BOT> (took 473 seconds).
+[21:41:59] (SILENT) Titanovsky ran rcon command: bot
+[21:41:59] Client "Bot04" connected.
+[21:41:59] Client "Bot04" spawned in server <BOT> (took 474 seconds).
+[21:41:59] (SILENT) Titanovsky ran rcon command: bot
+[21:41:59] Client "Bot05" connected.
+[21:41:59] Client "Bot05" spawned in server <BOT> (took 474 seconds).
+[21:41:59] (SILENT) Titanovsky ran rcon command: bot
+[21:41:59] Client "Bot06" connected.
+[21:41:59] Client "Bot06" spawned in server <BOT> (took 474 seconds).
+[21:41:59] (SILENT) Titanovsky ran rcon command: bot
+[21:41:59] Client "Bot07" connected.
+[21:41:59] Client "Bot07" spawned in server <BOT> (took 474 seconds).
+[21:42:00] (SILENT) Titanovsky ran rcon command: bot
+[21:42:00] Client "Bot08" connected.
+[21:42:00] Client "Bot08" spawned in server <BOT> (took 475 seconds).
+[21:42:08] Titanovsky teleported to Bot04
+[21:45:17] Titanovsky suicided!
+[21:45:49] Titanovsky suicided!
+[21:46:05] Titanovsky suicided!
+[21:46:17] Titanovsky suicided!
+[21:52:18] Titanovsky<STEAM_0:1:95303327> spawned sent item_ammo_357
+[21:52:59] Titanovsky<STEAM_0:1:95303327> spawned sent item_ammo_357
+[21:53:00] Titanovsky<STEAM_0:1:95303327> spawned sent edit_fog
+[21:53:03] Titanovsky<STEAM_0:1:95303327> spawned sent amb_npc_job_employer
+[21:55:51] Titanovsky<STEAM_0:1:95303327> spawned sent amb_npc_job_employer
+[21:55:55] Titanovsky<STEAM_0:1:95303327> spawned sent amb_npc_job_employer
+[21:55:59] Titanovsky<STEAM_0:1:95303327> spawned sent amb_npc_job_employer
+[21:59:43] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/column02a.mdl
+[23:29:05] Titanovsky<STEAM_0:1:95303327> spawned model models/props_junk/plasticcrate01a.mdl
+[23:29:06] Titanovsky<STEAM_0:1:95303327> spawned model models/props_junk/plasticcrate01a.mdl
+[23:29:07] Titanovsky<STEAM_0:1:95303327> spawned model models/props_junk/plasticcrate01a.mdl
+[23:46:07] Server is shutting down/changing levels.
+
+
+
+[23:46:27] New map: gm_rus
+[23:47:46] Client "Titanovsky" connected.
+[23:48:01] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 15 seconds).
+[23:53:57] Server is shutting down/changing levels.
+
+
+
+[23:54:17] New map: gm_rus
+[23:55:46] Client "Titanovsky" connected.
+[23:56:00] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[23:58:31] (SILENT) Titanovsky ran rcon command: lua_reloadents
+[23:59:19] Server is shutting down/changing levels.
+
+
+
+[23:59:39] New map: gm_rus
+<Logging continued in "data/ulx_logs/08-01-20.txt">

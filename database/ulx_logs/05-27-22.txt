@@ -1,0 +1,531 @@
+<Logging continued from "data/ulx_logs/05-26-22.txt">
+[05:05:05] Server is shutting down/changing levels.
+
+
+
+[05:06:54] New map: gm_construct
+[08:05:54] Client "ref.akk.87" connected.
+[08:08:19] Client "ref.akk.87" spawned in server <STEAM_0:1:639930687> (took 145 seconds).
+[08:10:31] Dropped "ref.akk.87" from server<STEAM_0:1:639930687>
+[08:53:00] Client "strelok120387" connected.
+[12:00:16] Client "strelok120387" connected.
+[12:00:49] Client "strelok120387" connected.
+[12:01:10] Client "strelok120387" connected.
+[13:24:34] Client "Vort_HL2" connected.
+[15:09:40] Client "Панос мамонта." connected.
+[15:17:51] Client "Панос мамонта." spawned in server <STEAM_0:0:627806111> (took 491 seconds).
+[15:18:53] Панос мамонта: ambi_hud_rus 2
+[15:26:40] Client "Arkticoo1" connected.
+[15:29:31] Client "Miku" connected.
+[15:30:51] Client "Miku" spawned in server <STEAM_0:0:448732644> (took 80 seconds).
+[15:31:27] ♫-Miku-♫: !menu
+[15:32:27] Dropped "♫-Miku-♫" from server<STEAM_0:0:448732644>
+[15:39:37] Панос мамонта<STEAM_0:0:627806111> spawned model models/kunoszeug/bunkerhaus.mdl
+[15:40:02] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_questionableethics/smoking_boots_right.mdl
+[15:40:13] Панос мамонта suicided!
+[15:42:10] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:42:13] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:42:17] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_lab/blastdoor001c.mdl
+[15:42:26] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_lab/blastdoor001c.mdl
+[15:42:30] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_lab/blastdoor001c.mdl
+[15:43:06] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_lab/blastdoor001c.mdl
+[15:43:21] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:23] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:25] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:27] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:29] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:31] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:35] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:37] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:39] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:43:41] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:44:49] Client "Не люблю проблемы" connected.
+[15:45:39] Dropped "Панос мамонта" from server<STEAM_0:0:627806111>
+[15:45:44] Client "Панос мамонта." connected.
+[15:46:47] Client "Панос мамонта." spawned in server <STEAM_0:0:627806111> (took 63 seconds).
+[15:47:04] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:10] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:15] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:22] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:24] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:28] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:39] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:43] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:46] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:50] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:53] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:55] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:47:56] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:00] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:10] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:12] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:45] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:50] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:53] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:48:56] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:05] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:09] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:22] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:24] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:28] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:31] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:49:32] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:37] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:40] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:45] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:49:46] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:48] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:51] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:52] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:55] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:49:57] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:50:01] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:50:04] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:50:06] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:50:08] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:50:10] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:15] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:18] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:20] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:23] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:38] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:41] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:43] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:51:44] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:46] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:48] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:50] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:52] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:55] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:57] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:51:59] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:52:00] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_wasteland/cargo_container01.mdl
+[15:52:07] Панос мамонта<STEAM_0:0:627806111> spawned model models/props_phx/huge/evildisc_corp.mdl
+[15:52:31] Панос мамонта<STEAM_0:0:627806111> spawned model models/maxofs2d/logo_gmod_b.mdl
+[15:52:55] Панос мамонта<STEAM_0:0:627806111> spawned model models/maxofs2d/construct_sign.mdl
+[15:53:07] Панос мамонта<STEAM_0:0:627806111> spawned model models/maxofs2d/construct_sign.mdl
+[15:53:15] Панос мамонта<STEAM_0:0:627806111> spawned model models/maxofs2d/construct_sign.mdl
+[15:53:44] Server is shutting down/changing levels.
+
+
+
+[15:54:28] New map: gm_bigcity_winter
+[15:55:21] Client "егор" connected.
+[15:56:01] Client "Панос мамонта." spawned in server <STEAM_0:0:627806111> (took 112 seconds).
+[15:56:36] Dropped "Панос мамонта" from server<STEAM_0:0:627806111>
+[15:57:05] Client "Панос мамонта." connected.
+[15:58:08] Client "Панос мамонта." spawned in server <STEAM_0:0:627806111> (took 63 seconds).
+[15:59:44] (TEAM) Панос мамонта: !meny
+[16:00:00] Панос мамонта: !memy
+[16:00:10] Client "Ŧгคภzคค" connected.
+[16:02:06] Client "You_bot=)" connected.
+[16:04:01] Панос мамонта: !memu
+[16:04:49] Панос мамонта<STEAM_0:0:627806111> spawned sent crackers
+[16:04:50] Панос мамонта<STEAM_0:0:627806111> spawned sent crackers
+[16:05:01] Панос мамонта<STEAM_0:0:627806111> spawned sent icecream
+[16:05:07] Панос мамонта<STEAM_0:0:627806111> spawned sent vodka
+[16:05:18] Панос мамонта<STEAM_0:0:627806111> spawned sent tyla
+[16:05:23] Панос мамонта<STEAM_0:0:627806111> spawned sent cucumbers
+[16:05:41] Панос мамонта<STEAM_0:0:627806111> spawned sent blini
+[16:05:49] Панос мамонта<STEAM_0:0:627806111> spawned sent mangal
+[16:05:54] Панос мамонта<STEAM_0:0:627806111> spawned sent shampur
+[16:05:55] Панос мамонта<STEAM_0:0:627806111> spawned sent shampur
+[16:06:28] Панос мамонта<STEAM_0:0:627806111> spawned sent tea
+[16:06:34] Панос мамонта<STEAM_0:0:627806111> spawned sent sausage
+[16:06:39] Панос мамонта<STEAM_0:0:627806111> spawned sent sausage
+[16:06:42] Панос мамонта<STEAM_0:0:627806111> spawned sent baltika3
+[16:06:43] Панос мамонта<STEAM_0:0:627806111> spawned sent baltika3
+[16:06:43] Панос мамонта<STEAM_0:0:627806111> spawned sent baltika3
+[16:07:04] Панос мамонта<STEAM_0:0:627806111> spawned model models/props/d_building_bar_1.mdl
+[16:07:07] Панос мамонта<STEAM_0:0:627806111> spawned model models/props/d_building_bar_1.mdl
+[16:07:14] Панос мамонта<STEAM_0:0:627806111> spawned model models/kunoszeug/traumwohnung-stein.mdl
+[16:07:21] Client "gnompz" connected.
+[16:10:37] Dropped "Панос мамонта" from server<STEAM_0:0:627806111>
+[16:13:03] Client "gnompz" spawned in server <STEAM_0:0:31119478> (took 342 seconds).
+[16:15:34] gnompz<STEAM_0:0:31119478> spawned sent arccw_ammo_smg1_grenade
+[16:15:37] gnompz<STEAM_0:0:31119478> spawned sent arccw_ammo_smg1_grenade
+[16:15:39] gnompz<STEAM_0:0:31119478> spawned sent arccw_ammo_smg1_grenade
+[16:15:41] gnompz<STEAM_0:0:31119478> spawned sent arccw_ammo_smg1_grenade
+[16:15:43] gnompz<STEAM_0:0:31119478> spawned sent arccw_ammo_smg1_grenade
+[16:15:49] gnompz<STEAM_0:0:31119478> spawned model models/props_c17/playground_carousel01.mdl
+[16:15:51] gnompz<STEAM_0:0:31119478> spawned model models/props_c17/playground_carousel01.mdl
+[16:15:54] gnompz<STEAM_0:0:31119478> spawned model models/props_c17/playground_carousel01.mdl
+[16:16:00] gnompz<STEAM_0:0:31119478> spawned model models/props_c17/playground_carousel01.mdl
+[16:16:02] gnompz<STEAM_0:0:31119478> spawned model models/props_c17/playground_carousel01.mdl
+[16:16:09] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube6x6x025.mdl
+[16:16:10] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:12] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:13] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:14] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:15] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:15] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:16] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:17] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:17] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:21] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:23] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:25] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:16:27] gnompz<STEAM_0:0:31119478> spawned model models/hunter/blocks/cube8x8x8.mdl
+[16:17:42] Dropped "gnompz" from server<STEAM_0:0:31119478>
+[17:03:41] Server is shutting down/changing levels.
+
+
+
+[17:04:25] New map: gm_novenka_opti
+[17:05:21] Client "Titanovsky" connected.
+[17:07:02] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 101 seconds).
+[17:25:19] Client "gorlovgleb173" connected.
+[17:25:40] Client "DOTAPLAYER" connected.
+[17:32:22] Client "DOTAPLAYER" connected.
+[17:39:31] Client "Miku" connected.
+[17:40:15] Client "Miku" spawned in server <STEAM_0:0:448732644> (took 44 seconds).
+[17:41:20] Titanovsky: /tts привет, микус
+[17:41:32] ♫-Miku-♫: привет
+[17:41:46] ♫-Miku-♫: !menu
+[17:44:38] ♫-Miku-♫<STEAM_0:0:448732644> spawned sent item_battery
+[17:44:41] ♫-Miku-♫: /pvp
+[17:44:43] ♫-Miku-♫<STEAM_0:0:448732644> spawned sent item_battery
+[17:44:51] (SILENT) Titanovsky ran rcon command: bot
+[17:44:51] Client "Bot01" connected.
+[17:44:51] Client "Bot01" spawned in server <BOT> (took 2445 seconds).
+[17:44:52] (SILENT) Titanovsky ran rcon command: bot
+[17:44:52] Client "Bot02" connected.
+[17:44:52] Client "Bot02" spawned in server <BOT> (took 2446 seconds).
+[17:45:12] ♫-Miku-♫<STEAM_0:0:448732644> spawned sent arccw_ammo_smg1_grenade_large
+[17:45:15] ♫-Miku-♫<STEAM_0:0:448732644> spawned sent item_battery
+[17:45:32] ♫-Miku-♫ set the hp for Themself to 1000000
+[17:45:32] ♫-Miku-♫: !hp ^ 1000000
+[17:46:48] Dropped "♫-Miku-♫" from server<STEAM_0:0:448732644>
+[17:59:49] Client "metaxxa15" connected.
+[18:00:17] Client "metaxxa15" connected.
+[18:11:25] Client "Miku" connected.
+[18:12:07] Client "Miku" spawned in server <STEAM_0:0:448732644> (took 42 seconds).
+[18:16:31] Titanovsky: Я спатки
+[18:17:05] Client "metaxxa15" spawned in server <STEAM_0:0:537677240> (took 1008 seconds).
+[18:18:30] Client "GoldFish" connected.
+[18:24:00] Dropped "metaxxa15" from server<STEAM_0:0:537677240>
+[18:24:27] Dropped "♫-Miku-♫" from server<STEAM_0:0:448732644>
+[18:24:44] Client "GoldFish" spawned in server <STEAM_0:1:204825860> (took 374 seconds).
+[18:25:31] GoldFish suicided!
+[18:26:25] GoldFish: ambi_hud_rus 2
+[18:28:16] GoldFish suicided!
+[18:28:22] GoldFish suicided!
+[18:28:27] GoldFish suicided!
+[18:29:11] GoldFish suicided!
+[18:30:20] GoldFish: !pvp
+[18:30:50] Dropped "GoldFish" from server<STEAM_0:1:204825860>
+[19:06:26] Client "АнАкОнДа_еже" connected.
+[19:07:50] Client "АнАкОнДа_еже" spawned in server <STEAM_0:1:591659394> (took 84 seconds).
+[19:08:08] АнАкОнДа_еже: plfhjd
+[19:08:16] АнАкОнДа_еже: /tts on
+[19:08:19] АнАкОнДа_еже: вэ
+[19:08:26] АнАкОнДа_еже: здаров
+[19:09:00] АнАкОнДа_еже<STEAM_0:1:591659394> spawned sent sinv_loot
+[19:09:00] АнАкОнДа_еже<STEAM_0:1:591659394> spawned sent sinv_loot
+[19:09:36] АнАкОнДа_еже: титан
+[19:09:43] АнАкОнДа_еже: ты тут?
+[19:10:03] АнАкОнДа_еже: о
+[19:10:05] АнАкОнДа_еже: нашел
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate05.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate075.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate05.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/plates/plate075.mdl
+[19:10:08] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/hunter/blocks/cube075x075x025.mdl
+[19:11:56] АнАкОнДа_еже suicided!
+[19:13:41] АнАкОнДа_еже: пон
+[19:13:46] АнАкОнДа_еже: титан в афк
+[19:14:39] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x60.mdl
+[19:14:39] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:39] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_3/dome_36x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/trans/wheel_a/t_wheel20.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/triangles/right/size_1/rtri_12x66.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_4/cylinder_9x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x30x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cuboids/height06/size_2/cube_12x18x6.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_2_5/rect_18x60x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/tube_48x54.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_2/tube_24x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned vehicle models/nova/jeep_seat.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/q_tube_48x30.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_1/dome_12x24.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x78x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x30x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x54x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_2_5/rect_18x60x3.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x12.mdl
+[19:14:40] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_36.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_3/dome_36x144.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x60x3.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/qring_96.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/trans/wheel_a/t_wheel20.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_3/dome_36x144.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/qring_96.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/tube_48x54.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x60x3.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_1/dome_12x24.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_1_5/rect_6x30x3.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/hdisc_96.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x12.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/hdisc_84.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x72x3.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_84/rect_84x240x3.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x30.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/hdisc_96.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cuboids/height06/size_2/cube_12x18x6.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x24.mdl
+[19:14:41] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/triangles/right/size_2/rtri_24x24.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_2_5/rect_18x18x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x30x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_1/rect_3x18x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_4/cylinder_9x48.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/trans/wheel_a/t_wheel20.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/qring_108.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x30.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x24.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_3/cylinder_6x30.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_108.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_3/cylinder_6x30.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x78x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_3/dome_36x24.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/tube_48x54.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_2/tube_24x24.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_4/rect_36x66x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/q_tube_48x30.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_1/rect_3x18x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_2_5/rect_18x18x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/tube_48x54.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x60x3.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x72.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x24.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x12.mdl
+[19:14:42] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_3/cylinder_6x30.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cuboids/height12/size_3/cube_36x18x12.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x78x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x54x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x60.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/qring_108.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/hring_120.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_4/rect_36x66x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_2/cylinder_3x24.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/hdisc_96.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x60x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x54.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_1_5/rect_6x30x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x24.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/trans/wheel_a/t_wheel20.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/cylinders/size_4/cylinder_9x24.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/triangles/right/size_1/rtri_12x66.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_108.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3_5/rect_30x60x3.mdl
+[19:14:43] АнАкОнДа_еже<STEAM_0:1:591659394> spawned vehicle models/nova/jeep_seat.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_4/tube_48x54.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_4/dome_48x144.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/domes/size_3/dome_36x144.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x72x3.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/geometry/sphere_36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_5/q_tube_96x36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/misc/tubes/size_3/tube_36x36.mdl
+[19:14:44] АнАкОнДа_еже<STEAM_0:1:591659394> spawned model models/sprops/rectangles/size_3/rect_24x30x3.mdl
+[19:16:09] АнАкОнДа_еже: титан послание на  будущее
+[19:16:23] АнАкОнДа_еже: на русе уже скучно
+[19:16:36] АнАкОнДа_еже: приходится искать другие сервераэ
+[19:16:50] АнАкОнДа_еже: сорри чт одолго незахожу
+[19:16:52] АнАкОнДа_еже: пока
+[19:16:58] Dropped "АнАкОнДа_еже" from server<STEAM_0:1:591659394>
+[19:17:15] Client "ancaboricean47" connected.
+[19:24:38] Client "Synorexia" connected.
+[19:57:49] Client "4eRniY_AnG3L" connected.
+[20:00:22] Client "i told youx-" connected.
+[20:14:06] Client "i told youx-" spawned in server <STEAM_0:1:439853716> (took 824 seconds).
+[20:14:58] i told youx-<STEAM_0:1:439853716> spawned model models/maxofs2d/balloon_mossman.mdl
+[20:18:38] i told youx-<STEAM_0:1:439853716> spawned sent item_healthvial
+[20:18:56] i told youx-<STEAM_0:1:439853716> spawned sent mediaplayer_gta_cctv
+[20:18:56] i told youx-<STEAM_0:1:439853716> spawned sent mediaplayer_gta_cctv
+[20:19:52] i told youx-<STEAM_0:1:439853716> spawned sent ent_dvtaxi_station
+[20:20:28] i told youx-<STEAM_0:1:439853716> spawned sent item_rpg_round
+[20:20:57] i told youx-<STEAM_0:1:439853716> spawned sent gmod_sent_vehicle_fphysics_gaspump
+[20:21:37] i told youx-<STEAM_0:1:439853716> spawned sent acwatt_fcg_accelerator
+[20:21:37] i told youx-<STEAM_0:1:439853716> spawned sent acwatt_fcg_accelerator
+[20:21:38] i told youx-<STEAM_0:1:439853716> spawned sent acwatt_fcg_accelerator
+[20:21:53] Dropped "i told youx-" from server<STEAM_0:1:439853716>
+[20:37:02] Client "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" connected.
+[20:41:10] Client "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" spawned in server <STEAM_0:0:550419488> (took 248 seconds).
+[20:43:05] Dropped "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" from server<STEAM_0:0:550419488>
+[20:44:24] Client "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" connected.
+[20:45:18] Client "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" spawned in server <STEAM_0:0:550419488> (took 54 seconds).
+[20:45:57] ₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ: ambi_hud_rus 2
+[20:46:36] ₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ: /ambi_hud_rus 2
+[20:46:50] Dropped "₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ" from server<STEAM_0:0:550419488>
+[20:55:34] Client "grinya-kumari" connected.
+[20:59:20] Client "strelok120387" connected.
+[21:05:51] Client "grinya-kumari" spawned in server <STEAM_0:0:456632945> (took 617 seconds).
+[21:10:42] grinya-kumari<STEAM_0:0:456632945> spawned sent alenka
+[21:11:09] grinya-kumari<STEAM_0:0:456632945> spawned sent pelmeni
+[21:11:57] grinya-kumari<STEAM_0:0:456632945> spawned sent crackers
+[21:12:18] grinya-kumari<STEAM_0:0:456632945> spawned sent acwatt_muzz_circlechoke
+[21:12:45] grinya-kumari<STEAM_0:0:456632945> spawned sent mediaplayer_gta_audio_system
+[21:13:28] grinya-kumari<STEAM_0:0:456632945> spawned sent bread
+[21:13:47] grinya-kumari<STEAM_0:0:456632945> spawned sent buckwheat
+[21:13:49] grinya-kumari<STEAM_0:0:456632945> spawned sent olive
+[21:16:15] Dropped "grinya-kumari" from server<STEAM_0:0:456632945>
+[21:37:10] Client "Dimaks" connected.
+[21:38:00] Client "Dimaks" spawned in server <STEAM_0:1:521606996> (took 50 seconds).
+[21:38:30] Dimaks<STEAM_0:1:521606996> spawned vehicle models/gta_sa/sport cars/windsor.mdl
+[21:39:49] Dropped "Dimaks" from server<STEAM_0:1:521606996>
+[23:08:22] Client "ilia.game007" connected.
+[23:10:26] Client "ilia.game007" spawned in server <STEAM_0:1:538822796> (took 124 seconds).
+[23:11:50] Titanovsky: /hud 2
+[23:11:51] Titanovsky: /hud 1
+[23:18:36] ilia.game007<STEAM_0:1:538822796> spawned effect models/alyxmask.mdl
+[23:18:50] ilia.game007<STEAM_0:1:538822796> spawned effect models/barneyhelmet.mdl
+[23:18:54] ilia.game007<STEAM_0:1:538822796> spawned effect models/breen_monitor.mdl
+[23:19:15] ilia.game007<STEAM_0:1:538822796> spawned model models/c_house5.mdl
+[23:19:20] ilia.game007<STEAM_0:1:538822796> spawned model models/c_house3.mdl
+[23:19:22] ilia.game007<STEAM_0:1:538822796> spawned model models/c_house5.mdl
+[23:19:24] ilia.game007<STEAM_0:1:538822796> spawned model models/c_townhall.mdl
+[23:19:31] ilia.game007<STEAM_0:1:538822796> spawned model models/combine_apc.mdl
+[23:19:34] ilia.game007<STEAM_0:1:538822796> spawned model models/combine_apc.mdl
+[23:19:36] ilia.game007<STEAM_0:1:538822796> spawned model models/combine_apc_destroyed_gib01.mdl
+[23:19:43] ilia.game007<STEAM_0:1:538822796> spawned model models/combine_helicopter.mdl
+[23:19:57] ilia.game007<STEAM_0:1:538822796> spawned model models/gaz66k(e34d-fsd2-fn2j).mdl
+[23:20:01] ilia.game007<STEAM_0:1:538822796> spawned model models/gaz66(e34d-fsd2-fn2j).mdl
+[23:20:23] ilia.game007<STEAM_0:1:538822796> spawned effect models/player.mdl
+[23:20:34] Client "максим аганим" connected.
+[23:20:47] Dropped "ilia.game007" from server<STEAM_0:1:538822796>
+[23:29:47] Client "максим аганим" spawned in server <STEAM_0:0:530821875> (took 553 seconds).
+[23:30:00] Titanovsky ran ambi_hud_rus 2 on максим аганим
+[23:30:44] максим аганим: /build
+[23:34:05] максим аганим: /pvp
+[23:35:32] максим аганим: /build
+[23:38:16] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:25] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:28] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:29] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:30] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:38:43] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:38:46] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:38:59] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:39:06] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:39:14] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:39:15] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trashdumpster01a.mdl
+[23:39:33] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/rectangles/size_1/rect_3x192x3.mdl
+[23:39:36] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/rectangles/size_1/rect_3x3x3.mdl
+[23:39:52] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/rectangles/size_1/rect_3x60x3.mdl
+[23:39:55] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/rectangles/size_1/rect_3x6x3.mdl
+[23:40:09] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/triangles/right/size_0/rtri_3x72.mdl
+[23:40:16] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:40:20] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:40:28] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube025x1x025.mdl
+[23:40:49] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:40:51] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:42:54] максим аганим<STEAM_0:0:530821875> spawned model models/props_c17/door02_double.mdl
+[23:42:57] максим аганим<STEAM_0:0:530821875> spawned model models/props_c17/fence01a.mdl
+[23:43:49] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube2x3x025.mdl
+[23:43:52] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube2x3x025.mdl
+[23:43:55] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/blocks/cube4x8x025.mdl
+[23:43:57] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/plates/plate1x1.mdl
+[23:44:00] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/plates/plate1x2.mdl
+[23:44:01] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/plates/plate1x3.mdl
+[23:46:12] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2xt.mdl
+[23:46:29] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube1x1x1.mdl
+[23:46:53] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube1x1x2.mdl
+[23:47:06] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tubebend1x1x90.mdl
+[23:48:04] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/plates/platehole2x2.mdl
+[23:48:11] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/plates/platehole2x2.mdl
+[23:50:14] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x2.mdl
+[23:50:16] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[23:50:17] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x2.mdl
+[23:50:18] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[23:50:19] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x025c.mdl
+[23:50:20] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x025b.mdl
+[23:50:21] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x025.mdl
+[23:50:22] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2xta.mdl
+[23:50:24] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x05c.mdl
+[23:50:25] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x8c.mdl
+[23:50:27] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x8c.mdl
+[23:51:07] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x8c.mdl
+[23:52:45] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/misc/stair1x1outside.mdl
+[23:53:14] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/misc/roundthing1.mdl
+[23:53:32] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/misc/roundthing1.mdl
+[23:54:57] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/mechanics/sgears/spur_12t_s.mdl
+[23:55:02] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/mechanics/sgears/spur_96t_l.mdl
+[23:55:09] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/mechanics/sgears/spur_96t_l.mdl
+[23:56:33] максим аганим<STEAM_0:0:530821875> spawned model models/sprops/cuboids/height06/size_1/cube_6x6x6.mdl
+[23:56:48] максим аганим<STEAM_0:0:530821875> spawned model models/xqm/jetbody3_s2.mdl
+[23:56:51] максим аганим<STEAM_0:0:530821875> spawned model models/xqm/jetbody3_s2.mdl
+[23:57:09] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x3.mdl
+[23:57:12] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x3.mdl
+[23:57:14] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube4x4x3.mdl
+[23:57:20] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x1.mdl
+[23:57:44] максим аганим<STEAM_0:0:530821875> spawned model models/hunter/tubes/tube2x2x1.mdl
+[23:58:06] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:58:12] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/trafficcone001a.mdl
+[23:58:14] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:58:18] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:22] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:24] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:28] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:29] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001c.mdl
+[23:58:35] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:36] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:37] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:39] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:41] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:58:43] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+[23:59:15] максим аганим<STEAM_0:0:530821875> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:59:18] максим аганим<STEAM_0:0:530821875> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:59:19] максим аганим<STEAM_0:0:530821875> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:59:22] максим аганим<STEAM_0:0:530821875> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:59:23] максим аганим<STEAM_0:0:530821875> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:59:31] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/wood_crate002a.mdl
+[23:59:34] максим аганим<STEAM_0:0:530821875> spawned model models/props_junk/wood_crate002a.mdl
+[23:59:51] максим аганим<STEAM_0:0:530821875> spawned model models/props_lab/blastdoor001b.mdl
+<Logging continued in "data/ulx_logs/05-28-22.txt">

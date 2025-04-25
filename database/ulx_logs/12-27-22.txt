@@ -1,0 +1,45 @@
+<Logging continued from "data/ulx_logs/12-26-22.txt">
+[00:09:13] Client "Titanovsky" connected.
+[00:12:31] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 198 seconds).
+[00:13:20] Титантра изменил время суток на Ночное Рождество
+[00:14:59] Титантра<STEAM_0:1:95303327> spawned model models/props_c17/chair02a.mdl
+[07:19:29] Dropped "Титантра" from server<STEAM_0:1:95303327>
+[17:19:56] Client "бывалый(m8)" connected.
+[19:37:34] Client "Terbiili" connected.
+[20:42:12] Client "!Мунли" connected.
+[21:52:48] Client "ExtraDipus" connected.
+[21:57:35] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 287 seconds).
+[21:58:54] ExtraDipus изменил время суток на Ночное Рождество
+[21:58:56] ExtraDipus изменил время суток на День
+[21:59:10] ExtraDipus изменил время суток на Закат
+[21:59:15] ExtraDipus изменил время суток на Ночь
+[21:59:31] ExtraDipus остановил смену карты
+[21:59:44] ExtraDipus запустил (попытался) голосование на смену карты
+[22:01:03] Server is shutting down/changing levels.
+
+
+
+[22:02:23] New map: gm_novenka_opti_xmas
+[22:05:15] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 227 seconds).
+[22:07:11] ExtraDipus изменил время суток на Ночь
+[22:10:38] ExtraDipus изменил время суток на Ночное Рождество
+[22:10:49] ExtraDipus<STEAM_0:0:164590602> spawned sent edit_sky
+[22:15:32] ExtraDipus изменил время суток на Ночь
+[22:15:59] ExtraDipus изменил время суток на Закат
+[22:16:16] ExtraDipus изменил время суток на Ночное Рождество
+[22:16:34] ExtraDipus изменил время суток на Ночь
+[22:19:59] ExtraDipus: /content
+[22:31:05] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[22:31:15] Client "ExtraDipus" connected.
+[22:33:55] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 160 seconds).
+[22:36:39] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[22:41:59] Client "ExtraDipus" connected.
+[22:45:02] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 183 seconds).
+[22:49:42] ExtraDipus изменил время суток на Закат
+[22:49:54] ExtraDipus изменил время суток на День
+[22:50:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/metalladder003.mdl
+[22:50:29] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_canal/bridge_pillar02.mdl
+[22:50:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x1.mdl
+[22:50:45] ExtraDipus изменил время суток на Закат
+[22:50:51] ExtraDipus изменил время суток на Ночь
+<Logging continued in "data/ulx_logs/12-28-22.txt">

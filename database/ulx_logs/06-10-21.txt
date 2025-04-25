@@ -1,0 +1,144 @@
+<Logging continued from "data/ulx_logs/06-09-21.txt">
+[00:07:45] ExtraDipus пригласил Бота на чай
+[00:07:45] Client "Bot01" connected.
+[00:07:45] Client "Bot01" spawned in server <BOT> (took 16867 seconds).
+[00:07:45] Bot01 suicided!
+[00:07:45] ExtraDipus пригласил Бота на чай
+[00:07:45] Client "Bot02" connected.
+[00:07:45] Client "Bot02" spawned in server <BOT> (took 16867 seconds).
+[00:07:45] Bot02 suicided!
+[00:07:46] ExtraDipus пригласил Бота на чай
+[00:07:46] Client "Bot03" connected.
+[00:07:46] Client "Bot03" spawned in server <BOT> (took 16868 seconds).
+[00:07:46] Bot03 suicided!
+[00:08:47] ExtraDipus<STEAM_0:0:164590602> spawned NPC npc_monk
+[00:09:10] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x2x025.mdl
+[00:10:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x05.mdl
+[00:10:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube2x3x025.mdl
+[00:10:40] ExtraDipus: 1000
+[00:10:48] ExtraDipus set the hp for Bot01,Bot02,Bot03 to 99
+[00:10:57] ExtraDipus brought Bot01,Bot02,Bot03
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x2x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/chair_stool01a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x8x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x8.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x8x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch01a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate3x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube4x6x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate3x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch01a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate8x8.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x8.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x16.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x1x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube4x6x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x4x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate8x8.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube4x6x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x4x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x4x025.mdl
+[00:12:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x16.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x1x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x2x05.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x4x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x1x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x8.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/chair_stool01a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/chair_stool01a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x3x1.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x16.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x05.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_phx/construct/windows/window2x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x16.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_interiors/furniture_couch02a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate8x16.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x8.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/chair_stool01a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate3x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x2.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate8x8.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate3x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x3x1.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate2x4.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x1.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/chair_stool01a.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate16x16.mdl
+[00:12:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x025.mdl
+[00:13:23] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[00:13:23] Dropped "Bot01" from server<BOT>
+[00:13:23] Dropped "Bot02" from server<BOT>
+[00:13:23] Dropped "Bot03" from server<BOT>
+[06:05:08] Server is shutting down/changing levels.
+
+
+
+[06:06:29] New map: gm_construct
+[06:33:56] Server is shutting down/changing levels.
+
+
+
+[06:49:54] New map: gm_construct
+[09:48:34] Server is shutting down/changing levels.

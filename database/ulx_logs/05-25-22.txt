@@ -1,0 +1,500 @@
+<Logging continued from "data/ulx_logs/05-24-22.txt">
+[05:05:06] Server is shutting down/changing levels.
+
+
+
+[05:06:52] New map: gm_construct
+[13:12:17] Client "Lazy" connected.
+[13:12:34] Client "Lazy" connected.
+[15:16:36] Client "rikbes666" connected.
+[15:22:11] Client "rikbes666" spawned in server <STEAM_0:1:563558148> (took 335 seconds).
+[15:23:25] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/aircan.mdl
+[15:23:27] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/aircan.mdl
+[15:23:36] rikbes666<STEAM_0:1:563558148> spawned model models/props_lab/retinalscanner.mdl
+[15:24:50] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:50] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:51] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:52] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:52] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:55] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:56] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:57] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:57] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:58] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:58] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:24:59] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:25:00] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:25:01] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:25:02] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:25:02] rikbes666<STEAM_0:1:563558148> spawned model models/props_office/sofa_casual.mdl
+[15:25:20] Dropped "rikbes666" from server<STEAM_0:1:563558148>
+[16:48:15] Server is shutting down/changing levels.
+
+
+
+[16:49:00] New map: gm_novenka_opti
+[16:52:20] Client "deoch" connected.
+[16:54:25] Client "deoch" connected.
+[17:04:01] Server is shutting down/changing levels.
+
+
+
+[17:04:47] New map: gm_functional_flatgrass3
+[17:12:57] Server is shutting down/changing levels.
+
+
+
+[17:17:01] New map: gm_construct
+[17:17:27] Server is shutting down/changing levels.
+
+
+
+[17:18:30] New map: gm_functional_flatgrass3
+[17:21:41] Client "Titanovsky" connected.
+[17:24:21] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 160 seconds).
+[17:25:59] (SILENT) Titanovsky ran rcon command: bot
+[17:26:00] Client "Bot01" connected.
+[17:26:00] Client "Bot01" spawned in server <BOT> (took 489 seconds).
+[17:26:00] (SILENT) Titanovsky ran rcon command: bot
+[17:26:00] Client "Bot02" connected.
+[17:26:00] Client "Bot02" spawned in server <BOT> (took 489 seconds).
+[17:54:31] Client "HARALDS341" connected.
+[18:01:57] Client "MisMis" connected.
+[18:21:39] Client "TAPOK69" connected.
+[18:22:27] Client "DELNo_" connected.
+[18:23:30] Client "TAPOK69" spawned in server <STEAM_0:1:124662869> (took 111 seconds).
+[18:24:44] Titanovsky<STEAM_0:1:95303327> spawned sent edit_sky
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_canal/winch02b.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetbody2cockpitbig.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelshard01b.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01a.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01d.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01f.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01d.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk02e.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01b.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01a.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetbody2fuselagebig.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01b.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetwing2sizable.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01b.mdl
+[18:27:18] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetbody2tailpiecebig.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetbody2wingrootbbig.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01g.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01g.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01b.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01c.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01d.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_lab/cactus.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01c.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/tv_monitor01.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01a.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/gibs/metal_gib1.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/xqm/jetwing2sizable.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01d.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/gibs/airboat_broken_engine.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/gibs/manhack_gib03.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned vehicle models/nova/jeep_seat.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelshard01d.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/consolebox05a.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01f.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/consolebox03a.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelshard01d.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_debris/metal_panelchunk01e.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_junk/vent001_chunk6.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_junk/vent001_chunk4.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01e.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/oildrumchunk01e.mdl
+[18:27:19] ❖TAPOK69❖<STEAM_0:1:124662869> spawned model models/props_c17/consolebox01a.mdl
+[18:27:38] Titanovsky<STEAM_0:1:95303327> spawned vehicle models/gta_sa/industrial/boxville.mdl
+[18:28:31] Server is shutting down/changing levels.
+
+
+
+[18:30:22] New map: gm_construct
+[18:30:46] Server is shutting down/changing levels.
+
+
+
+[18:32:05] New map: gm_novenka_opti
+[18:33:08] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 63 seconds).
+[18:34:14] (SILENT) Titanovsky ran rcon command: bot
+[18:34:14] Client "Bot01" connected.
+[18:34:14] Client "Bot01" spawned in server <BOT> (took 185 seconds).
+[18:34:15] (SILENT) Titanovsky ran rcon command: bot
+[18:34:15] Client "Bot02" connected.
+[18:34:15] Client "Bot02" spawned in server <BOT> (took 186 seconds).
+[19:41:04] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[19:41:04] Dropped "Надежда Алексеевна" from server<BOT>
+[19:41:04] Dropped "Анастасия Брусничнива" from server<BOT>
+[19:57:31] Client "КИЦУМ" connected.
+[20:02:25] Client "Dimaks" connected.
+[20:03:20] Client "Dimaks" spawned in server <STEAM_0:1:521606996> (took 55 seconds).
+[20:04:10] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/misc/alphanum/alphanum_equal.mdl
+[20:04:16] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_2.mdl
+[20:04:19] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_4.mdl
+[20:04:21] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_1.mdl
+[20:04:22] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_5.mdl
+[20:04:22] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_6.mdl
+[20:04:23] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_3.mdl
+[20:04:23] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheels/stwheel_7.mdl
+[20:04:24] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheel/stwheel_8.mdl
+[20:04:24] Dimaks<STEAM_0:1:521606996> spawned model models/sprops/trans/stwheel/stwheel_9.mdl
+[20:04:39] Dropped "Dimaks" from server<STEAM_0:1:521606996>
+[20:05:46] Client "КИЦУМ" spawned in server <STEAM_0:1:33686915> (took 495 seconds).
+[20:11:59] КИЦУМ suicided!
+[20:14:20] Dropped "КИЦУМ" from server<STEAM_0:1:33686915>
+[20:57:37] Client "бывалый(m8)" connected.
+[20:59:12] Client "бывалый(m8)" spawned in server <STEAM_0:1:591906300> (took 95 seconds).
+[21:01:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/trappropeller_lever.mdl
+[21:01:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x025x025.mdl
+[21:01:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_junk/watermelon01.mdl
+[21:01:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_junk/metalbucket01a.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x6.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_rooftop/scaffolding01a.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[21:02:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[21:05:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_f_6_4.mdl
+[21:07:05] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_f_6_4.mdl
+[21:07:07] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_f_6_6.mdl
+[21:07:10] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/airplanewheel1.mdl
+[21:07:22] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/games/cards_hearts.mdl
+[21:07:26] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/games/d4.mdl
+[21:07:28] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/games/d20.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075x1.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x1.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:08:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075x1.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube1x2x025.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube05x05x025.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075x075.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_pipes/valvewheel002.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x05x025.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x075.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x075.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075x075.mdl
+[21:08:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x2x025.mdl
+[21:08:53] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_junk/watermelon01.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x6.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_rooftop/scaffolding01a.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[21:09:12] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[21:10:38] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/magicube_o.mdl
+[21:10:41] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/magicube_i.mdl
+[21:10:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/games/d8.mdl
+[21:11:01] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/games/d20.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/cylinderx2huge.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/cylinderx2huge.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/tubes/tube1x1x8.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_combine/headcrabcannister01a.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/tubes/tube1x1x2b.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/tubes/tube1x1x2.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/tubes/tube1x1x1.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/misc/cone1x05.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/tubes/tube1x1x2c.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x2.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x2.mdl
+[21:11:17] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:11:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/jetwing2large.mdl
+[21:11:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/jetwing2large.mdl
+[21:11:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x4.mdl
+[21:11:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x3.mdl
+[21:11:33] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/bull/various/subwoofer.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_interiors/pot02a.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/phxtended/bar1x.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat3.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_lab/tpplugholder.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_b_2_4.mdl
+[21:11:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/trappropeller_engine.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_b_2_4.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/items/car_battery01.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/trappropeller_engine.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_interiors/pot02a.mdl
+[21:11:51] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/car003b_physics.mdl
+[21:13:38] Бывалый (m8)<STEAM_0:1:591906300> spawned effect models/sprops/misc/empty.mdl
+[21:13:41] Бывалый (m8)<STEAM_0:1:591906300> spawned effect models/sprops/misc/bone_from_x.mdl
+[21:13:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/misc/axis_plane.mdl
+[21:13:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/apc001.mdl
+[21:14:14] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:18:26] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/car005a_physics.mdl
+[21:18:35] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat2.mdl
+[21:19:06] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat2.mdl
+[21:27:48] Бывалый (m8) suicided!
+[21:28:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/jetbody3.mdl
+[21:30:06] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/misc/antenna_64.mdl
+[21:30:08] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/misc/antenna_96.mdl
+[21:30:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/plates/license_1.mdl
+[21:30:24] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/train/track_s05.mdl
+[21:30:25] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/train/track_s06.mdl
+[21:30:30] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/train/rerailer.mdl
+[21:30:36] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/train/track_s04.mdl
+[21:30:50] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/sprops/trans/air/prop_3b_s.mdl
+[21:31:05] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/combine_helicopter.mdl
+[21:32:54] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_citizen_tech/windmill_blade004a.mdl
+[21:33:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_junk/gascan001a.mdl
+[21:35:29] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/oildrum001.mdl
+[21:37:03] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat2.mdl
+[21:37:16] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:43:09] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/laundry_cart002.mdl
+[21:44:43] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/chair_office02.mdl
+[21:48:21] Client "vanya82rus" connected.
+[21:50:27] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[21:53:32] Бывалый (m8)<STEAM_0:1:591906300> spawned sent arccw_ammo_pistol_large
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x025.mdl
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x025.mdl
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x125.mdl
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube05x075x025.mdl
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x025x025.mdl
+[21:53:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x025.mdl
+[21:53:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x05x025.mdl
+[21:53:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x075.mdl
+[21:53:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x125.mdl
+[21:57:39] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:57:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/combine_helicopter.mdl
+[21:57:46] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[21:57:56] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[21:58:04] Client "vanya82rus" spawned in server <STEAM_0:1:53509978> (took 583 seconds).
+[21:58:07] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[21:58:10] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[21:58:11] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[21:58:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:00:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:00:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:00:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:00:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:00:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/rocket1.mdl
+[22:01:29] Бывалый (m8): /tts on
+[22:01:38] Бывалый (m8): /tts voice zahar
+[22:01:45] Бывалый (m8): я абоба
+[22:01:58] Бывалый (m8): ост
+[22:02:02] vanya82rus: ?
+[22:02:23] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/games/chess/black_rook.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/playgroundslide01.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/barricade001a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/playground_jungle_gym01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/barricade001a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_buildings/row_res_1_fullscale.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/interior_fence002e.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/playgroundtick-tack-toe_post01.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:44] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_docks/dock01_pole01a_256.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/fountain_01.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/interior_fence001c.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence001b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/playground_carousel01.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence001b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence002a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:45] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence001b.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_docks/dock01_pole01a_256.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_deciduous_03b.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence001b.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x8.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_buildings/row_res_1_fullscale.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/bench01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_wasteland/exterior_fence002a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_foliage/tree_springers_01a.mdl
+[22:02:46] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/lamppost03a_off.mdl
+[22:03:21] vanya82rus: тут можно свой скин поставить?
+[22:03:27] Бывалый (m8): ytn
+[22:03:30] Бывалый (m8): нет
+[22:03:48] Бывалый (m8): щщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщщ
+[22:03:58] vanya82rus: ЪУЪ
+[22:03:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/oildrum001_explosive.mdl
+[22:04:16] vanya82rus<STEAM_0:1:53509978> spawned model models/props_office/coffe_machine.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x6.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_rooftop/scaffolding01a.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[22:04:21] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube025x1x025.mdl
+[22:04:22] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[22:04:22] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate3x5.mdl
+[22:04:23] vanya82rus<STEAM_0:1:53509978> spawned model models/props/dev_block_test.mdl
+[22:04:31] vanya82rus<STEAM_0:1:53509978> spawned model models/kunoszeug/altkunohaus.mdl
+[22:04:48] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_interiors/pot02a.mdl
+[22:04:48] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[22:04:48] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/phxtended/bar1x.mdl
+[22:04:48] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat3.mdl
+[22:04:48] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_lab/tpplugholder.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_b_2_4.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/trappropeller_engine.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/type_b_2_4.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/items/car_battery01.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_c17/trappropeller_engine.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_interiors/pot02a.mdl
+[22:04:49] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_vehicles/car003b_physics.mdl
+[22:04:50] vanya82rus<STEAM_0:1:53509978> spawned model models/props_foliage/ah_super_pine001.mdl
+[22:04:55] vanya82rus<STEAM_0:1:53509978> spawned model models/props_foliage/ah_super_pine001.mdl
+[22:05:30] vanya82rus<STEAM_0:1:53509978> spawned sent mediaplayer_gta_theater_screen
+[22:05:43] vanya82rus<STEAM_0:1:53509978> spawned sent mediaplayer_gta_laptop
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate2x3.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/solid_steel/box_beam_32.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025.mdl
+[22:05:43] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025.mdl
+[22:06:02] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/props_phx/carseat2.mdl
+[22:06:53] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/playfield.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate175.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube1x1x025.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate175.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/airplanewheel1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate175.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/xqm/airplanewheel1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/phxtended/tri2x1x1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate175.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x4.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x6.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x2.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/tri2x1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/jeep_seat.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/tri2x1.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x2.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x2.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x6.mdl
+[22:07:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/construct/metal_wire1x1x2b.mdl
+[22:07:35] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/jeep_seat.mdl
+[22:07:35] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[22:07:35] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/phxtended/tri2x1x1.mdl
+[22:07:35] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate075.mdl
+[22:08:13] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/mechanics/various/211.mdl
+[22:08:22] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/soccerball.mdl
+[22:08:31] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/torpedo.mdl
+[22:08:32] Client "Белые розы" connected.
+[22:09:17] vanya82rus<STEAM_0:1:53509978> spawned model models/props_phx/torpedo.mdl
+[22:09:32] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/facepunch_barrel.mdl
+[22:09:33] vanya82rus<STEAM_0:1:53509978> spawned model models/props_phx/misc/flakshell_big.mdl
+[22:09:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/oildrum001.mdl
+[22:09:37] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/oildrum001_explosive.mdl
+[22:09:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate1x1.mdl
+[22:09:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x05.mdl
+[22:09:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:09:57] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x125.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x1.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x1.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned vehicle models/nova/airboat_seat.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate05x1.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/hunter/plates/plate025x125.mdl
+[22:09:58] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[22:10:08] vanya82rus<STEAM_0:1:53509978> spawned model models/props_phx/games/chess/white_dama.mdl
+[22:10:22] vanya82rus<STEAM_0:1:53509978> spawned model models/props_phx/games/chess/white_dama.mdl
+[22:10:48] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:05] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/smallcannonclip.mdl
+[22:11:08] vanya82rus<STEAM_0:1:53509978> spawned model models/props_phx/huge/tower.mdl
+[22:11:18] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:31] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:32] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:33] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:34] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[22:11:39] Бывалый (m8)<STEAM_0:1:591906300> spawned model models/props_phx/misc/soccerball.mdl
+[22:11:54] Dropped "Бывалый (m8)" from server<STEAM_0:1:591906300>
+[22:12:12] Dropped "vanya82rus" from server<STEAM_0:1:53509978>
+[22:29:31] Client "слепой" connected.
+[22:49:53] Client "слепой" spawned in server <STEAM_0:0:45562791> (took 1222 seconds).
+[22:52:47] слепой<STEAM_0:0:45562791> spawned sent m9k_ammo_357
+[22:54:14] слепой<STEAM_0:0:45562791> spawned model models/models_kit/xmas/xmas_teddybear.mdl
+[22:54:38] слепой<STEAM_0:0:45562791> spawned sent quest_giver
+[22:54:51] слепой<STEAM_0:0:45562791> spawned sent quest_placeholder
+[22:55:01] слепой<STEAM_0:0:45562791> spawned sent icecream
+[22:55:40] слепой<STEAM_0:0:45562791> spawned model models/okxapack/stockplus/hunter/plates/plate_window_narrow_1x1.mdl
+[22:55:59] слепой<STEAM_0:0:45562791> spawned model models/sprops/triangles/right/size_0_5/rtri_6x12.mdl
+[23:02:41] Dropped "слепой" from server<STEAM_0:0:45562791>
+<Logging continued in "data/ulx_logs/05-26-22.txt">

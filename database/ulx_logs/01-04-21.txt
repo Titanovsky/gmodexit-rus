@@ -1,0 +1,2895 @@
+<Logging continued from "data/ulx_logs/01-03-21.txt">
+[00:00:08] ☭ Жожда снеговик: хвахвах
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:26] Sp00ky: ты из майна звук возьми
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:27] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:27] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:27] ☭ Жожда снеговик: который ЫЫЫЫЫЫЫЫЫЫХЫЫХХЫХЫГЫГГЫ
+[00:00:29] ☭ Жожда снеговик: ?
+[00:00:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:32] cool lol: /rp
+[00:00:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:34] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:34] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:34] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:34] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:34] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:00:39] Sp00ky: что?
+[00:00:40] Sp00ky: каша?
+[00:00:41] Sandro23: xnj&
+[00:00:44] Sandro23: Что?
+[00:00:48] ❄ExtraJingles❄: couch как то там
+[00:00:50] Sandro23: каша?
+[00:00:53] ☭ Жожда снеговик: cock
+[00:00:54] ☭ Жожда снеговик: XD
+[00:01:03] ☭ Жожда снеговик: nice cock bro
+[00:01:07] ❄ExtraJingles❄: cough
+[00:01:09] ❄ExtraJingles❄: вот
+[00:01:13] ☭ Жожда снеговик: Кал?
+[00:01:17] Sp00ky: porridge
+[00:01:19] Titanovsky: cough
+[00:01:44] ❄ExtraJingles❄: ебать
+[00:01:46] Sp00ky: cough это кашель
+[00:01:48] ❄ExtraJingles❄: оно работает
+[00:01:50] ☭ Жожда снеговик: м
+[00:01:55] ▰Angry▰Timur▰ Closed warp
+[00:01:57] ▰Angry▰Timur▰ Open warp
+[00:01:57] ❄ExtraJingles❄: шя
+[00:02:01] Sp00ky: врубай что ли
+[00:02:01] ❄ExtraJingles❄: надо умножить посильнее
+[00:02:07] ❄ExtraJingles❄: а то почти не видно
+[00:02:09] ▰Angry▰Timur▰: ОТКРЫЛСЯ ВАРП ЗАВОД
+[00:02:15] h9k: ПОМОГИТЕ
+[00:02:18] Client "Даnsae+" spawned in server <STEAM_0:0:516470600> (took 151 seconds).
+[00:02:22] h9k: ТУТ ТОЛЬКО ЧЕРНЫХ ДЕРЖАТ
+[00:02:26] ▰Angry▰Timur▰: Молчи сука
+[00:02:26] cool lol<STEAM_0:1:524208057> spawned model models/props_junk/trashdumpster02.mdl
+[00:02:31] ☭ Жожда снеговик: все ясно
+[00:02:34] ▰Angry▰Timur▰: Ты мой раб
+[00:02:37] ☭ Жожда снеговик: Тимур расист
+[00:02:39] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vj_cof_slower1
+[00:02:41] ▰Angry▰Timur▰: Роботай дальше
+[00:02:42] cool lol<STEAM_0:1:524208057> spawned model models/props_junk/plasticcrate01a.mdl
+[00:02:42] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vj_cof_slower1
+[00:02:44] h9k: harder daddy~
+[00:02:45] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vj_cof_slower1
+[00:02:48] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vj_cof_slower1
+[00:02:51] ❄ExtraJingles❄: ебать
+[00:02:55] ❄ExtraJingles❄: работает
+[00:02:55] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:02] ❄ExtraJingles❄: хоть и кривовато
+[00:03:05] Sp00ky: пиздец там hack9kim что пишет
+[00:03:05] ☭ Жожда снеговик: хех
+[00:03:05] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:07] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:07] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:07] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:07] cool lol<STEAM_0:1:524208057> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[00:03:11] Kaven23<STEAM_0:1:163956041> spawned sent drone_sentity
+[00:03:15] h9k: Pizda
+[00:03:17] Sandro23: Я бы сказал спецефично
+[00:03:18] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_wine
+[00:03:21] ☭ Жожда снеговик: /stats
+[00:03:24] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_vodka
+[00:03:24] Sandro23: а не криво
+[00:03:24] Sp00ky: хардер дэдди ухахаххвахва
+[00:03:25] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_vodka
+[00:03:25] Sp00ky: чё
+[00:03:26] ▰Angry▰Timur▰: Приходите на заводот роботать всем неграм рады
+[00:03:30] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_kvass
+[00:03:30] Sp00ky: нахуй ты вообще это написал
+[00:03:30] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_kvass
+[00:03:30] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_kvass
+[00:03:31] h9k: Маи вкуси спицифично
+[00:03:32] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol
+[00:03:33] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:33] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_beer
+[00:03:33] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:35] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_champagne
+[00:03:35] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:35] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_champagne
+[00:03:35] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_champagne
+[00:03:35] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:36] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:36] Kaven23<STEAM_0:1:163956041> spawned sent amb_drink_champagne
+[00:03:36] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:36] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:36] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:36] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:37] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:37] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:37] cool lol<STEAM_0:1:524208057> spawned sent arccw_ammo_pistol_large
+[00:03:47] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:03:47] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:03:47] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:03:47] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:03:47] Kaven23<STEAM_0:1:163956041> spawned sent amb_factory2_workbench_rifle
+[00:03:50] h9k: Ток покажи мне их
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_lab/reciever01d.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned vehicle models/nova/airboat_seat.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/tools_wrench01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnitureshelf001a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/squad/sf_bars/sf_bar1.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/squad/sf_bars/sf_bar1.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/tools_wrench01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props/de_nuke/floodlight.mdl
+[00:03:58] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/garbage_plasticbottle002a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/trappropeller_lever.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_borealis/door_wheel001a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned vehicle models/nova/airboat_seat.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/propanecanister001a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/items/boxmrounds.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase001a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props/de_nuke/floodlight.mdl
+[00:03:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase001a.mdl
+[00:04:03] Titanovsky played sound ambient/voices/cough1.wav
+[00:04:04] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:04:04] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent drone_sentity
+[00:04:06] Titanovsky played sound ambient/voices/cough2.wav
+[00:04:09] Kaven23<STEAM_0:1:163956041> spawned sent amb_survive_sleeping_bag
+[00:04:10] Titanovsky played sound ambient/voices/cough3.wav
+[00:04:19] h9k: Я заболел спидом
+[00:04:22] ❄ExtraJingles❄: я тут причём
+[00:04:23] Sp00ky: чё
+[00:04:23] h9k: из-за кашля
+[00:04:28] Kaven23<STEAM_0:1:163956041> spawned sent sent_vj_fireplace
+[00:04:30] h9k: и заразил моего партнера
+[00:04:31] Kaven23<STEAM_0:1:163956041> spawned sent sent_vj_board
+[00:04:33] ▰Angry▰Timur▰: нас уже 4 на заводе давайте еще
+[00:04:34] h9k: черного работягу
+[00:04:36] ☭ Жожда снеговик: у меня тоже
+[00:04:37] ❄ExtraJingles❄: у меня ничё не поменялось
+[00:04:37] Sandro23: пк говно
+[00:04:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezweapon_magpistol
+[00:04:49] Sandro23: У мня было всё стабильно
+[00:04:53] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezweapon_plinkingpistol
+[00:04:55] ▰Angry▰Timur▰: Пацаны приходите роботать на завод неграм рады
+[00:04:57] Kaven23<STEAM_0:1:163956041> spawned sent item_ammo_smg1_large
+[00:05:00] Kaven23<STEAM_0:1:163956041> spawned sent item_ammo_pistol_large
+[00:05:04] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezammobox_a
+[00:05:06] *** Kaven23 исполнил воинское приветствие!
+[00:05:13] cool lol: а не неграм
+[00:05:25] ▰Angry▰Timur▰: И белым тоже рады
+[00:05:31] h9k: НЕТ НАХУЙ
+[00:05:31] cool lol Send in warp
+[00:05:31] cool lol: /warp
+[00:05:33] ▰Angry▰Timur▰: Я сам как снегурочка
+[00:05:34] h9k: ВЪЕБУ С НОГИ
+[00:05:38] ☭ Жожда снеговик started a vote (Баним тимура за расизм?)
+[00:05:40] h9k: И ВЕРТУХУ СДЕЛАЮ
+[00:05:40] Sp00ky voted for: ДА!
+[00:05:40] Sandro23 voted for: ДА!
+[00:05:41] ▰Angry▰Timur▰ voted for: неть
+[00:05:42] ☭ Жожда снеговик voted for: ДА!
+[00:05:42] h9k voted for: неть
+[00:05:43] Kaven23 voted for: ДА!
+[00:05:44] Даnsae+ voted for: ДА!
+[00:05:46] ▰Angry▰Timur▰: Какой расизм
+[00:05:49] ▰Angry▰Timur▰: уася
+[00:05:49] Titanovsky voted for: ДА!
+[00:05:54] Sandro23: я че я кашляю
+[00:05:58] Vote results: Option 'ДА!' won. (6/12)
+[00:06:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:02] h9k: Ты харажен
+[00:06:03] cool lol: щяс
+[00:06:04] ☭ Жожда снеговик: НЕ ЧЕРНЫЕ А АФРОАМЕРИКАНЦЫ РАСИСТ ЕБАНЫЙ
+[00:06:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:11] h9k: Иди проверься на пидорвирус
+[00:06:14] Sp00ky: НЕГРЫ)
+[00:06:15] Titanovsky: /stats
+[00:06:17] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:17] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:17] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:18] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:19] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:19] Sp00ky<STEAM_0:1:158737111> spawned sent amb_survive_food
+[00:06:20] 0xadg: похуй абсолютн
+[00:06:20] ▰Angry▰Timur▰: БЛЯТЬ НАХУЙ КТО ЭБОЛУ ПРИНЕС СУКА
+[00:06:22] Sandro23: /stats
+[00:06:22] Titanovsky set the hp for Themself to 1
+[00:06:25] Sp00ky: Негры дауны пидорасы
+[00:06:29] Sandro23: ДА КАКОГО
+[00:06:32] h9k<STEAM_0:0:448026006> spawned sent ent_jack_gmod_ezweapon_amr
+[00:06:34] Sandro23: Я ПОЖРАЛ
+[00:06:35] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:36] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sp00ky: /stats
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:39] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:40] ☭ Жожда снеговик: это тимурка принес эболу когда ебался с афроамериканцами XDDDD
+[00:06:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:47] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:50] Sp00ky: Титан это только в рп голод тратится?
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:06:55] cool lol: блять снесло звук приёма
+[00:07:00] h9k: )0)
+[00:07:00] Sandro23 killed Titanovsky using player
+[00:07:03] h9k: Тимур
+[00:07:05] Sandro23: ХУЛИ Я ДОХНу
+[00:07:08] h9k: проверь штаны
+[00:07:11] Sandro23: ХУЛИ ТЫ СДОХ
+[00:07:18] ▰Angry▰Timur▰: СУКА
+[00:07:21] Sp00ky killed Sandro23 using player
+[00:07:22] ☭ Жожда снеговик: БЛЯТЬ!
+[00:07:23] h9k: Пока ты стоял афк,я на теб блеванул
+[00:07:25] Sandro23: С ЗЕЛЁНЫМ ИНДИКАТОРОМ
+[00:07:26] ☭ Жожда снеговик: ХП ТРАТИТЬСЯ!
+[00:07:29] ▰Angry▰Timur▰: ОНИ ВСЕ В ДЕРЬМЕ
+[00:07:31] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:31] Sandro23 teleported to ❄ExtraJingles❄
+[00:07:31] Sandro23: !goto ext
+[00:07:31] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:31] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:31] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:31] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:32] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:32] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:07:38] ☭ Жожда снеговик: /hud 1
+[00:07:50] Sandro23: Я сдох но хочу жрать 
+[00:07:52] ☭ Жожда снеговик: АААААААААААААА НАС УБИВАЕТ ЭБОЛА!!!!!!
+[00:07:53] Sandro23: Збс
+[00:07:55] ▰Angry▰Timur▰: ПРОТИРАЙ СВОИМ ЕБАЛОМ АфРоАмЕрИкАнЕц
+[00:08:01] ☭ Жожда снеговик started a vote (Карантин?)
+[00:08:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:02] Sp00ky voted for: неть
+[00:08:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:03] ▰Angry▰Timur▰ voted for: ДА!
+[00:08:04] ☭ Жожда снеговик voted for: ДА!
+[00:08:04] Sandro23 voted for: неть
+[00:08:04] cool lol voted for: ДА!
+[00:08:04] Даnsae+ voted for: неть
+[00:08:05] Kaven23 voted for: ДА!
+[00:08:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_drink_beer
+[00:08:07] h9k voted for: ДА!
+[00:08:10] h9k: ДА
+[00:08:13] ▰Angry▰Timur▰: БЛЯТЬ тут у нас эбола на заводе
+[00:08:19] Sandro23: ТЫ ЕБАНУТА
+[00:08:21] Vote results: Option 'ДА!' won. (5/12)
+[00:08:21] h9k: весь пол в говне
+[00:08:21] ▰Angry▰Timur▰: Писец
+[00:08:22] 0xadg: ебать
+[00:08:24] Sandro23: ХУЛИ ТЫ СДЕЛАЛ
+[00:08:26] 0xadg: перезапустился
+[00:08:26] ☭ Жожда снеговик: С ЭТОГО ДНЯ ДИСТАНЦИЯ 2 МЕТРА
+[00:08:32] h9k: АПЧХИ
+[00:08:34] h9k: ААААА
+[00:08:36] ▰Angry▰Timur▰: Ах ты сука
+[00:08:37] h9k: ГОВНО ЛЕЗЕТ
+[00:08:44] *** cool lol надел маску
+[00:08:48] Даnsae+: хахахахахахх
+[00:08:50] ▰Angry▰Timur▰: Будешь роботать в двойную смену
+[00:08:54] ☭ Жожда снеговик: КТТО НЕ БУДЕТ СОБЛЮДАТЬ ЕЕ БУДЕТ ПОСАЖЕН В ЛОДКУ И ОТПРАВЛЕН В
+[00:08:54] *** Sandro23 надел респиратор
+[00:08:57] ☭ Жожда снеговик: КАЗАХСТАН
+[00:08:59] *** Kaven23 Предъявил IDкарту*[441th][RP][WO][2323][Primefrat]*
+[00:08:59] ▰Angry▰Timur▰: Чихает он тут блять
+[00:09:03] h9k: НАЧАЛЬНИК БЛЯТЬ,ОН ОБОСРАЛСЯ
+[00:09:09] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent arccw_ammo_smg1_large
+[00:09:09] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent arccw_ammo_smg1_large
+[00:09:09] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent arccw_ammo_smg1_large
+[00:09:09] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent arccw_ammo_smg1_large
+[00:09:09] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent arccw_ammo_smg1_large
+[00:09:10] Titanovsky: /stats
+[00:09:17] h9k: ААААААААА
+[00:09:21] ▰Angry▰Timur▰: Ах ты сука щя в лес тебя заебашу 
+[00:09:26] ▰Angry▰Timur▰: на карантин 
+[00:09:29] h9k: нееет
+[00:09:31] ▰Angry▰Timur▰: БЛЯТЬ
+[00:09:33] h9k: Не надо
+[00:09:40] h9k: Папаша
+[00:09:44] ☭ Жожда снеговик: открывайте это полиция
+[00:09:44] ☭ Жожда снеговик set the hp for Themself to 100
+[00:09:47] ▰Angry▰Timur▰: У нас почка порвалась
+[00:09:56] h9k: спасибо за рено логан черного цвета 20 века
+[00:09:56] ☭ Жожда снеговик: мы пришли посмотреть санитарные нормы
+[00:09:58] h9k: БЛЯЯЯЯЯЯЯЯЯЯЯЯТЬ
+[00:09:59] Sandro23<STEAM_0:0:435148107> spawned vehicle models/ruscars/vaz2101/vaz2101.mdl
+[00:10:00] ☭ Жожда снеговик: ААААААААА
+[00:10:00] Client "nubik v minecrafte" connected.
+[00:10:01] Даnsae+: spooky привет тп к тебе пж
+[00:10:10] ▰Angry▰Timur▰: Этот негр сука эболу принес
+[00:10:17] ☭ Жожда снеговик: НЕ СОБЛЮДЕНИЕ ДИСТАНЦИИ!
+[00:10:19] ▰Angry▰Timur▰: Отпиздите его
+[00:10:22] ☭ Жожда снеговик: В КАЗАХСТАН!
+[00:10:33] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:10:39] *** Kaven23 исполнил воинское приветствие!
+[00:10:40] ☭ Жожда снеговик: пада
+[00:10:42] ☭ Жожда снеговик: падай
+[00:10:44] ▰Angry▰Timur▰: Сука а че с эболой делать
+[00:10:47] ☭ Жожда снеговик brought h9k
+[00:10:50] ▰Angry▰Timur▰: как лечить ее
+[00:11:01] Titanovsky: /hud 2
+[00:11:02] cool lol: делаю
+[00:11:03] Sp00ky: чё где все
+[00:11:07] ▰Angry▰Timur▰: .ргв 2
+[00:11:08] h9k: БУЭЭЭ
+[00:11:11] h9k suicided!
+[00:11:11] ☭ Жожда снеговик slapped h9k with 100 damage
+[00:11:11] ☭ Жожда снеговик: !slap h9k 100 был отправлен в казахстан
+[00:11:13] ▰Angry▰Timur▰: /hud 2
+[00:11:21] ▰Angry▰Timur▰: БЛЯТЬ
+[00:11:22] ☭ Жожда снеговик set the hp for Themself to 100
+[00:11:27] ▰Angry▰Timur▰: Негр здох
+[00:11:32] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:11:34] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:11:39] ▰Angry▰Timur▰: Блять помогите нахуй
+[00:11:42] Даnsae+: /PVP
+[00:11:45] ▰Angry▰Timur▰: У нас эбола
+[00:11:51] Sp00ky<STEAM_0:1:158737111> spawned sent item_healthkit
+[00:11:55] Kaven23 suicided!
+[00:11:55] 0xadg: бруз
+[00:12:01] ▰Angry▰Timur▰: Негр нахуя я тебя с африки спиздил 
+[00:12:09] ▰Angry▰Timur▰: у тебя эбола была
+[00:12:10] 0xadg: у тя норм все?
+[00:12:19] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate05x05.mdl
+[00:12:22] ❄ExtraJingles❄: скриптовые ошибки
+[00:12:26] 0xadg: +
+[00:12:36] ☭ Жожда снеговик: ты блять нам заразу принес
+[00:12:43] h9k: АА
+[00:12:46] ☭ Жожда снеговик: попу мыть\
+[00:12:47] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:48] h9k: СВЯТАЯ ВОДА
+[00:12:49] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:50] h9k: БЛТЬ
+[00:12:51] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:52] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:52] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:12:52] h9k: ЫЖФОЩРИВЛОДфырьм РМСПФЫВЩМЫФРАВИЛФЬТИММОГЛНВ
+[00:12:52] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:52] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:12:54] h9k: П ВЫРОИВПР ФОЛТЮРВОБ Ф
+[00:12:56] Sandro23: ЖЁлтым
+[00:12:59] h9k: AVE MARIA
+[00:13:01] h9k: KASBH JDIABKDNHVG QWGEBHBE WQJDK ABSGVD CASVDA
+[00:13:05] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:06] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:09] ▰Angry▰Timur▰: ВЕРНИТЕ НЕГРА ПАДЛЯ
+[00:13:09] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x1.mdl
+[00:13:11] h9k: Слава Казахам!
+[00:13:20] h9k suicided!
+[00:13:27] ☭ Жожда снеговик: мы его готовим к полету в казахстан
+[00:13:30] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:31] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:32] Sandro23: РП ВОЙС
+[00:13:33] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:33] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x1.mdl
+[00:13:34] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:13:37] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:13:41] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/vaz21124/vaz21124.mdl
+[00:13:42] Sandro23 killed ▰Angry▰Timur▰ using player
+[00:13:42] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/liaz677/liaz677.mdl
+[00:13:45] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:13:48] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:13:52] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:13:55] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:14:03] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:14:03] h9k suicided!
+[00:14:03] ☭ Жожда снеговик slapped h9k with 100 damage
+[00:14:03] ☭ Жожда снеговик: !slap h9k 100 [был отправлен в казахстан за несоблюдение дистанции]
+[00:14:09] ▰Angry▰Timur▰: ХЫ
+[00:14:11] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/izh27151/izh27151.mdl
+[00:14:13] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/lada priora 2172/lada_priora_2172.mdl
+[00:14:14] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube075x1x1.mdl
+[00:14:15] ☭ Жожда снеговик set the hp for Themself to 100
+[00:14:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube075x1x1.mdl
+[00:14:21] ▰Angry▰Timur▰ brought h9k
+[00:14:21] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:14:24] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:14:24] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/lada priora 2172/lada_priora_2172.mdl
+[00:14:26] ▰Angry▰Timur▰ brought h9k
+[00:14:27] ☭ Жожда снеговик: дистанция
+[00:14:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:14:30] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:14:31] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:14:32] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:14:33] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/azlk2140/azlk2140.mdl
+[00:14:34] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:14:36] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz677/liaz677.mdl
+[00:14:39] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21063/vaz21063.mdl
+[00:14:40] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/gaz21/gaz21.mdl
+[00:14:41] Sandro23<STEAM_0:0:435148107> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:14:42] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz677/liaz677.mdl
+[00:14:48] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:14:59] Kaven23<STEAM_0:1:163956041> spawned vehicle models/ruscars/azlk2140/azlk2140.mdl
+[00:15:05] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/uaz31512/uaz31512.mdl
+[00:15:07] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21063_school/vaz21063_school.mdl
+[00:15:08] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21063/vaz21063.mdl
+[00:15:09] Sp00ky teleported to ❄ExtraJingles❄
+[00:15:10] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:11] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/zil133/zil133.mdl
+[00:15:12] Sp00ky teleported to ❄ExtraJingles❄
+[00:15:13] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz5256/liaz5256_skin.mdl
+[00:15:16] Sandro23: помянемъ
+[00:15:21] Sp00ky: а чё вы сюда переехали
+[00:15:25] ☭ Жожда снеговик: эээ
+[00:15:25] Sandro23: !menu
+[00:15:28] 0xadg<STEAM_0:0:426598565> spawned model models/squad/sf_plates/sf_plate5x8.mdl
+[00:15:33] Sandro23 teleported and jailed Kaven23 for 60 seconds
+[00:15:36] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned model models/hunter/plates/plate1x1.mdl
+[00:15:39] ☭ Жожда снеговик: чтто?
+[00:15:40] Sandro23: не пропушить
+[00:15:41] ☭ Жожда снеговик killed cool lol using arccw_thr_gas
+[00:15:44] Sandro23: ок?
+[00:15:49] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:50] Sandro23: спасибо
+[00:15:51] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:52] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:53] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:55] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:55] cool lol:  /warp
+[00:15:58] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:15:58] ☭ Жожда снеговик: А схуяли в рп ситуации у вас билдер?
+[00:16:01] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:01] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:01] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:03] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/gaz52/gaz52.mdl
+[00:16:04] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:04] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:05] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:05] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:05] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:05] ☭ Жожда снеговик: ай
+[00:16:08] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:09] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:09] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/hatchback/pw_hatchback.mdl
+[00:16:10] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:11] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:16] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:17] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:19] h9k: што
+[00:16:22] Kaven23<STEAM_0:1:163956041> spawned sent drone_sentity
+[00:16:29] h9k: я же по специальности строитель
+[00:16:35] Sandro23: С ДОРОГИ СЪЕБАВСЯ
+[00:16:36] Sandro23 killed ▰Angry▰Timur▰ using player
+[00:16:37] h9k: пошел нахер
+[00:16:41] Sandro23: сори
+[00:16:42] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:43] ☭ Жожда снеговик: тимур ты твар
+[00:16:45] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:46] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:47] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:48] *** Kaven23 Предъявил IDкарту*[441th][RP][WO][2323][Primefrat]*
+[00:16:48] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:51] ☭ Жожда снеговик: тимур твар
+[00:16:51] cool lol<STEAM_0:1:524208057> spawned model models/hunter/plates/plate075x105.mdl
+[00:16:52] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:16:54] ☭ Жожда снеговик: тимур твар!
+[00:17:01] ☭ Жожда снеговик: дави его
+[00:17:10] Client "Stormy Styx" connected.
+[00:17:12] h9k<STEAM_0:0:448026006> spawned sent ent_jack_gmod_ezweapon_revolver
+[00:17:13] Sandro23: Я загорелый
+[00:17:26] Titanovsky: /hud 1
+[00:17:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:37] ▰Angry▰Timur▰: /hud 1
+[00:17:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:37] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:38] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:17:43] Sandro23: титан
+[00:17:48] Sandro23: Где текстуры
+[00:17:54] ☭ Жожда снеговик started a vote (По городу эбола что делать?)
+[00:17:57] Sandro23 voted for: Карантин
+[00:17:58] ☭ Жожда снеговик voted for: Карантин
+[00:17:58] ▰Angry▰Timur▰ voted for: Карантин
+[00:18:00] cool lol voted for: Карантин
+[00:18:00] h9k voted for: Умерать
+[00:18:01] Sandro23: титан
+[00:18:02] Kaven23 voted for: Карантин
+[00:18:03] ❄ExtraJingles❄ voted for: Умерать
+[00:18:07] Sandro23: Где текстуры билять
+[00:18:07] Даnsae+ voted for: Умерать
+[00:18:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:18:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:18:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:18:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:18:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:18:13] ☭ Жожда снеговик: /stats
+[00:18:14] Vote results: Option 'Карантин' won. (5/12)
+[00:18:16] Sandro23: у меня пустота
+[00:18:21] Sandro23: вместо клаша
+[00:18:22] ☭ Жожда снеговик: я ел дохуя всего
+[00:18:27] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:27] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:27] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:28] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:29] cool lol: зырь чё зделал
+[00:18:30] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:18:31] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:32] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:32] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:32] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:32] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:32] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:33] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:33] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:33] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:33] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:33] h9k: Так тебе и надо,тварь
+[00:18:36] Sandro23: ВОТ
+[00:18:38] Sandro23: В РУКАХ
+[00:18:39] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:18:41] Sandro23: КАЛАШ
+[00:18:42] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:42] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:43] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:45] Sandro23: НО ЕГО НЕТ
+[00:18:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:18:50] ☭ Жожда снеговик: ном
+[00:18:53] Sandro23: Я НЕ ПРО ЕДУ
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:55] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:56] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:57] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_lrshoulder
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:58] ☭ Жожда снеговик<STEAM_0:1:459363124> spawned sent amb_survive_food
+[00:18:59] Sandro23: ТО ЧТО У МНЯ В РУКАХ
+[00:19:06] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_gasmask
+[00:19:12] cool lol<STEAM_0:1:524208057> spawned sent amb_survive_food
+[00:19:13] cool lol<STEAM_0:1:524208057> spawned sent amb_survive_food
+[00:19:14] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_smg1_large
+[00:19:15] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_smg1_large
+[00:19:15] ☭ Жожда снеговик: всем бб я ебал меня сосали
+[00:19:15] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_smg1_large
+[00:19:15] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_smg1_large
+[00:19:16] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_pistol_large
+[00:19:16] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_pistol_large
+[00:19:17] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:17] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:18] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:18] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:18] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:18] Sandro23<STEAM_0:0:435148107> spawned sent arccw_ammo_ar2_large
+[00:19:19] Dropped "☭ Жожда снеговик" from server<STEAM_0:1:459363124>
+[00:19:19] cool lol<STEAM_0:1:524208057> spawned sent amb_survive_food
+[00:19:21] cool lol<STEAM_0:1:524208057> spawned sent amb_survive_food
+[00:19:27] Sandro23: и звука нет
+[00:19:29] h9k: Ты сосал,меня ебали
+[00:19:30] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[00:19:31] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/zil133/zil133.mdl
+[00:19:33] ▰Angry▰Timur▰: Завод закрывается тут нахуй карантин
+[00:19:38] Sandro23: В игру
+[00:19:39] Titanovsky teleported to ▰Angry▰Timur▰
+[00:19:40] h9k: Тоесть
+[00:19:41] Даnsae+: /build
+[00:19:43] cool lol: блять
+[00:19:44] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_hhead
+[00:19:47] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:47] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:48] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:48] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:50] Sandro23: ЭБОЛА НАХУЙ
+[00:19:50] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:50] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:50] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:51] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:51] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:51] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:51] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:52] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:52] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:52] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:52] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:52] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:52] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_rioth
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:53] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:53] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:19:53] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:54] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:55] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:55] Даnsae+<STEAM_0:0:516470600> spawned model models/props_wasteland/cargo_container01.mdl
+[00:19:55] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:19:58] ❄ExtraJingles❄ suicided!
+[00:20:00] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:00] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:00] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:00] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:02] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:03] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:04] Dropped "Sp00ky" from server<STEAM_0:1:158737111>
+[00:20:05] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:05] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:05] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:05] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:06] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:07] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:08] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:08] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:08] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:08] h9k<STEAM_0:0:448026006> spawned sent amb_survive_food
+[00:20:08] Даnsae+<STEAM_0:0:516470600> spawned model models/props_wasteland/laundry_cart001.mdl
+[00:20:10] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:11] ❄ExtraJingles❄: го в русскую рулетку?
+[00:20:12] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned sent amb_survive_food
+[00:20:18] Client "JESUS(Hogubert)" connected.
+[00:20:27] Даnsae+<STEAM_0:0:516470600> spawned model models/props_vehicles/car001b_hatchback.mdl
+[00:20:27] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_beer
+[00:20:30] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[00:20:32] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_srforearm
+[00:20:33] Даnsae+<STEAM_0:0:516470600> spawned model models/props_vehicles/truck003a.mdl
+[00:20:37] Даnsae+<STEAM_0:0:516470600> spawned model models/props_vehicles/car004b_physics.mdl
+[00:20:40] 0xadg: во
+[00:20:47] cool lol: бухаем
+[00:20:48] Sandro23: Титан
+[00:20:48] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_hrthigh
+[00:20:49] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_beer
+[00:20:49] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_beer
+[00:20:51] 0xadg: тп дип
+[00:20:55] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_beer
+[00:21:02] Sandro23: ты когда паркур вставишь?
+[00:21:03] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_hlthigh
+[00:21:03] ❄ExtraJingles❄ teleported to 0xadg
+[00:21:10] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_beer
+[00:21:16] Sandro23: ой бля...
+[00:21:18] Dropped "▰Angry▰Timur▰" from server<STEAM_0:0:431600296>
+[00:21:25] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_hrshoulder
+[00:21:32] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[00:21:36] 0xadg: ток вот
+[00:21:38] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_srcalf
+[00:21:39] Sandro23: Кста
+[00:21:44] 0xadg: разрывается, когда таймер кончается
+[00:21:45] cool lol<STEAM_0:1:524208057> spawned sent amb_drink_kvass
+[00:21:48] Sandro23: про каникулы
+[00:21:50] h9k: /rp
+[00:21:51] Sandro23: Я ЛЕТО ПРОЕБАЛ
+[00:21:55] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_workbench_machinegun
+[00:21:59] Sandro23: Я ХОТЕЛ ПРОСТО СИДЕТЬ ЗА ПК
+[00:22:00] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_slcalf
+[00:22:15] Sandro23: А СИДЕЛ БЛЯДЬ НА ИССЫК-КУЛЕ
+[00:22:20] ❄ExtraJingles❄: да в пизду на е2 лучше
+[00:22:25] 0xadg: ну тут +
+[00:22:25] cool lol: как сделать турель
+[00:22:26] Sandro23: 0_0
+[00:22:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_slforearm
+[00:22:46] Sandro23: А потом удивляються какого хрена а ничего не делаю
+[00:22:48] cool lol: как сделать турель?
+[00:22:57] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:22:57] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:22:57] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:22:57] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:22:58] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:22:59] Titanovsky<STEAM_0:1:95303327> spawned sent ent_jack_gmod_ezworkbench
+[00:23:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:23:03] Titanovsky<STEAM_0:1:95303327> spawned sent ent_jack_gmod_ezbuildkit
+[00:23:11] cool lol: пон спс
+[00:23:20] h9k<STEAM_0:0:448026006> spawned model models/props_c17/oildrum001.mdl
+[00:23:27] cool lol<STEAM_0:1:524208057> spawned model models/hunter/plates/plate125.mdl
+[00:23:28] cool lol<STEAM_0:1:524208057> spawned model models/hunter/blocks/cube8x8x1.mdl
+[00:23:29] 0xadg: я афк
+[00:23:32] cool lol<STEAM_0:1:524208057> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:23:32] cool lol<STEAM_0:1:524208057> spawned model models/hunter/blocks/cube025x075x025.mdl
+[00:23:35] Client "Sp00ky" connected.
+[00:23:45] h9k: ,kznm
+[00:23:45] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezsentry
+[00:24:33] cool lol: всё норм сделал палку
+[00:24:38] Sandro23 teleported to Titanovsky
+[00:24:38] Sandro23: !goto Titanovsky
+[00:24:44] Sandro23: Этот пойдёт?
+[00:24:52] h9k killed cool lol using player
+[00:25:20] h9k<STEAM_0:0:448026006> spawned model models/props_c17/oildrum001.mdl
+[00:25:34] cool lol: здрасте
+[00:25:36] Sandro23: ненене
+[00:25:39] Sandro23: Подожди
+[00:25:44] Sandro23: Я тот найду
+[00:25:49] ❄ExtraJingles❄ teleported to Titanovsky
+[00:25:51] Sandro23: бля нашёл
+[00:25:51] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_lathe_machine
+[00:25:54] ❄ExtraJingles❄: ничё
+[00:25:55] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_warehouse_metal
+[00:25:56] Sandro23: изи 
+[00:25:56] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_warehouse_metal
+[00:26:03] ❄ExtraJingles❄: /rp
+[00:26:08] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_lathe_machine
+[00:26:09] Sandro23: на нахуй
+[00:26:10] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_miling_machine
+[00:26:13] Sandro23: классика блядь
+[00:26:17] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_workbench_machinegun
+[00:26:21] Sandro23: Удары там есть?
+[00:26:25] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_tool_box
+[00:26:25] Sandro23: мне
+[00:26:36] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_gasmask
+[00:26:36] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_warehouse_workpieces
+[00:26:38] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_healthkit
+[00:26:39] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_healthkit
+[00:26:42] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_warehouse_workpieces
+[00:26:44] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_maska
+[00:26:47] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/azlk412/azlk412.mdl
+[00:26:49] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_miling_machine
+[00:26:52] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/lada priora 2172/lada_priora_2172.mdl
+[00:26:59] cool lol<STEAM_0:1:524208057> spawned sent amb_factory2_workbench_rifle
+[00:27:09] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz5256/liaz5256_skin.mdl
+[00:27:10] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz677/liaz677.mdl
+[00:27:11] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21124/vaz21124.mdl
+[00:27:11] Client "Sp00ky" spawned in server <STEAM_0:1:158737111> (took 216 seconds).
+[00:27:12] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/kamaz53229f/kamaz53229f.mdl
+[00:27:13] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/riva2105/riva2105.mdl
+[00:27:14] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/zil133/zil133.mdl
+[00:27:15] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21063_school/vaz21063_school.mdl
+[00:27:16] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz21063/vaz21063.mdl
+[00:27:17] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/vaz2101/vaz2101.mdl
+[00:27:18] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/uaz31512/uaz31512.mdl
+[00:27:19] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:27:19] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz677/liaz677.mdl
+[00:27:21] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/liaz5256/liaz5256_skin.mdl
+[00:27:22] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/riva2105/riva2105.mdl
+[00:27:22] Sandro23: уверен?
+[00:27:22] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/lada priora 2172/lada_priora_2172.mdl
+[00:27:26] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/kamaz53229f/kamaz53229f.mdl
+[00:27:27] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/kamaz53229f/kamaz53229f.mdl
+[00:27:28] Sandro23: погнали нахуй
+[00:27:28] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/gaz3110/gaz3110.mdl
+[00:27:29] Titanovsky suicided!
+[00:27:29] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/izh27151/izh27151.mdl
+[00:27:30] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/ikarus260/ikarus260_skin.mdl
+[00:27:31] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/kamaz43114w/kamaz43114w.mdl
+[00:27:32] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/gaz24/gaz24.mdl
+[00:27:33] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/kamaz43114w/kamaz43114w.mdl
+[00:27:35] Sandro23: давай)
+[00:27:39] ❄ExtraJingles❄ suicided!
+[00:27:41] h9k killed Sandro23 using player
+[00:27:44] Sandro23: бля
+[00:27:48] h9k: )0)
+[00:27:50] ❄ExtraJingles❄: /build
+[00:27:50] Sandro23: как так-то нахуй
+[00:27:59] h9k<STEAM_0:0:448026006> spawned model models/props_c17/oildrum001.mdl
+[00:28:03] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/azlk412/azlk412.mdl
+[00:28:06] Sandro23: давй
+[00:28:07] ❄ExtraJingles❄: надо больше людей
+[00:28:16] Titanovsky started a vote (Го в рулетку?)
+[00:28:17] Titanovsky voted for: +
+[00:28:18] h9k voted for: +
+[00:28:18] ❄ExtraJingles❄ voted for: +
+[00:28:20] cool lol voted for: +
+[00:28:21] Даnsae+ voted for: +
+[00:28:21] Sandro23: три раза подряд и ты даёшь мне 300k
+[00:28:22] Titanovsky brought 0xadg,Kaven23,RѦinѯr,Sandro23,Sp00ky,cool lol,h9k,Даnsae+,❄ExtraJingles❄
+[00:28:23] Kaven23 voted for: -
+[00:28:24] Sp00ky voted for: +
+[00:28:31] Sandro23: пойдёт?
+[00:28:34] Sandro23: титан
+[00:28:36] Vote results: Option '+' won. (6/10)
+[00:28:40] ❄ExtraJingles❄: победитель получит 10 000
+[00:28:40] Sp00ky: а только зашёл
+[00:28:40] Sandro23: Чекни чат
+[00:28:43] Sp00ky: я только зашёл
+[00:29:02] cool lol: блять почему я кашляю
+[00:29:02] ❄ExtraJingles❄: я дам деньги победителю
+[00:29:03] Sandro23: я в курсе
+[00:29:07] Sp00ky: а в рулетку играем
+[00:29:09] Sandro23: 300k)))
+[00:29:15] cool lol: и умераю
+[00:29:29] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_357
+[00:29:30] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_357
+[00:29:30] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_357
+[00:29:42] ❄ExtraJingles❄: нажимай
+[00:29:55] cool lol suicided!
+[00:30:04] Titanovsky suicided!
+[00:30:09] Sandro23: сосат
+[00:30:09] Client "JESUS(Hogubert)" spawned in server <STEAM_0:0:147181731> (took 591 seconds).
+[00:30:09] Даnsae+ suicided!
+[00:30:21] ❄ExtraJingles❄: два раза нажал
+[00:30:21] Sandro23: Ну ты долго продержался
+[00:30:28] Sandro23: Это хорошо
+[00:30:30] ❄ExtraJingles❄: ты выбываешь
+[00:30:36] Sp00ky: ухахахахаха
+[00:30:46] ❄ExtraJingles❄: ну следующий с большей вероятностью умрёт
+[00:30:49] Sp00ky: как ты хотел меня назвать?
+[00:30:55] h9k killed Sandro23 using player
+[00:30:56] Sandro23: Он норм сделал
+[00:30:58] ❄ExtraJingles❄: как в реале ало
+[00:31:02] Sandro23 teleported to ❄ExtraJingles❄
+[00:31:02] Sandro23: !goto ex
+[00:31:04] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:31:05] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:31:05] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:31:05] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:31:06] ❄ExtraJingles❄: чем больше нажатий тем меньше шанс
+[00:31:10] Sandro23: ДАЛЬШЕ
+[00:31:14] Sandro23: ДАЛЬШЕ
+[00:31:16] Sp00ky: почему хуета?
+[00:31:24] Sandro23: Он сдох
+[00:31:28] Kaven23 suicided!
+[00:31:30] Sp00ky suicided!
+[00:31:38] Sp00ky: /pvp
+[00:31:41] Sandro23: пезда
+[00:31:41] Sp00ky teleported to ❄ExtraJingles❄
+[00:31:51] Sp00ky: 6
+[00:31:52] Sandro23: 6
+[00:31:53] Titanovsky: 6
+[00:31:54] Sandro23: помянем
+[00:31:55] ❄ExtraJingles❄: 6
+[00:31:56] h9k: 6
+[00:31:57] Sandro23 suicided!
+[00:32:00] Даnsae+: 3
+[00:32:01] Sp00ky: титан сделай 2д войс
+[00:32:06] Sandro23: дайте денях
+[00:32:14] Sandro23 teleported to ❄ExtraJingles❄
+[00:32:14] Sandro23: !goto ex
+[00:32:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[00:32:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[00:32:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[00:32:19] Sp00ky: позавчера
+[00:32:22] ❄ExtraJingles❄: это было не честно
+[00:32:29] Sp00ky: 3:32
+[00:32:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:41] ❄ExtraJingles❄: я нормально сделал
+[00:32:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:32:44] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:44] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:46] Sandro23: +
+[00:32:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:46] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:48] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:48] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:48] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:32:52] cool lol suicided!
+[00:32:56] ❄ExtraJingles❄: это хуйня будет если каждый раз будет рандом
+[00:33:08] Sp00ky: так весь смысл в рандоме
+[00:33:16] h9k suicided!
+[00:33:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:17] Dropped "cool lol" from server<STEAM_0:1:524208057>
+[00:33:17] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:18] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:18] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:18] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:18] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:18] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:25] ❄ExtraJingles❄: спуки
+[00:33:25] Sandro23: Он по мне шмалял
+[00:33:27] Sp00ky: а
+[00:33:31] h9k: помогите
+[00:33:31] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:31] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:31] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:33] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:33] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:33] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:34] *** Titanovsky choose: 95
+[00:33:34] Titanovsky: /roll
+[00:33:34] Sandro23: сдачу забыл забрать
+[00:33:34] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:35] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:35] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:35] h9k: тпхните
+[00:33:36] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:36] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:36] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:38] Kaven23<STEAM_0:1:163956041> spawned sent ent_jack_gmod_ezarmor_respirator
+[00:33:40] Даnsae+: /roll\
+[00:33:42] Даnsae+:  /roll
+[00:33:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:42] h9k: я хер знает где
+[00:33:42] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] ❄ExtraJingles❄: если будет полный рандом без уменьшения вероятности можно очень дол�
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:43] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:44] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:46] *** Даnsae+ choose: 7
+[00:33:46] Даnsae+: /roll
+[00:33:47] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:47] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:47] ❄ExtraJingles❄: долго играть 
+[00:33:47] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:33:48] h9k: помогите
+[00:33:49] Sp00ky: ну да
+[00:33:53] Kaven23<STEAM_0:1:163956041> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[00:33:54] Даnsae+ suicided!
+[00:33:54] Titanovsky slayed Даnsae+
+[00:33:56] *** Titanovsky choose: 4
+[00:33:56] Titanovsky: /roll
+[00:33:59] *** Sp00ky choose: 68
+[00:33:59] Sp00ky: /roll
+[00:33:59] ❄ExtraJingles❄: ну так а нахуй надо
+[00:34:02] Kaven23<STEAM_0:1:163956041> spawned model models/xqm/jetbody3_s5.mdl
+[00:34:03] *** Titanovsky choose: 73
+[00:34:03] Titanovsky: /roll
+[00:34:03] h9k: помогите
+[00:34:03] *** Sandro23 choose: 40
+[00:34:03] Sandro23: /roll
+[00:34:04] ❄ExtraJingles❄: это не интересно
+[00:34:06] h9k: тпхите плиз
+[00:34:07] Kaven23<STEAM_0:1:163956041> spawned model models/xqm/jetbody3_s5.mdl
+[00:34:15] Sp00ky: я победил
+[00:34:16] Sp00ky: урааа
+[00:34:17] h9k: я за городом
+[00:34:19] h9k: ПОМОГИТЕ
+[00:34:28] Sp00ky killed Sandro23 using player
+[00:34:33] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:33] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:33] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:33] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:34] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:34] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:34:35] Sandro23 teleported to Titanovsky
+[00:34:35] Sandro23: !goto Titanovsky
+[00:34:37] ❄ExtraJingles❄: блять ну делай
+[00:34:42] ❄ExtraJingles❄: заебёшьт
+[00:34:45] Sp00ky: я победи кстати уже
+[00:34:46] Kaven23<STEAM_0:1:163956041> spawned model models/xqm/jetbody3.mdl
+[00:34:55] ❄ExtraJingles❄: я не про задержку
+[00:34:57] Titanovsky: /
+[00:34:58] ❄ExtraJingles❄: а про рандом
+[00:35:00] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:35:00] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:35:01] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:35:01] Titanovsky: /transfer 7 10000
+[00:35:02] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:35:04] Sp00ky: оо
+[00:35:05] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/gaz52/gaz52.mdl
+[00:35:05] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:35:06] Sp00ky: 10к
+[00:35:11] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/volga/volga.mdl
+[00:35:11] Sp00ky: но у меня 295к так что нормально
+[00:35:13] ❄ExtraJingles❄: ты хочешь что бы он всегда был постоянный
+[00:35:20] Sp00ky: я миллиардер
+[00:35:22] Sp00ky: богач
+[00:35:24] h9k<STEAM_0:0:448026006> spawned sent item_ammo_crossbow
+[00:35:43] *** Sp00ky choose: 91
+[00:35:43] Sp00ky: /roll 100-100
+[00:35:51] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:51] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:51] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:51] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:51] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:35:55] ❄ExtraJingles❄: а нахуя если это и так в чипе
+[00:36:04] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:05] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:06] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:07] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:07] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:07] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:07] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:07] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:36:09] ❄ExtraJingles❄: так задержку я шя сделаю
+[00:36:16] Sp00ky: ухахахах
+[00:36:18] *** Titanovsky choose: 4
+[00:36:18] Titanovsky: /roll
+[00:36:18] Sp00ky: обойдёшься
+[00:36:19] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/zaz/zaz.mdl
+[00:36:21] *** Sandro23 choose: 29
+[00:36:21] Sandro23: /roll
+[00:36:21] Titanovsky was killed by gmod_sent_vehicle_fphysics_base
+[00:36:25] Sp00ky: вхахвахвахва
+[00:36:26] Sandro23: Рулетка
+[00:36:33] Titanovsky jailed Kaven23 for 200 seconds
+[00:36:33] Sandro23: Рботает заебтся
+[00:36:46] Sandro23: Я победил
+[00:36:47] *** Titanovsky choose: 48
+[00:36:47] Titanovsky: /roll
+[00:36:53] *** Даnsae+ choose: 71
+[00:36:53] Даnsae+: /roll
+[00:36:53] Sandro23: ролл
+[00:36:57] *** Titanovsky choose: 54
+[00:36:57] Titanovsky: /roll
+[00:36:57] *** Sp00ky choose: 53
+[00:36:57] Sp00ky: /roll
+[00:37:01] Sp00ky: блять
+[00:37:01] Sandro23: лол
+[00:37:10] Sp00ky suicided!
+[00:37:10] Titanovsky slayed Sp00ky
+[00:37:12] Kaven23<STEAM_0:1:163956041> spawned vehicle models/blu/volga/volga.mdl
+[00:37:13] *** h9k choose: 7
+[00:37:13] h9k: /roll
+[00:37:13] *** Titanovsky choose: 15
+[00:37:13] Titanovsky: /roll
+[00:37:15] Titanovsky killed h9k using player
+[00:37:19] *** Titanovsky choose: 41
+[00:37:19] Titanovsky: /roll
+[00:37:21] h9k: pizda
+[00:37:22] *** Sandro23 choose: 23
+[00:37:22] Sandro23: /roll
+[00:37:23] Titanovsky killed Sandro23 using player
+[00:37:28] Titanovsky: /transfer 4 10000
+[00:37:40] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:37:40] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:37:40] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:37:41] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:37:41] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:37:46] h9k killed Sandro23 using player
+[00:37:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:37:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:37:52] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:37:53] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:38:05] Sp00ky: не хотел хвастаться но я создатель сервера
+[00:38:13] 0xadg: дверь?
+[00:38:25] 0xadg: ща 
+[00:38:34] Sandro23 was killed by entityflame
+[00:38:39] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:38:40] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:38:40] h9k<STEAM_0:0:448026006> spawned sent item_healthkit
+[00:38:42] Titanovsky killed Sp00ky using player
+[00:38:44] Sp00ky: да блять
+[00:38:51] Sp00ky teleported to Titanovsky
+[00:38:57] h9k killed Sandro23 using player
+[00:39:03] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:03] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:04] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:04] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:04] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:04] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:04] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:39:09] Sp00ky: титан что ты ему ответил
+[00:39:11] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:12] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:12] Sp00ky: я не слышал
+[00:39:13] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:13] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:14] h9k killed Sandro23 using player
+[00:39:14] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:15] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:17] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:17] Dropped "Kaven23" from server<STEAM_0:1:163956041>
+[00:39:18] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:18] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:19] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:39:20] 0xadg: ну хз
+[00:39:22] Sp00ky: а ну было такое да
+[00:39:22] ❄ExtraJingles❄ suicided!
+[00:39:26] Sp00ky killed Sandro23 using player
+[00:39:36] Titanovsky:  table Entity:GetKeyValues()
+[00:39:40] h9k killed Sandro23 using player
+[00:39:49] Sandro23: Мне не удобно
+[00:39:49] Sp00ky: да ну лень
+[00:39:50] 0xadg: у нее нету кейвала на состояние вроде
+[00:39:57] Sandro23: У меня нет даже прицела
+[00:40:03] Sp00ky: ну да
+[00:40:04] Sandro23: Про текстуры молчу
+[00:40:05] Sp00ky: зачем
+[00:40:18] Sp00ky: у нас тут движ вроде какой то
+[00:40:24] Sp00ky killed Sandro23 using player
+[00:40:26] h9k killed Sp00ky using player
+[00:40:29] Sandro23: !slay Sandro23
+[00:40:32] Даnsae+: /pbp
+[00:40:36] Sandro23 suicided!
+[00:40:36] Даnsae+: /pvp
+[00:40:39] 0xadg<STEAM_0:0:426598565> spawned sent item_healthkit
+[00:40:40] 0xadg<STEAM_0:0:426598565> spawned sent item_healthkit
+[00:40:40] 0xadg<STEAM_0:0:426598565> spawned sent item_healthkit
+[00:40:40] 0xadg<STEAM_0:0:426598565> spawned sent item_healthkit
+[00:40:44] Titanovsky teleported to 0xadg
+[00:40:45] Titanovsky: spawnpos
+[00:40:45] Sandro23 suicided!
+[00:40:52] Sandro23: да поди ты нахуй
+[00:40:54] 0xadg: это позиция
+[00:41:11] Sandro23: помянем
+[00:41:12] Sandro23 suicided!
+[00:41:13] ❄ExtraJingles❄: +
+[00:41:22] 0xadg: это состояние, в котором дверь спавнится
+[00:41:23] ❄ExtraJingles❄ suicided!
+[00:41:35] Titanovsky brought 0xadg
+[00:41:37] Sandro23: жми
+[00:41:38] Sandro23: е
+[00:41:41] Client "Ани" connected.
+[00:41:43] Даnsae+ suicided!
+[00:41:43] ❄ExtraJingles❄: /transfer 12 10000
+[00:41:46] Sandro23: гы
+[00:41:48] (SILENT) Titanovsky ran lua: tmp_var=Entity(206):GetKeyValues()
+[00:41:50] 0xadg: у них у всех клоуз будет скорее всего
+[00:41:51] h9k: ееееееее
+[00:41:55] Sandro23 suicided!
+[00:41:56] (SILENT) Titanovsky ran lua: tmp_var=Entity(206):GetKeyValues()
+[00:42:01] 0xadg: ну шо
+[00:42:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:42:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:42:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:42:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:42:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:42:03] ❄ExtraJingles❄ suicided!
+[00:42:22] Sandro23: неть
+[00:42:25] Sandro23: На интерес
+[00:42:36] Sandro23 suicided!
+[00:42:39] 0xadg: нетвар двери не сетнуть?
+[00:42:44] Sandro23: да поди ты нахуй экстра
+[00:43:01] h9k killed Sp00ky using player
+[00:43:02] Даnsae+ suicided!
+[00:43:05] h9k suicided!
+[00:43:07] Sp00ky teleported to Titanovsky
+[00:43:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:11] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:43:15] Sp00ky: титан нужно тогда другую карту
+[00:43:21] Sp00ky: а то это хуета какая то на дома
+[00:43:24] Даnsae+ suicided!
+[00:43:28] Sandro23 killed h9k using player
+[00:43:30] 0xadg: можно двери NW переменную сетнуть
+[00:43:35] h9k killed Sandro23 using player
+[00:43:37] 0xadg: и потом в хуке ее переключать
+[00:43:39] Dropped "Sandro23" from server<STEAM_0:0:435148107>
+[00:43:56] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:43:56] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:43:56] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:43:58] 0xadg: use же глобально работает?
+[00:44:00] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:44:00] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:44:00] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:44:00] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:44:01] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[00:44:01] 0xadg: хук
+[00:44:09] Client "Sandro23" connected.
+[00:44:11] Titanovsky: ENT:Use()
+[00:44:26] 0xadg: ладн, в старфалле хук юза есть
+[00:44:29] Даnsae+: /build
+[00:44:36] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:36] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:37] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:37] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:37] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:37] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:37] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:38] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:39] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:40] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:41] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:42] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:44:42] (SILENT) Titanovsky ran lua: tmp_var=Entity(206):GetKeyValues()
+[00:44:43] 0xadg: ну тогда похуй
+[00:44:43] Sp00ky: ну да там такое есть
+[00:44:54] Sp00ky: вам не проще будет просто отттуда эту систему взять?
+[00:45:06] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/riva2105/riva2105.mdl
+[00:45:08] Client "Sandro23" spawned in server <STEAM_0:0:435148107> (took 59 seconds).
+[00:45:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:21] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:23] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:23] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:23] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:24] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:24] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:24] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:24] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:26] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:27] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:28] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:37] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:37] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:38] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:39] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:40] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:41] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:43] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:45:48] 0xadg: либо каждой двери привязывать хук, который будет менять переменную
+[00:45:48] Sp00ky: так почему не проще то?
+[00:45:51] Sandro23: /rp
+[00:45:51] h9k: если хочешь
+[00:45:57] 0xadg: ну це говно вариант
+[00:46:10] Sp00ky: хук это у пуджа в доте
+[00:46:23] Sandro23: лол
+[00:46:29] Sandro23: Я реалистично сел
+[00:46:32] Sandro23: Я в ахуе
+[00:46:38] Sandro23: /ttson
+[00:46:55] 0xadg: я хз бобще
+[00:47:15] Sandro23 killed h9k using player
+[00:47:18] Sandro23: !menu
+[00:47:20] 0xadg: заходит негр в магащин
+[00:47:27] Sandro23 teleported and jailed h9k for 228 seconds
+[00:47:28] ❄ExtraJingles❄ suicided!
+[00:47:33] Sp00ky: И продавец спрашивает у негра
+[00:47:37] Sandro23 stripped weapons from h9k
+[00:47:37] Sandro23: !strip h9k
+[00:47:39] Sp00ky: Где ты такого взял
+[00:47:45] Sp00ky: А попугай ему отвечает в африке там их полно
+[00:47:56] 0xadg<STEAM_0:0:426598565> spawned sent ent_jack_gmod_ezworkbench
+[00:48:05] 0xadg<STEAM_0:0:426598565> spawned sent ent_jack_gmod_ezparts
+[00:48:09] 0xadg<STEAM_0:0:426598565> spawned sent ent_jack_gmod_ezexplosives
+[00:48:12] 0xadg<STEAM_0:0:426598565> spawned sent ent_jack_gmod_ezexplosives
+[00:48:16] 0xadg<STEAM_0:0:426598565> spawned sent ent_jack_gmod_ezparts
+[00:48:36] Sp00ky: ахуев?
+[00:48:36] h9k suicided!
+[00:48:38] Sandro23: падажи
+[00:48:45] Sandro23: жмых
+[00:48:46] 0xadg killed Titanovsky using ent_jack_gmod_eztimebomb
+[00:48:46] 0xadg killed h9k using ent_jack_gmod_eztimebomb
+[00:48:46] 0xadg killed Sp00ky using ent_jack_gmod_eztimebomb
+[00:48:46] 0xadg killed Sandro23 using ent_jack_gmod_eztimebomb
+[00:48:50] Sandro23: АХУЕТЬ
+[00:48:51] Sp00ky: БЛЯЯЯЯЯЯТЬ
+[00:48:54] 0xadg: нихуя
+[00:49:02] Sandro23: И НЕ ОТКРЫЛО
+[00:49:06] Sandro23: КАК
+[00:49:21] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:49:21] 0xadg: а кто-то пиздел, что жмодовские бомбы сносят тюрьму
+[00:49:29] Titanovsky teleported to 0xadg
+[00:49:30] Client "323" connected.
+[00:49:33] Sandro23: Мне так сделали
+[00:49:34] JESUS(Hogubert) suicided!
+[00:49:37] Sandro23: Открыл
+[00:49:43] Sandro23: открыли*
+[00:49:44] Sp00ky: Чё вы затанцевали песни то нету)
+[00:49:50] Sandro23: титан
+[00:49:50] 0xadg: ща будет
+[00:49:52] Sandro23: Базарю
+[00:50:03] Sp00ky: ээ
+[00:50:05] Sp00ky: куда убрал
+[00:50:10] Sandro23: Тише
+[00:50:10] Sp00ky: чё......
+[00:50:12] Sandro23: тише
+[00:50:20] ❄ExtraJingles❄: куда тише то
+[00:50:20] JESUS(Hogubert)<STEAM_0:0:147181731> spawned model models/props_combine/breendesk.mdl
+[00:50:24] Sp00ky: снегурка оксид предлагаю уйти в другое место
+[00:50:28] Sandro23: ц
+[00:50:31] Sandro23: во
+[00:50:33] Sandro23: Чётко
+[00:50:33] Sp00ky: нашей песни тут не рады
+[00:50:37] Sp00ky teleported to 0xadg
+[00:50:38] 0xadg: пошли в тунель ебать
+[00:50:41] JESUS(Hogubert)<STEAM_0:0:147181731> spawned model models/props_c17/streetsign005b.mdl
+[00:50:42] JESUS(Hogubert)<STEAM_0:0:147181731> spawned model models/props_combine/breendesk.mdl
+[00:50:43] Sp00ky: ну пошли ебать
+[00:50:43] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:50:45] h9k<STEAM_0:0:448026006> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[00:50:46] h9k<STEAM_0:0:448026006> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[00:50:50] Sp00ky teleported to 0xadg
+[00:50:50] Sp00ky teleported to 0xadg
+[00:50:58] h9k<STEAM_0:0:448026006> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[00:50:59] Titanovsky was killed by gmod_sent_vehicle_fphysics_base
+[00:51:09] h9k: блять
+[00:51:14] 0xadg<STEAM_0:0:426598565> spawned sent amb_survive_food
+[00:51:14] Sandro23: !menu
+[00:51:19] 0xadg<STEAM_0:0:426598565> spawned sent amb_survive_food
+[00:51:21] Sandro23: rfpym
+[00:51:21] h9k<STEAM_0:0:448026006> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[00:51:23] Titanovsky whipped h9k 100 times with 1 damage
+[00:51:24] Sandro23: казнь
+[00:51:27] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:29] 0xadg<STEAM_0:0:426598565> spawned sent amb_survive_food
+[00:51:30] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:31] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:32] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:51:32] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:37] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:51:39] h9k<STEAM_0:0:448026006> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[00:51:43] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:43] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:44] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_survive_food
+[00:51:45] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:51:47] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_drink_wine
+[00:51:47] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_drink_vodka
+[00:51:47] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_drink_kvass
+[00:51:48] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_drink_beer
+[00:51:48] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:51:48] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent amb_drink_champagne
+[00:51:52] Sandro23 killed h9k using player
+[00:51:58] 0xadg: ебать ты бутылку пнул
+[00:51:58] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:51:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:02] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:05] Даnsae+: !rp\
+[00:52:06] h9k killed Sandro23 using player
+[00:52:08] Даnsae+: !rp
+[00:52:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[00:52:09] ❄ExtraJingles❄: почему ты носишь розовые стринги спуки?
+[00:52:13] Даnsae+: !pvp
+[00:52:15] Sp00ky: я такое не ношу
+[00:52:16] Titanovsky: /
+[00:52:17] Sp00ky: это ты носишь
+[00:52:17] Titanovsky: через /
+[00:52:19] Даnsae+: /pvp
+[00:52:19] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:19] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:20] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:20] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:20] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:22] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:23] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:23] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:24] h9k<STEAM_0:0:448026006> spawned sent arccw_ammo_ar2_large
+[00:52:28] 0xadg<STEAM_0:0:426598565> spawned sent item_suit
+[00:52:30] Sp00ky: я не могу понять все твои тупые вопросы
+[00:52:42] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_pistol_large
+[00:52:43] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_pistol_large
+[00:52:43] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_pistol_large
+[00:52:43] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_pistol_large
+[00:52:43] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_pistol_large
+[00:52:46] ❄ExtraJingles❄: песня в одном предложение
+[00:52:47] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:48] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:48] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:48] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:48] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:49] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:49] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[00:52:55] JESUS(Hogubert): !rp
+[00:52:55] Sp00ky: я не знаю почему
+[00:52:58] JESUS(Hogubert): rp
+[00:53:01] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:02] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:05] Sp00ky: крутой ремикс мне нравится
+[00:53:06] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:09] Sp00ky: я его у друга нашёл
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:10] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:11] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned sent item_suit
+[00:53:35] ❄ExtraJingles❄ suicided!
+[00:53:35] 0xadg suicided!
+[00:53:37] Sp00ky suicided!
+[00:53:41] ❄ExtraJingles❄: черти
+[00:53:43] Sp00ky: чё
+[00:53:48] Sp00ky: ебать
+[00:53:50] Sp00ky: я испугался
+[00:53:51] 0xadg: кран сука спиздили
+[00:53:54] JESUS(Hogubert): !pvp
+[00:53:59] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:54:03] Sp00ky: сука эта резиночка чёрная на руке
+[00:54:04] Sp00ky: я не могу
+[00:54:12] Sp00ky teleported to 0xadg
+[00:54:20] ❄ExtraJingles❄: арбузик
+[00:54:21] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:21] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:21] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:22] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:22] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:22] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:22] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:22] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:23] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:23] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:24] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:24] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_ar2_large
+[00:54:25] 0xadg<STEAM_0:0:426598565> spawned vehicle models/ruscars/uaz2206_police/uaz2206_police.mdl
+[00:54:44] Titanovsky<STEAM_0:1:95303327> spawned sent amb_factory2_workbench_rifle
+[00:54:46] Sandro23: там
+[00:54:55] Sandro23: тайтенъ
+[00:54:57] Titanovsky<STEAM_0:1:95303327> spawned vehicle models/ruscars/ikarus260/ikarus260_skin.mdl
+[00:55:01] Dropped "h9k" from server<STEAM_0:0:448026006>
+[00:55:05] Sandro23: дай руль
+[00:55:11] 0xadg suicided!
+[00:55:12] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/izh27151/izh27151.mdl
+[00:55:14] Sandro23: титан дай руль
+[00:55:18] 0xadg: я пошел
+[00:55:21] Dropped "0xadg" from server<STEAM_0:0:426598565>
+[00:55:25] Titanovsky: давай
+[00:55:45] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/izh27151/izh27151.mdl
+[00:56:12] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:14] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:15] Sp00ky: ебать меня утопил оксид
+[00:56:16] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:19] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:20] Sp00ky: и вышел ещё
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_lab/reciever01d.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned vehicle models/nova/airboat_seat.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:20] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/tools_wrench01a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnitureshelf001a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/squad/sf_bars/sf_bar1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/squad/sf_bars/sf_bar1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/tools_wrench01a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props/de_nuke/floodlight.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/garbage_plasticbottle002a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/trappropeller_lever.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_borealis/door_wheel001a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned vehicle models/nova/airboat_seat.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/xqm/airplanewheel1.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/propanecanister001a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/items/boxmrounds.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase001a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_junk/popcan01a.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props/de_nuke/floodlight.mdl
+[00:56:21] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/suitcase001a.mdl
+[00:56:22] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:23] Sp00ky teleported to ❄ExtraJingles❄
+[00:56:26] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:56:33] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:00] Sp00ky: экстра
+[00:57:00] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:02] Sandro23: ууу тюка
+[00:57:02] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:05] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:07] Sandro23 teleported to Titanovsky
+[00:57:07] Sandro23: !goto Titanovsky
+[00:57:09] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:14] Sp00ky<STEAM_0:1:158737111> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:57:20] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:22] Sp00ky<STEAM_0:1:158737111> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:57:22] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:23] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:25] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:25] Sandro23: +
+[00:57:26] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:27] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:28] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:28] JESUS(Hogubert): -
+[00:57:29] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:30] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:57:32] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:33] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:34] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:35] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:36] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:37] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:38] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:39] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:40] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:41] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:42] Sp00ky<STEAM_0:1:158737111> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:57:42] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:44] Titanovsky<STEAM_0:1:95303327> spawned sent amb_survive_food
+[00:57:46] Даnsae+<STEAM_0:0:516470600> spawned vehicle models/ruscars/ikarus260/ikarus260_skin.mdl
+[00:57:57] Sandro23<STEAM_0:0:435148107> spawned sent gmt_instrument_piano
+[00:58:22] Sp00ky: экстра как тебе ремикс?
+[00:58:28] ❄ExtraJingles❄ suicided!
+[00:58:34] Sp00ky: слышишь?
+[00:58:38] ❄ExtraJingles❄: нет
+[00:58:47] Sandro23: эээ
+[00:58:50] Даnsae+<STEAM_0:0:516470600> spawned sent gmt_instrument_piano
+[00:58:51] Sp00ky: а я и вижу у меня еррорка вылазиет что ты не слышишь
+[00:58:53] Sandro23: Я спыздыл
+[00:58:59] Sandro23: Оно в море было
+[00:59:02] Sp00ky: опять
+[00:59:04] Titanovsky started a vote (РП Войс вырубим?)
+[00:59:05] Sandro23 voted for: +
+[00:59:06] Sp00ky voted for: +
+[00:59:11] ❄ExtraJingles❄ voted for: +
+[00:59:13] JESUS(Hogubert) voted for: +
+[00:59:13] Sp00ky teleported to ❄ExtraJingles❄
+[00:59:14] Titanovsky voted for: +
+[00:59:18] Sandro23: МОРЕ
+[00:59:21] (SILENT) Titanovsky ran rcon command: amb_rp_voice 0
+[00:59:23] Sp00ky: а рял что за бред почему до тебя не доходит
+[00:59:24] Vote results: Option '+' won. (5/7)
+[00:59:27] Даnsae+<STEAM_0:0:516470600> spawned sent freeland_server
+[00:59:39] Sp00ky: нука 
+[00:59:42] Sp00ky: дип иди сюда
+[00:59:47] Sandro23: А нахуй ты оставил то
+[00:59:55] Sp00ky teleported to ❄ExtraJingles❄
+[00:59:57] Sandro23: Если изходника нет
+[01:00:00] Sp00ky: БЛЯЯЯ
+[01:00:09] Sp00ky: Дип сюда давай
+[01:00:10] Sp00ky teleported to ❄ExtraJingles❄
+[01:00:24] Sp00ky teleported to Даnsae+
+[01:00:31] Sp00ky: я и так спать не хочу
+[01:00:43] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:00:43] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:00:43] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:00:44] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:00:44] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:01:14] Sp00ky: что за jesus
+[01:01:23] Sp00ky: глэк ясно
+[01:01:27] Sp00ky: маслёнок
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:08] Sp00ky: а про меня что скажешь?
+[01:02:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:02:20] Titanovsky: /tts всем доброй ночи
+[01:02:21] Sp00ky: Ээ не понял не чебоксарь титан
+[01:02:23] ❄ExtraJingles❄<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[01:02:23] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[01:02:27] Sandro23: бб
+[01:02:27] Sp00ky: Сука ливнул
+[01:02:33] JESUS(Hogubert): жж
+[01:02:51] Sandro23 suicided!
+[01:03:11] Sandro23: !goto ex
+[01:03:15] ❄ExtraJingles❄: бб
+[01:03:17] Sandro23 teleported to ❄ExtraJingles❄
+[01:03:17] Sandro23: !goto ex
+[01:03:28] Sandro23: громко
+[01:03:31] Sp00ky: как тебе ремикс снегурка?
+[01:03:42] JESUS(Hogubert): мОРгенштерн топ!""""""""""!!!!!!!!!!!!!!"""""""""!!!!!!!!!!!!!!!
+[01:03:45] JESUS(Hogubert) suicided!
+[01:03:50] Sp00ky teleported JESUS(Hogubert)
+[01:03:52] ❄ExtraJingles❄: - уши
+[01:03:59] Sp00ky: ну я
+[01:04:16] Даnsae+ suicided!
+[01:04:17] Sandro23: +уши
+[01:04:17] Sp00ky: непонял
+[01:04:22] Sp00ky teleported Даnsae+
+[01:04:30] Sandro23: милипиздрический поставил
+[01:04:30] ❄ExtraJingles❄ suicided!
+[01:04:33] Sp00ky: ухахахаха
+[01:04:34] Client "drener" connected.
+[01:04:43] Sandro23: Таким?
+[01:04:52] ❄ExtraJingles❄ teleported to Sp00ky
+[01:04:52] Sp00ky: таким
+[01:04:58] Sandro23: кто первый?
+[01:05:01] Даnsae+<STEAM_0:0:516470600> spawned sent ent_jack_gmod_ezarmor_mhead
+[01:05:01] Sp00ky: без барабана?
+[01:05:03] Даnsae+<STEAM_0:0:516470600> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[01:05:04] Даnsae+<STEAM_0:0:516470600> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[01:05:06] Даnsae+<STEAM_0:0:516470600> spawned sent ent_jack_gmod_ezarmor_respirator
+[01:05:08] Sandro23: спуки
+[01:05:11] Sandro23: ты первый
+[01:05:12] Sp00ky: он в билде
+[01:05:16] Sp00ky killed Даnsae+ using player
+[01:05:19] Sp00ky killed Sandro23 using player
+[01:05:23] ❄ExtraJingles❄ suicided!
+[01:05:24] Sp00ky: ныа двоих
+[01:05:26] Sp00ky teleported Даnsae+
+[01:05:27] Sandro23: !goto ex
+[01:05:29] ❄ExtraJingles❄ teleported to Sp00ky
+[01:05:33] Sandro23 teleported to ❄ExtraJingles❄
+[01:05:33] Sandro23: !goto ex
+[01:05:40] Sp00ky: ну получается я всех убил
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:52] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:53] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:53] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:53] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:53] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:05:53] Sandro23<STEAM_0:0:435148107> spawned sent item_box_buckshot
+[01:06:00] Sandro23 killed Sp00ky using player
+[01:06:03] Sp00ky: блять
+[01:06:05] Sandro23 killed Даnsae+ using player
+[01:06:06] Sp00ky teleported to ❄ExtraJingles❄
+[01:06:11] Sp00ky teleported to ❄ExtraJingles❄
+[01:06:13] Sandro23: нет
+[01:06:16] Sp00ky teleported to Даnsae+
+[01:06:16] Sandro23: ты не попал
+[01:06:19] Sp00ky teleported to Sandro23
+[01:06:22] Sp00ky teleported Даnsae+
+[01:06:29] Sandro23 killed Даnsae+ using player
+[01:06:33] Sp00ky teleported Даnsae+
+[01:06:35] Sandro23: хули ржёшь
+[01:06:36] Даnsae+ killed Sandro23 using player
+[01:06:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:06:50] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_sniper_large
+[01:06:50] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_sniper_large
+[01:06:51] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:06:51] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:06:51] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:51] Sp00ky<STEAM_0:1:158737111> spawned sent arccw_ammo_357_large
+[01:06:51] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:51] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:52] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:53] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:53] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:53] Sandro23<STEAM_0:0:435148107> spawned sent item_ammo_smg1_large
+[01:06:58] Sandro23 teleported to Sp00ky
+[01:06:58] Sandro23: !goto Sp00ky
+[01:07:00] Sandro23 killed Даnsae+ using player
+[01:07:06] Sp00ky: ууу админ абуз
+[01:07:09] Sp00ky: ясно сандро
+[01:07:20] Sandro23: gb[eq
+[01:07:23] Sandro23: пихуй
+[01:07:24] ❄ExtraJingles❄: всё бб всем
+[01:07:26] ❄ExtraJingles❄ suicided!
+[01:07:27] Sp00ky: а чё
+[01:07:29] Sp00ky: дип не уходи
+[01:07:39] Sandro23: Че будем делать?
+[01:07:42] Sp00ky teleported Даnsae+
+[01:07:48] Dropped "❄ExtraJingles❄" from server<STEAM_0:0:164590602>
+[01:07:49] Sandro23: Удачи тогда
+[01:07:52] Sp00ky: блять он ливнул(
+[01:07:53] Sandro23 killed Даnsae+ using player
+[01:07:54] Sandro23 killed Sp00ky using player
+[01:07:58] Sandro23: ауф
+[01:07:59] Sp00ky teleported to Sandro23
+[01:08:02] Dropped "JESUS(Hogubert)" from server<STEAM_0:0:147181731>
+[01:08:07] Sandro23: так
+[01:08:08] Sp00ky teleported to RѦinѯr
+[01:08:11] Sp00ky teleported to Даnsae+
+[01:08:12] Sandro23: Мне скучно
+[01:08:12] Sp00ky teleported to Sandro23
+[01:08:15] Sp00ky: мне тоже
+[01:08:19] Sp00ky: все уже ушли
+[01:08:21] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:08:21] Sp00ky teleported Даnsae+
+[01:08:21] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:08:22] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:08:22] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:08:23] Sp00ky teleported Даnsae+
+[01:08:30] Sp00ky: давайте сервак крашнем
+[01:08:32] Sandro23: че делать будем?
+[01:08:46] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate16x16.mdl
+[01:08:48] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate16x16.mdl
+[01:08:51] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:52] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:53] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:53] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:53] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:55] Sandro23: ой бля...
+[01:08:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:56] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:57] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:57] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:57] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:57] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:08:57] Sp00ky<STEAM_0:1:158737111> spawned model models/props_interiors/pot01a.mdl
+[01:09:06] Sandro23: спуки ты знаешь что это?
+[01:09:12] Sp00ky: ща автокликер подрублю
+[01:09:13] Sp00ky: чё
+[01:09:19] Sp00ky: туррель
+[01:09:38] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:09:40] Sandro23: каво
+[01:09:54] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:09:58] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:09:58] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:09:58] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:09:58] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:11] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:10:18] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:27] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:27] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:28] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:29] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:10:36] Sp00ky: как крашить я не умею
+[01:10:37] Sp00ky suicided!
+[01:10:39] Sp00ky: блять
+[01:10:42] Sp00ky teleported to Sandro23
+[01:10:54] Sandro23: пропам?
+[01:10:55] Sp00ky<STEAM_0:1:158737111> spawned model models/props_phx/construct/metal_tube.mdl
+[01:10:58] Sandro23: Хер там
+[01:11:00] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/blocks/cube025x025x025.mdl
+[01:11:03] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:04] Даnsae+: /ps
+[01:11:04] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:05] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:05] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:05] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:05] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:05] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:10] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:10] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:10] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:11] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:12] Даnsae+: t/dub
+[01:11:12] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:12] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:12] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:12] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate.mdl
+[01:11:13] Даnsae+: /dub
+[01:11:17] Client "drener" connected.
+[01:11:24] Sp00ky<STEAM_0:1:158737111> spawned model models/props_phx/construct/metal_tube.mdl
+[01:11:31] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:31] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:31] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:31] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:31] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:32] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:33] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:33] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:35] Даnsae+: /pump
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:39] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Даnsae+: /pump
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:40] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:41] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:41] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:41] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:41] Sp00ky<STEAM_0:1:158737111> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:11:46] Даnsae+: t/pump
+[01:12:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:18] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:12:25] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:31] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:34] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:37] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:38] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:39] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:39] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:39] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:12:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:41] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:12:42] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:13:22] Sandro23: act_dance
+[01:13:25] Sp00ky: в консоль
+[01:13:28] Sandro23: в консоль
+[01:13:54] Sandro23: ё
+[01:14:03] Sp00ky: чё ты спать или мне показалось?
+[01:14:06] Даnsae+: lf\
+[01:14:08] Даnsae+: да
+[01:14:12] Sp00ky: ну да
+[01:14:15] Sp00ky: куда деваться то
+[01:14:26] Sp00ky: пока
+[01:14:27] Sandro23: удачи
+[01:14:28] Даnsae+: пака
+[01:14:31] Даnsae+: ага
+[01:14:33] Даnsae+: спс
+[01:14:38] Даnsae+: вам тоже
+[01:14:39] Dropped "Даnsae+" from server<STEAM_0:0:516470600>
+[01:14:40] Sp00ky: пока
+[01:15:12] Sandro23<STEAM_0:0:435148107> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[01:15:56] Sandro23: щас
+[01:15:59] Sandro23: Я отвык
+[01:16:13] Sp00ky: ты можешь ей скорость пониже сделать
+[01:16:16] Sp00ky: чтобы так не заносило
+[01:16:21] Sandro23: Не
+[01:16:24] Sandro23: В этом прикол
+[01:16:50] Sandro23: ай бля
+[01:16:58] Sp00ky: чё куда
+[01:17:00] Sandro23<STEAM_0:0:435148107> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[01:17:15] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:21] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:31] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:32] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:36] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:37] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:17:37] Sandro23<STEAM_0:0:435148107> spawned model models/hunter/plates/plate32x32.mdl
+[01:18:21] Sp00ky: э
+[01:18:23] Sp00ky: куда
+[01:18:25] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/trappropeller_lever.mdl
+[01:18:25] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/computer01_keyboard.mdl
+[01:18:25] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/trappropeller_lever.mdl
+[01:18:25] Sandro23<STEAM_0:0:435148107> spawned model models/props_c17/computer01_keyboard.mdl
+[01:18:33] Sandro23: ок?
+[01:18:39] Sandro23: поставь пж
+[01:18:43] Sandro23: Мусорок
+[01:18:47] Sp00ky: какой мусорок
+[01:18:50] Sandro23: Литвеенко
+[01:19:02] Sp00ky: мне в инет надо заходить
+[01:19:49] Sandro23: руль
+[01:20:13] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:20:13] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:20:15] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:20:15] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:20:16] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:20:16] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:45] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:46] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:46] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:46] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:47] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:47] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:48] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:48] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:51] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:56] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:56] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:56] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:57] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:21:58] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:58] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:59] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:21:59] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:22:00] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:22:00] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:22:01] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:22:01] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:22:14] Sandro23: громко
+[01:22:14] Sp00ky: а?
+[01:22:16] Sp00ky: громко?
+[01:22:17] Sandro23: пиздец
+[01:22:26] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:22:26] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:22:27] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:22:28] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:22:29] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:22:29] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:22:29] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:23:18] Sp00ky: как тебе мой фонк?
+[01:23:21] Sandro23: топ
+[01:24:21] Sandro23: балдёж)
+[01:24:29] Sp00ky: рял
+[01:24:43] Sandro23: он всё ромче
+[01:24:49] Sandro23: громче*
+[01:24:59] Sandro23: Уши начинает рещать
+[01:25:02] Sp00ky: песня такая громкая
+[01:25:07] Sp00ky: ну это только один момент
+[01:25:19] Sp00ky: уже норм
+[01:25:27] Sandro23: не(
+[01:25:31] Sp00ky: да не ври
+[01:25:33] Sp00ky: нормально
+[01:25:33] Sandro23: какая щас громкость?
+[01:25:36] Sp00ky: 1
+[01:25:45] Sp00ky: радиус 350
+[01:25:46] Sandro23: 0,5
+[01:25:49] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:25:51] Sp00ky: всё кончилась
+[01:25:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:25:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:25:52] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:25:53] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:25:53] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:26:08] Sandro23: воооо
+[01:26:19] Sp00ky: эту знаешь?
+[01:26:31] Sandro23: Не помню..
+[01:26:33] Sp00ky: а
+[01:26:35] Sandro23: чёто слышал
+[01:26:57] Sp00ky: хоть полотно на всю карту делай ряльно
+[01:26:57] Sandro23: быстро действие админов 
+[01:27:29] Sp00ky: кончился?
+[01:27:34] Sandro23: походу
+[01:27:35] Client "Тостер" connected.
+[01:28:06] Client "lsr.nicholson" connected.
+[01:28:34] Sandro23<STEAM_0:0:435148107> spawned sent gmod_sent_vehicle_fphysics_gaspump
+[01:28:42] Sandro23: лол
+[01:30:29] Sandro23: сори
+[01:30:35] Sp00ky: та нормально
+[01:30:47] Client "Тостер" spawned in server <STEAM_0:1:116008424> (took 192 seconds).
+[01:30:50] Sandro23: ЛАГИ
+[01:30:56] Sp00ky: какие лаги
+[01:31:00] Sandro23: фризануло
+[01:31:08] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:09] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:10] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:13] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:14] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:18] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:18] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:18] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:18] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:18] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:18] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:19] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:20] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:21] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:21] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:21] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:21] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:21] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:22] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:22] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:22] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:22] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:22] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:23] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:24] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:25] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:26] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:31:28] Тостер: Это чё за херня на небе?
+[01:31:28] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:28] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:28] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:28] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:29] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:29] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:29] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:29] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:30] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:30] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:30] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:30] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:31] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:32] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:32] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:32] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:32] Sp00ky<STEAM_0:1:158737111> spawned model models/hunter/plates/plate32x32.mdl
+[01:31:33] Тостер: а
+[01:31:43] Тостер: А зачем?
+[01:31:50] Sandro23: Дрифт полотно
+[01:31:53] Тостер: ок
+[01:31:55] Sandro23: Дарова
+[01:31:58] Sp00ky: блять непонял
+[01:31:59] Тостер: ку
+[01:32:09] Sandro23: поставь
+[01:32:11] Тостер: самую классную, но лагучую карту поставили
+[01:32:19] Sandro23: та не норм
+[01:32:28] Тостер: Это только из-за тумана
+[01:32:30] Тостер: норм
+[01:32:36] Тостер: А в одиночке она лагает
+[01:32:42] Sandro23: громка
+[01:32:56] Client "lsr.nicholson" spawned in server <STEAM_0:0:232603065> (took 290 seconds).
+[01:33:09] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[01:33:12] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[01:33:13] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[01:33:14] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[01:33:37] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezworkbench
+[01:34:07] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:34:13] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:34:19] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:34:25] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:34:42] Sandro23: 4 ночи
+[01:34:46] Sandro23: чётко
+[01:34:50] Sp00ky: ага 4:3
+[01:34:54] Sp00ky: 4:34
+[01:34:54] Тостер: У меня час)
+[01:35:54] Sp00ky: кончилась
+[01:36:47] Sp00ky: всем пака 
+[01:36:50] Тостер: бб
+[01:36:52] Sp00ky teleported to RѦinѯr
+[01:36:52] Sandro23: бб
+[01:36:53] Sp00ky teleported to lsr.nicholson
+[01:36:54] Sp00ky teleported to Sandro23
+[01:36:55] Sp00ky teleported to lsr.nicholson
+[01:37:02] Sandro23: клирани пропы
+[01:37:09] Sandro23: чётко
+[01:37:11] Sandro23: спс
+[01:37:15] Dropped "Sp00ky" from server<STEAM_0:1:158737111>
+[01:37:16] Sandro23: бб
+[01:37:29] Sandro23: !menu
+[01:37:35] Sandro23 teleported to lsr.nicholson
+[01:37:37] Sandro23 teleported to Тостер
+[01:37:41] Sandro23: [fq
+[01:37:43] Sandro23: хай 
+[01:37:48] Sandro23: Че делаешь?
+[01:37:54] Sandro23: на е
+[01:37:56] Тостер: я тебя не просил открывать
+[01:38:01] Тостер: мне надо было закрытый)
+[01:38:03] Sandro23: а
+[01:38:05] Sandro23: сори
+[01:38:06] Тостер: ну лан
+[01:38:16] Тостер: ещё раз закажу
+[01:38:24] Sandro23: прикольно
+[01:38:37] Тостер: Очки паленые чёт
+[01:38:52] Sandro23: это термальные
+[01:38:53] Тостер: тепловизор не показывает источники тепла тут
+[01:39:04] Sandro23: Нужно найт вижн
+[01:39:05] Sandro23<STEAM_0:0:435148107> spawned sent ent_jack_gmod_ezarmor_nvgs
+[01:39:06] Тостер: а только подсвечивает пропы
+[01:39:09] Sandro23: вот
+[01:39:16] Sandro23: -25k блядь
+[01:39:21] Тостер: хахахахах
+[01:39:29] Sandro23: Титан убью нахуй
+[01:39:29] Тостер: у меня 10к
+[01:39:33] Тостер: из-за цен
+[01:39:38] Sandro23: пидорас ёбанный
+[01:39:51] Sandro23: help
+[01:39:53] Тостер: О, радио ещё овнера меняет
+[01:40:04] Sandro23: supply radio help
+[01:40:20] Тостер: они не вернулись ещё
+[01:40:25] Тостер: кулдаун
+[01:40:26] Sandro23: Supply radio: help
+[01:40:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:40] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:41] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:40:43] Тостер: я заказал клейморы
+[01:41:33] Тостер: Я проверю кое-что на ящике
+[01:41:39] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:41:39] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:41:41] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:41:43] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:42:06] Тостер: не, их хватать нельзя
+[01:42:15] Тостер: граббером
+[01:42:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:15] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:16] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:17] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:42:23] Тостер: а что фасоль делает?
+[01:42:27] Sandro23: Еда
+[01:42:31] Sandro23: голод
+[01:42:38] Sandro23: Ты в билд те насрать
+[01:42:38] Тостер: у меня он 0
+[01:42:47] Тостер: да, я у мереть должен уже)
+[01:43:01] Тостер: хехе
+[01:43:05] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:21] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:37] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:37] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:37] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:38] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:43:51] Тостер<STEAM_0:1:116008424> spawned model models/hunter/blocks/cube025x05x025.mdl
+[01:44:03] Тостер: декор
+[01:44:07] Тостер: радио не рабочее
+[01:44:26] Тостер<STEAM_0:1:116008424> spawned model models/props_combine/breenglobe.mdl
+[01:44:35] Sandro23: help
+[01:44:39] Sandro23: help
+[01:44:44] Тостер: supply radio: help
+[01:44:48] Тостер: вот так
+[01:45:17] Тостер: supply radio: имя предмета из help
+[01:45:30] Sandro23: time mine
+[01:45:43] Тостер: suppy radio: time mine
+[01:45:46] Sandro23: supply radio: time mine
+[01:45:54] Тостер: что сказало?
+[01:45:56] Тостер: negative
+[01:45:59] Тостер: on request
+[01:46:03] Sandro23: неть
+[01:46:06] Тостер: или что прибудет?
+[01:46:07] Sandro23: Промолчал
+[01:46:13] Тостер: найс
+[01:46:19] Sandro23: supply radio: time bomb
+[01:46:30] Sandro23: Нету значит
+[01:46:54] Тостер: supply radio: hl2 ammo
+[01:46:57] Тостер: А, забыл
+[01:47:04] Тостер: тут же владелец только может
+[01:47:06] Тостер: заказать
+[01:47:10] Sandro23: supply radio: explosievs
+[01:47:17] Тостер: неверно написал
+[01:47:20] Тостер: explosives
+[01:47:41] Sandro23: Теперь я кста владелец)
+[01:47:50] Sandro23: он
+[01:47:57] Sandro23: -_-
+[01:48:03] Тостер: у тебя цвет физгана синий что ли?
+[01:48:05] Dropped "lsr.nicholson" from server<STEAM_0:0:232603065>
+[01:48:10] Sandro23: неть
+[01:48:10] Тостер: аа, там по цвету ника
+[01:48:15] Тостер: т.е. команды игрока
+[01:48:22] Sandro23: не трожь
+[01:48:25] Тостер: к
+[01:48:29] Тостер: я ещё сделаю
+[01:48:39] Sandro23: Раньше было без парашута
+[01:48:55] Sandro23: Было интереснее) Прилетить в ебало чи не
+[01:49:42] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:49:58] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:50:43] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezcrate
+[01:50:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:50:59] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:00] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:01] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:51:11] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:51:13] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:51:16] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:51:58] Sandro23<STEAM_0:0:435148107> spawned NPC npc_monk
+[01:52:24] Sandro23<STEAM_0:0:435148107> spawned NPC npc_monk
+[01:52:45] Sandro23<STEAM_0:0:435148107> spawned NPC npc_monk
+[01:53:12] Sandro23<STEAM_0:0:435148107> spawned NPC npc_metropolice
+[01:53:27] Sandro23<STEAM_0:0:435148107> spawned NPC npc_freetvszombie
+[01:53:36] Тостер<STEAM_0:1:116008424> spawned vehicle models/blu/zaz/zaz.mdl
+[01:54:10] Тостер: Мне почему-то очень нравится система с ресурсами эта
+[01:54:24] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vortigaunt
+[01:54:40] Sandro23<STEAM_0:0:435148107> spawned NPC npc_alyx
+[01:54:52] Sandro23<STEAM_0:0:435148107> spawned NPC npc_citizen
+[01:54:59] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vortigaunt
+[01:55:03] Тостер: я запаковал мину
+[01:55:11] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vortigaunt
+[01:55:18] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vortigaunt
+[01:55:25] Sandro23<STEAM_0:0:435148107> spawned NPC npc_vortigaunt
+[01:55:45] Тостер: втф
+[01:55:59] Sandro23: смотри
+[01:56:09] Тостер: я пущу
+[01:56:13] Тостер: в плаванье
+[01:56:29] Тостер: найс
+[01:56:46] Sandro23: херач
+[01:56:58] Тостер: ща
+[01:57:03] Sandro23: в плаванье
+[01:57:08] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezparts
+[01:57:25] Sandro23: Я ЕЁ ВКЛЮЧИЛ
+[01:57:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:30] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:31] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Тостер: кто найдёт, тот молодец
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:32] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:33] Sandro23<STEAM_0:0:435148107> spawned sent amb_survive_food
+[01:57:40] Тостер: она выключится при распаковке
+[01:57:46] Тостер: т.к. сосотояние не запоминается
+[01:57:51] Тостер: и спавнится обычная мина
+[01:58:16] Тостер: Только смысл ставить мину на машины под воду?
+[01:58:28] Sandro23<STEAM_0:0:435148107> spawned vehicle models/ruscars/azlk412/azlk412.mdl
+[01:58:42] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:58:43] Sandro23<STEAM_0:0:435148107> spawned sent item_healthkit
+[01:58:44] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:58:45] Sandro23<STEAM_0:0:435148107> spawned sent item_battery
+[01:59:04] Sandro23: можно кое-что сделаю?
+[01:59:34] Тостер: ебать тут ресурсов много на ядерку надо
+[01:59:42] Тостер: Титан её сделал пиздец дорогой
+[02:00:25] Sandro23: а где?
+[02:00:32] Sandro23: Mini naval mine
+[02:00:41] Тостер: в build kit'е
+[02:00:47] Тостер: в верстаке нету
+[02:00:49] Sandro23<STEAM_0:0:435148107> spawned sent ent_jack_gmod_ezbuildkit
+[02:01:23] Sandro23: 6
+[02:01:47] Sandro23: ТИТАН ПИДР
+[02:01:53] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezparts
+[02:01:59] Sandro23: ИСПОЛЬЗУЙ ВЕРЁВКУ
+[02:02:04] Тостер: ?
+[02:02:05] Sandro23: ДАВАЙ
+[02:02:12] Sandro23: ПРОСТО ПОПРОБУЙ
+[02:02:14] Тостер: 5
+[02:02:17] Sandro23<STEAM_0:0:435148107> spawned vehicle models/ruscars/kamaz53229f/kamaz53229f.mdl
+[02:02:48] Тостер<STEAM_0:1:116008424> spawned sent ent_jack_gmod_ezparts
+[02:02:51] Sandro23: используй верёвку
+[02:02:59] Sandro23: ДАВАЙ
+[02:02:59] Тостер: ?
+[02:03:03] Тостер: зачем
+[02:03:05] Sandro23: ИНСТРУМЕНТ
+[02:03:05] Тостер: веревку
+[02:03:10] Sandro23: ИСПОЛЬЗУЙ
+[02:03:15] Тостер: мла
+[02:03:19] Тостер: мда
+[02:03:25] Sandro23: НАХУЯ?
+[02:03:56] Sandro23<STEAM_0:0:435148107> spawned sent ent_jack_gmod_ezflashbang
+[02:04:16] Sandro23<STEAM_0:0:435148107> spawned sent ent_jack_gmod_ezsignalnade
+[02:05:21] Sandro23: бб
+[02:05:29] Dropped "Sandro23" from server<STEAM_0:0:435148107>
+[02:06:34] Тостер: /rp
+[02:10:14] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:17] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:18] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:18] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:18] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:19] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:19] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:19] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:19] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:19] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_food
+[02:10:24] Тостер<STEAM_0:1:116008424> spawned sent amb_survive_sleeping_bag
+[02:10:48] Тостер<STEAM_0:1:116008424> spawned vehicle models/blu/zaz/zaz.mdl
+[02:12:11] Тостер<STEAM_0:1:116008424> spawned vehicle models/blu/zaz/zaz.mdl
+[02:12:55] Тостер: /pvp
+[02:13:57] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:14:41] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:15:27] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:15:54] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:16:14] RѦinѯr: где я
+[02:16:18] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:16:24] RѦinѯr: Где ты
+[02:16:29] RѦinѯr: погоди, я уже
+[02:16:31] Тостер: Здесь?
+[02:16:37] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:16:42] RѦinѯr: ща погодь пару сек, надо снега навалить
+[02:16:54] Тостер: Снега?
+[02:16:55] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:17:33] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:17:53] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:18:23] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:19:02] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:19:07] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate1x1.mdl
+[02:19:41] Тостер: /cmds
+[02:19:43] Тостер: /cmd
+[02:19:52] Тостер: /timevotemap
+[02:20:54] Тостер<STEAM_0:1:116008424> spawned model models/props_phx/construct/metal_angle360.mdl
+[02:21:03] Тостер: /build
+[02:21:35] Тостер: /pvp
+[02:22:44] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate05x05.mdl
+[02:23:27] RѦinѯr: так
+[02:23:30] RѦinѯr: я отходил
+[02:23:43] RѦinѯr: но щас еще на пару сек отойду мы продолжим
+[02:25:11] RѦinѯr: Ты тут
+[02:25:21] Тостер: да
+[02:25:32] RѦinѯr: Какие правила на этом серваке
+[02:25:42] RѦinѯr: Про наркоту разговаривать запрещено?
+[02:25:46] Тостер: Нет
+[02:25:58] Тостер: Странный вопрос
+[02:26:04] RѦinѯr: Такой вопрос к тебе
+[02:26:07] RѦinѯr: 18 есть?
+[02:26:10] Тостер: нет
+[02:26:16] Тостер: Продаешь что ли?
+[02:26:16] RѦinѯr: А сколько
+[02:26:20] RѦinѯr: не бля
+[02:26:20] Тостер: 5
+[02:26:28] RѦinѯr: я чо похож на барыгу
+[02:26:39] Тостер: :D
+[02:26:53] RѦinѯr: Я кароч ЛСД с дозой 250 мкг и микродоту 180 мкг захавал
+[02:27:06] Тостер: И чё?
+[02:27:11] RѦinѯr: Учитывая, что я хаваю их всего 2 раз, это пиздец как много
+[02:27:19] RѦinѯr: Еще 7 часов будет ебашить
+[02:27:30] RѦinѯr: а уже 5 часов с первого эффекта прошло
+[02:27:34] RѦinѯr: Я просто кароч
+[02:27:39] RѦinѯr: Как сказать
+[02:27:49] RѦinѯr: Вот смотрю на этот столб
+[02:28:09] RѦinѯr: И начинаю понимать его структуру и вижу всего межгранности
+[02:28:17] RѦinѯr: все его*
+[02:28:18] Тостер: ?????
+[02:28:23] RѦinѯr: Ну кароч
+[02:28:26] RѦinѯr: Представь
+[02:28:35] RѦinѯr: Что бы смотришь на объект больше 10 секунд
+[02:28:43] RѦinѯr: я вот объебанный смотрю
+[02:28:50] RѦinѯr: И просто начинаю сливаться с ним
+[02:29:10] Тостер: Окей, видимо про ЛСД ты не врал
+[02:29:23] RѦinѯr: А рили тебе сколько лет
+[02:29:28] Тостер: 16
+[02:29:31] RѦinѯr: ааа
+[02:29:37] Тостер: я щас е2 чип проверял
+[02:29:37] Client "ilja_990" connected.
+[02:29:37] RѦinѯr: Чо, траву пробовал?
+[02:29:41] Тостер: не
+[02:29:50] RѦinѯr: еврик или изяоляторы какие-нибудь
+[02:29:56] RѦinѯr: изоляторы*
+[02:30:01] RѦinѯr: А хочешь?
+[02:30:19] RѦinѯr: Я могу подсказать где купить, но это максимум
+[02:30:25] Тостер: на гидре?)
+[02:30:26] RѦinѯr: Но это на твой выбор
+[02:30:28] RѦinѯr: Ооо
+[02:30:32] RѦinѯr: Я думал я один тут такой
+[02:30:48] RѦinѯr: Сколько поднял адресов?
+[02:30:56] Тостер: Я не употебляю , просто по приколу в даркнете нашёл
+[02:31:01] RѦinѯr: Ладно на счет ЛСД я наебал
+[02:31:07] RѦinѯr: Я на самом деле под амфом
+[02:31:16] RѦinѯr: Причем пизедец каким мощным
+[02:31:22] RѦinѯr: Горло иссушило жжет пизда
+[02:31:31] Тостер: Смотри не умри
+[02:31:44] RѦinѯr: Да не, от амфа передоз не как от кокса
+[02:31:53] RѦinѯr: От него передоз типо глюки начинаються
+[02:32:01] RѦinѯr: А я всего 4 полосы схуячил
+[02:32:12] RѦinѯr: Ебать 4.5 пиздец мощный
+[02:32:29] RѦinѯr: Плюс последний раз я нюхал 3 месяца назад
+[02:32:41] RѦinѯr: Я бля будто колесами закинулся
+[02:32:48] RѦinѯr: Да, кстати
+[02:33:05] RѦinѯr: Если будешь брать там экстази не бери колеса "бэнтли"
+[02:33:18] RѦinѯr: Бери ролс ройсы, это самые элитные колеса из всех
+[02:33:41] RѦinѯr: Я вот помню одну таблетку ролс ройсов закинул, потом по улице 
+[02:33:48] RѦinѯr: Ходил меня так мазало
+[02:33:50] Тостер: норм
+[02:33:50] RѦinѯr: Кароч
+[02:34:02] Тостер: Чуть громче
+[02:34:10] RѦinѯr: не, громче не могу
+[02:34:15] RѦinѯr: Мама спит XD
+[02:34:18] Тостер: хахаах
+[02:34:40] RѦinѯr: Кароч, чтобы ты приблизительно понимал что за ролс ройсы
+[02:34:56] RѦinѯr: Я опишу как я выглядел тогда со стороны и самые жесткие эффекты
+[02:35:16] RѦinѯr: Кароч это колесо сначало брало потихонечку и по чуть-чуть
+[02:35:23] Тостер: Да, а зачем ты это всё рассказываешь рандомному челику из гмода?
+[02:35:35] RѦinѯr: Да я под амфом, мне попиздеть хочеться
+[02:35:45] RѦinѯr: Ты первый, кто шарит
+[02:36:10] Тостер: Я дальше захода на гидру не шарю :D
+[02:36:11] RѦinѯr: До тебя я еще с 5 болтал, они даже не знали что в наркобизнесе
+[02:36:14] Тостер: ни разу не был обьебан
+[02:36:23] RѦinѯr: Да там ничего сложного
+[02:36:35] RѦinѯr: Кароч, сначала скажу эффекты от колес
+[02:36:53] RѦinѯr: Меня начинало брать по чуть-чуть и типо такой сижу радостный
+[02:37:03] RѦinѯr: Типо думаю: "Ща кайфану"
+[02:37:16] RѦinѯr: Но тут, сука, как ударом кувалды по голов
+[02:37:25] RѦinѯr: Меня взяло резко и мощно
+[02:37:32] RѦinѯr: Я в тот момент играл на каком-то серваке
+[02:37:38] RѦinѯr: Ща даже скажу каком
+[02:37:57] RѦinѯr: Чет там название "SANDBOX | PIlls и еще дофига"
+[02:38:09] RѦinѯr: Ну меня на тот момент все там знали
+[02:38:14] RѦinѯr: Я типо сижу такой
+[02:38:21] RѦinѯr: Меня просто ебнуло не по детски
+[02:38:35] RѦinѯr: ЧТоб ты понял я не мог нормально навестись прицелом 
+[02:38:44] RѦinѯr: на настройки меню
+[02:38:51] RѦinѯr: потому-что я рук не чувствовал
+[02:39:05] Тостер<STEAM_0:1:116008424> spawned sent keypad_wire
+[02:39:13] RѦinѯr: У меня еще кароч была одна прога
+[02:39:18] Тостер<STEAM_0:1:116008424> spawned model models/hunter/plates/plate05x05.mdl
+[02:39:23] RѦinѯr: Через которую я делал гадзы
+[02:39:29] RѦinѯr: Знаешь чо такое гадза
+[02:39:36] Тостер: Не-а
+[02:39:50] RѦinѯr: Набери тогда в ютубе "глад валакас гадза"
+[02:39:56] RѦinѯr: Посмотри щас там недолго
+[02:40:01] RѦinѯr: как посмотришь напишешь
+[02:40:55] RѦinѯr: я отойду на пару сек, напишешь как придешь
+[02:41:17] RѦinѯr: Я тут
+[02:41:29] RѦinѯr: Ты тут или еще смотришьц
+[02:41:39] Тостер: -уши
+[02:41:40] RѦinѯr: аа вижу уже посмотрел
+[02:41:44] RѦinѯr: Вот кароч
+[02:41:55] RѦinѯr: У меня была прога, через которую я мог так же делать
+[02:42:05] Тостер: soundpad?
+[02:42:12] RѦinѯr: И кароч мне, в хлам объебаному пришла идея
+[02:42:23] RѦinѯr: ЕБануть гадзу на серваке
+[02:42:27] RѦinѯr: Нет не саундпад
+[02:42:30] RѦinѯr: Как то там
+[02:42:33] RѦinѯr: АА
+[02:42:39] RѦinѯr: MorphVoxPro
+[02:42:41] RѦinѯr: Как-то так
+[02:42:45] RѦinѯr: Ну и вот
+[02:42:54] RѦinѯr: Кароч сказал я всем что щас гаду ебану
+[02:43:03] RѦinѯr: Ну, включил и настроил прогу
+[02:43:09] RѦinѯr: Начинаю орать
+[02:43:16] RѦinѯr: ТИпо когда орешь получается гадза
+[02:43:25] RѦinѯr: А потом понимаю что не врубил специальный микрофон
+[02:43:43] RѦinѯr: и гадза просто не сработала, а я в итоге просто орал в микрофон, как до
+[02:43:48] RѦinѯr: долбоеб
+[02:43:51] RѦinѯr: В итоге
+[02:43:57] RѦinѯr: Орал я так минуты 2
+[02:44:03] Тостер: хаха
+[02:44:10] RѦinѯr: Пока не заметил что вокруг меня все столпились
+[02:44:23] RѦinѯr: Только потом я заметил что не подрубил спец микро для гадзы
+[02:44:23] Тостер: сука, партиклов нету
+[02:44:41] RѦinѯr: Они типо все спрашивали: "Что с ним"
+[02:44:58] RѦinѯr: Кто-то там говорил, типо: "Он упоролся чем-то и его штырит"
+[02:45:11] RѦinѯr: Я кароч потом хотел убежать от них, хз зачем
+[02:45:20] RѦinѯr: Но, сука админы зафризили
+[02:45:24] RѦinѯr: И я просто ливнул
+[02:45:37] RѦinѯr: Вышел я кароч и чувсвую сушняк дикий
+[02:45:46] RѦinѯr: Реша. пойти на кухню за водой
+[02:46:07] RѦinѯr: Кароч с этого момента начинается самое жесткое
+[02:46:21] RѦinѯr: Как только я повернул голову вправо у меня просто
+[02:46:30] RѦinѯr: вся картинка размазалась вправо
+[02:46:47] RѦinѯr: То есть остался огромный шлейф, при том долгий
+[02:46:57] RѦinѯr: Кароч, потом я еще чуть чуть посидел
+[02:47:01] RѦinѯr: шлейфы прошли
+[02:47:06] RѦinѯr: Я решил встать
+[02:47:12] RѦinѯr: Но была проблема
+[02:47:26] RѦinѯr: Я не чувствовал свои ступни вообще и не понимал как ходить
+[02:47:39] RѦinѯr: В итоге маленькими шажками, как пингвин
+[02:47:53] RѦinѯr: И с радостным ебалом, от осознания того
+[02:48:04] RѦinѯr: Что я вообще могу ходить я направился на кухню
+[02:48:32] RѦinѯr: Кароч попил воды, лег на диван и взял телефон
+[02:48:41] RѦinѯr: ДАльше будет самое интересное
+[02:48:57] RѦinѯr: Кароч дальше я пишу продавцу на гидре
+[02:49:02] RѦinѯr: У которого покупал колеса
+[02:49:26] RѦinѯr: Типо: "ЕБать меня штырит, меня просто мажет пиздец"
+[02:49:43] RѦinѯr: Только с дохуя кол-вом ошибок, ибо не мог нормально тыкать пальцами
+[02:49:52] RѦinѯr: Я же кисти вообще не чувствовал
+[02:50:00] Тостер: Мне кажется, он и так понял)
+[02:50:16] RѦinѯr: Я ему кароч написал, типо: Чо делать
+[02:50:28] RѦinѯr: Он такой: "Наслаждайтесь вечером)"
+[02:50:40] RѦinѯr: Я потом дополнил свой отзыв
+[02:50:48] RѦinѯr: С примерно таким сообщением
+[02:51:16] RѦinѯr: "Клоч мня нбать шыпит, эоо воще пздец"
+[02:51:21] RѦinѯr: Типо как-то так кароч
+[02:51:33] RѦinѯr: Потом мне вдруг захотелось попиздеть
+[02:51:44] RѦinѯr: Я позвонил другу, объяснил так и так
+[02:51:59] RѦinѯr: Пока я с ним разговаривал, а он угарал
+[02:52:14] RѦinѯr: Моя левая рука сама поднималась и ложилась на голову
+[02:52:29] RѦinѯr: А если я её опускал, то она снова поднималась
+[02:52:44] RѦinѯr: Кароч потом позвонил другому другу, объяснил что к чему
+[02:52:53] RѦinѯr: Он попросил у меня 1 колесо
+[02:52:59] RѦinѯr: Я типо сказал, похуй погнали
+[02:53:04] RѦinѯr: Кароч кое-как оделся
+[02:53:11] RѦinѯr: Только вышел на улицу
+[02:53:18] RѦinѯr: И просто смотрю куда-то вперед
+[02:53:21] RѦinѯr: И кароч
+[02:53:33] RѦinѯr: ТАм у меня хата в доме буквой "Г"
+[02:53:50] RѦinѯr: Я типо стоял на углу дома, а на другом конце я кароч
+[02:53:56] RѦinѯr: Услышал детский голос
+[02:54:10] RѦinѯr: ТАм типо какой-то пиздюк просил свою маму что-то ему купить
+[02:54:14] RѦinѯr: Я кароч повернулся и ахуел
+[02:54:27] RѦinѯr: Они стояли другом конце дома
+[02:54:35] RѦinѯr: Я их впринципе не должен был услышать
+[02:54:42] RѦinѯr: Прикинь какой я слухастый стал
+[02:54:51] RѦinѯr: Потом кароч я потом на место встречи
+[02:55:10] RѦinѯr: Типо ходить уже мог более менее, но сука 
+[02:55:29] RѦinѯr: я постоянно теряд баланс
+[02:55:46] RѦinѯr: И меня, как корабль в шторме, коренило то в вправо то влево
+[02:56:05] Тостер: А вот ты когда покупаешь, не боишься, что вместо продавца
+[02:56:08] Тостер: будет какой-нить товарищ майор?
+[02:56:12] RѦinѯr: Я кароч уже отошел от дома и ко мне на встречу пошли какие-то
+[02:56:14] RѦinѯr: Чувак
+[02:56:19] RѦinѯr: Я тебе скажу по секрету
+[02:56:43] RѦinѯr: 90% и более магазинов на гидре мусорские
+[02:56:54] RѦinѯr: Ты разве не знал
+[02:57:09] Тостер: я про то, что тебя конвоируют в очко
+[02:57:19] Тостер: Всесто товара
+[02:57:20] RѦinѯr: А, типо засада?
+[02:57:24] Тостер: да-да
+[02:57:29] Тостер: типо того
+[02:57:30] RѦinѯr: Не, мусора свои позиции не сдают
+[02:57:44] RѦinѯr: Меня 2 раза принимали, но не потому-что барыга сдал
+[02:57:56] RѦinѯr: А потому-что это были точки, на которых ездят мусора
+[02:58:10] Тостер: Ты ещё не на учёте?
+[02:58:12] RѦinѯr: Короче, таких же как и я, скоросотных в основном ловят
+[02:58:24] RѦinѯr: Не, у них там есть продуманная схема
+[02:58:46] RѦinѯr: Кароч, чтобы понял их прикол, ща расскажу вкратце историю
+[02:59:04] RѦinѯr: Заказал я летом АМФ 1 г
+[02:59:12] RѦinѯr: ПОехал ночью забирать
+[02:59:22] RѦinѯr: Короч кое как добрался до места
+[02:59:33] RѦinѯr: В итоге по кордам и фоткам 2 часа искал то место
+[02:59:39] RѦinѯr: И нихуя само место не нашел
+[02:59:52] RѦinѯr: Я бы понимаю, если бы был ненаход клада, но место
+[02:59:55] RѦinѯr: Не найти
+
+
+
+[03:03:09] New map: gm_construct
+
+
+
+[03:05:17] New map: gm_construct
+
+
+
+[03:11:19] New map: gm_construct
+
+
+
+[03:14:57] New map: gm_construct
+
+
+
+[03:18:47] New map: gm_construct
+
+
+
+[03:23:02] New map: gm_construct
+
+
+
+[03:32:52] New map: gm_construct
+[03:33:37] Client "Bot01" connected.
+[03:33:37] Client "Bot01" spawned in server <BOT> (took 57 seconds).
+[03:35:51] Bot01 suicided!
+[03:35:51] (Console) slayed Bot01
+
+
+
+[03:37:07] New map: gm_construct
+
+
+
+[03:38:39] New map: gm_construct
+[03:40:32] Client "Bot01" connected.
+[03:40:32] Client "Bot01" spawned in server <BOT> (took 124 seconds).
+[03:40:39] Bot01 suicided!
+[03:40:39] (Console) slayed Bot01
+
+
+
+[03:43:08] New map: gm_construct

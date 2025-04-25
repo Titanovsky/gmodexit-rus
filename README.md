@@ -21,8 +21,14 @@
 
 ## База данных
 
-* Инфа о игроках: Имя, SteamID, последний заход и дата регистрации ([здесь](https://github.com/Titanovsky/gmodexit-homeway/blob/main/database/homeway_players.md))
-* Все организации ([здесь](https://github.com/Titanovsky/gmodexit-homeway/blob/main/database/homeway_organizations.md))
+* (2020) Статистики игроков  ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_2020_07_players.md))
+* (2020) Bad Entities ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_2020_07_bad_entities.md))
+* (2022) Аккаунты ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_2022_ambi_accounts.md))
+* (2022) Билдеры ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_2022_ambi_builders.md))
+* (2022) Баны ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_2022_bans.md))
+* Игроки ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_last_players.md))
+* PVP ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_last_pvp.md))
+* Перманентные сообщения, как таблички в майне, по картам ([здесь](https://github.com/Titanovsky/gmodexit-rus/blob/main/database/rus_last_world_messages.md))
 
 ## Дополнительная инфа
 

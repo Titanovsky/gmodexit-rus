@@ -1,0 +1,668 @@
+[01:37:59] New map: gm_rus
+[01:40:20] Server is shutting down/changing levels.
+
+
+
+[01:40:38] New map: gm_rus
+[01:46:08] Client "Titanovsky" connected.
+[01:46:32] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 24 seconds).
+[01:47:48] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[02:02:38] Client "Titanovsky" connected.
+[02:02:48] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 10 seconds).
+[02:04:07] Titanovsky to admins: Титановский писюн
+[02:04:44] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/furniturefireplace001a.mdl
+[02:04:46] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/furniturefireplace001a.mdl
+[02:04:49] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/door01_left.mdl
+[02:05:00] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/door01_left.mdl
+[02:06:19] (Console) added Titanovsky to group superadmin on 4096 days
+[03:05:16] Server is shutting down/changing levels.
+
+
+
+[03:05:35] New map: gm_rus
+[03:05:52] Client "Titanovsky" connected.
+[03:06:02] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 10 seconds).
+[03:06:15] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[03:06:26] Server is shutting down/changing levels.
+
+
+
+[03:06:45] New map: gm_rus
+[03:07:20] Client "Titanovsky" connected.
+[03:07:29] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 9 seconds).
+[03:08:29] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[03:08:29] Client "Titanovsky" connected.
+[03:08:32] Client "Titanovsky" connected.
+[03:08:36] Server is shutting down/changing levels.
+
+
+
+[03:08:54] New map: gm_rus
+[03:08:54] Client "Titanovsky" connected.
+[03:09:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 9 seconds).
+[03:09:49] Titanovsky: /puka
+[03:10:10] Titanovsky: /puka
+[03:10:29] (SILENT) Titanovsky ran lua: tmp_var=Entity(1):Team()
+[03:10:41] (SILENT) Titanovsky ran lua: tmp_var=team.GetName( 1 )
+[03:11:32] (SILENT) Titanovsky ran lua: tmp_var=team.GetName( Entity(1):Team() )
+[03:12:17] Titanovsky: /puka
+[03:12:18] Titanovsky: puka
+[03:12:30] Titanovsky: /puka
+[03:12:47] Titanovsky suicided!
+[03:12:47] Titanovsky: /puka
+[03:13:39] Titanovsky suicided!
+[03:13:39] Titanovsky: /puka
+[03:13:53] Titanovsky suicided!
+[03:13:53] Titanovsky: /puka
+[03:14:26] Titanovsky: /puka
+[03:14:47] Titanovsky: /puka
+[03:14:56] Titanovsky: /puka
+[03:15:23] Titanovsky: /puka
+[03:15:45] Titanovsky: /pukla
+[03:15:46] Titanovsky: /puka
+[03:16:18] Titanovsky: /puka
+[03:16:45] Titanovsky: /puka
+[03:16:55] Titanovsky: /puka
+[03:16:59] Titanovsky: ad
+[03:18:03] Titanovsky: /puka
+[03:18:36] Titanovsky: /puka
+[03:18:43] Titanovsky: /puka
+[03:18:52] Titanovsky: /puka
+[03:19:09] Titanovsky: /puka
+[03:19:36] Titanovsky: /puka
+[03:20:49] Titanovsky: /puka
+[03:22:36] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[06:05:05] Server is shutting down/changing levels.
+
+
+
+[06:05:23] New map: gm_rus
+[10:13:38] Client "Titanovsky" connected.
+[10:13:58] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 20 seconds).
+[10:16:20] Titanovsky gagged Themself
+[10:16:23] Titanovsky gagged Themself
+[10:16:30] Titanovsky ungagged Themself
+[10:17:57] Titanovsky: вф
+[10:17:59] Titanovsky: Закончилась работа
+[10:18:04] Titanovsky: Кадрить потанцевать
+[10:44:21] Titanovsky added Themself to group superadmin on 1 days
+[10:55:23] Server is shutting down/changing levels.
+
+
+
+[10:55:41] New map: gm_rus
+[10:56:33] Server is shutting down/changing levels.
+
+
+
+[10:56:51] New map: gm_rus
+[10:57:40] Client "Titanovsky" connected.
+[10:57:47] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[11:18:01] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[11:18:01] Client "Titanovsky" connected.
+[11:18:08] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[11:41:57] Server is shutting down/changing levels.
+
+
+
+[11:42:15] New map: gm_rus
+[11:52:58] Server is shutting down/changing levels.
+
+
+
+[11:53:16] New map: gm_rus
+[11:53:32] Client "Titanovsky" connected.
+[11:53:39] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[11:55:28] Server is shutting down/changing levels.
+
+
+
+[11:55:46] New map: gm_rus
+[11:55:56] Client "Titanovsky" connected.
+[11:56:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[11:56:59] Server is shutting down/changing levels.
+
+
+
+[11:57:16] New map: gm_rus
+[11:57:34] Client "Titanovsky" connected.
+[11:57:41] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[11:58:27] Titanovsky: Да
+[11:58:49] Server is shutting down/changing levels.
+
+
+
+[11:59:07] New map: gm_rus
+[11:59:07] Client "Titanovsky" connected.
+[11:59:14] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[12:03:00] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/fence03a.mdl
+[13:39:48] Titanovsky: 1
+[13:41:21] Titanovsky: 1
+[13:41:45] Titanovsky: 1
+[13:41:48] Titanovsky: 1
+[13:41:48] (Console) added Titanovsky to group superadmin on 1 days
+[14:20:00] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:20:01] Client "Titanovsky" connected.
+[14:20:08] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[14:20:36] (Console) removed rank from Titanovsky
+[14:21:09] Titanovsky: /puka
+[14:21:09] (Console) added Titanovsky to group superadmin on 1 days
+[14:21:28] (Console) removed rank from Titanovsky
+[14:21:38] (Console) added Titanovsky to group superadmin on 2 days
+[14:24:09] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:24:09] Client "Titanovsky" connected.
+[14:24:16] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[14:31:38] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:31:38] Client "Titanovsky" connected.
+[14:31:45] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[14:32:24] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:32:24] Client "Titanovsky" connected.
+[14:32:32] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[14:40:57] Titanovsky<STEAM_0:1:95303327> spawned model models/props_borealis/bluebarrel001.mdl
+[17:04:49] Client "Shitzu" connected.
+[17:05:06] Client "Shitzu" spawned in server <STEAM_0:0:82543059> (took 17 seconds).
+[17:06:19] Shitzu: Я ем женщин и детей
+[17:07:07] Shitzu: !menu
+[17:07:27] (Console) added Shitzu to group superadmin on 4096 days
+[17:07:28] (Console) added Shitzu to group superadmin on 4096 days
+[17:07:36] Shitzu: !menu
+[17:07:46] Shitzu teleported to Titanovsky
+[17:07:50] Shitzu killed Titanovsky using player
+[17:09:10] Shitzu was killed by trigger_hurt
+[17:09:24] Shitzu: !menu
+[17:09:29] Shitzu set the hp for Themself to 1352635804
+[17:10:27] Shitzu to admins: ыфв
+[17:12:48] Shitzu to admins: фыв
+[17:16:04] Client "ExtraDipus" connected.
+[17:21:27] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 323 seconds).
+[17:21:36] Shitzu: !menu
+[17:21:44] Shitzu added ExtraDipus to group superadmin on 4096 days
+[17:21:56] Shitzu killed ExtraDipus using player
+[17:23:34] Shitzu to admins: ФФФФВЫ
+[17:23:40] Shitzu: УФФ
+[17:23:42] ExtraDipus: уфф
+[17:23:44] ExtraDipus: дарова
+[17:23:48] Shitzu: Дарова
+[17:23:49] ExtraDipus: почему так часто проподаешь
+[17:24:02] Shitzu: Я вчера перед закрытием заходил
+[17:24:09] ExtraDipus: та я рофлю
+[17:24:16] Shitzu: Карта - дичь
+[17:24:19] Shitzu: Лёша вернётся
+[17:24:23] Shitzu: Я его "обрадаю"
+[17:24:28] Shitzu: А вот и Лёша
+[17:24:34] Shitzu: !menu
+[17:25:13] Shitzu: У тебя авараия рядом случилась?
+[17:25:42] Shitzu: !menu
+[17:25:48] Shitzu teleported to Titanovsky
+[17:26:17] Shitzu: Да я не слышал
+[17:26:18] Titanovsky gagged Shitzu
+[17:26:21] Titanovsky teleported to Shitzu
+[17:26:24] Shitzu: У меня музыка играла
+[17:26:27] Shitzu: в дис
+[17:26:28] ExtraDipus: ебать током ебануло
+[17:26:29] ExtraDipus was killed by trigger_hurt
+[17:26:29] Shitzu: идёмте
+[17:32:10] Dropped "Shitzu" from server<STEAM_0:0:82543059>
+[17:32:12] Titanovsky: девочка
+[17:32:22] Titanovsky teleported to ExtraDipus
+[17:32:37] ExtraDipus: шиза выбрал оксида?
+[17:32:59] Titanovsky teleported to ExtraDipus
+[17:33:09] ExtraDipus: мля
+[17:33:12] ExtraDipus: шя подумаю
+[17:34:10] ExtraDipus: я выбераю соло
+[17:34:22] ExtraDipus: да плохая шутка
+[17:34:28] ExtraDipus: наверн зака 
+[17:34:42] Titanovsky: org_wallhack 1
+[17:35:01] ExtraDipus: у тебя войс обрывается или ты отпускаешь рано кнопку?
+[17:35:12] ExtraDipus: да
+[17:35:22] ExtraDipus: шя нет
+[17:35:30] ExtraDipus: вижу
+[17:35:43] ExtraDipus: но мне почему то выдало
+[17:35:44] ExtraDipus: Requesting texture value from var "$basetexture" which is not a texture value (material: outlinemat)
+[17:35:53] ExtraDipus: не понял
+[17:35:56] ExtraDipus: оборвался
+[17:36:03] Titanovsky: У тебя ошибка выдаётся?
+[17:36:07] ExtraDipus: да 
+[17:36:10] ExtraDipus: но всё работает
+[17:36:16] Titanovsky: сильно флудит?
+[17:36:21] ExtraDipus: 1 раз
+[17:36:35] ExtraDipus: перестало
+[17:36:42] ExtraDipus: я шя ввёл 0
+[17:36:45] ExtraDipus: потом опять 1
+[17:36:48] ExtraDipus: и нету ошибки
+[17:37:19] ExtraDipus<STEAM_0:0:164590602> spawned NPC npc_zombie
+[17:37:24] Titanovsky removed rank from ExtraDipus
+[17:37:43] ExtraDipus: шо
+[17:37:46] Titanovsky: Перезайди
+[17:37:52] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[17:37:56] Client "ExtraDipus" connected.
+[17:38:20] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 24 seconds).
+[17:38:46] ExtraDipus: житель
+[17:38:51] ExtraDipus: юзер
+[17:39:00] Titanovsky: mode 1-4 в консоль это режимы
+[17:39:02] Titanovsky: 1 ситизен
+[17:39:05] Titanovsky: 2 pvp
+[17:39:07] Titanovsky: ЩАС
+[17:39:08] Titanovsky: ПОГОИД
+[17:40:08] Titanovsky: Экстра
+[17:40:15] Titanovsky: напиши org_register
+[17:40:20] Titanovsky: и попробуйз арегать организацию
+[17:40:22] Titanovsky: и потом напишешь мне
+[17:40:23] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:43:36] Client "Titanovsky" connected.
+[17:43:45] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 9 seconds).
+[17:45:09] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:45:16] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[17:45:19] Client "ExtraDipus" connected.
+[17:45:41] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 22 seconds).
+[17:47:04] Client "Titanovsky" connected.
+[17:47:11] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[17:52:10] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:53:25] Client "Titanovsky" connected.
+[17:53:34] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 9 seconds).
+[17:55:27] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:55:55] Client "Titanovsky" connected.
+[17:56:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[17:57:27] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:57:28] Client "Titanovsky" connected.
+[17:57:36] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[17:58:59] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:59:00] Client "Titanovsky" connected.
+[17:59:08] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[17:59:18] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[17:59:19] Client "Titanovsky" connected.
+[17:59:27] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[18:00:26] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[18:00:26] Client "Titanovsky" connected.
+[18:00:34] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[18:01:43] Server is shutting down/changing levels.
+
+
+
+[18:02:02] New map: gm_rus
+[18:02:11] Client "Titanovsky" connected.
+[18:02:18] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[18:03:11] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[18:03:11] Client "Titanovsky" connected.
+[18:03:19] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[18:03:57] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[18:03:57] Client "Titanovsky" connected.
+[18:04:05] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[18:04:51] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[18:04:52] Client "Titanovsky" connected.
+[18:04:59] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[18:16:58] Client "ExtraDipus" connected.
+[18:17:19] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 21 seconds).
+[18:31:12] ExtraDipus: /puka
+[18:31:12] (Console) added ExtraDipus to group superadmin on 1 days
+[18:31:49] ExtraDipus removed rank from Themself
+[18:42:13] ExtraDipus suicided!
+[18:42:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/props_c17/furniturecouch001a.mdl
+[18:43:16] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[18:43:21] Client "ExtraDipus" connected.
+[18:43:44] Client "ExtraDipus" spawned in server <STEAM_0:0:164590602> (took 23 seconds).
+[18:48:08] ExtraDipus: /puka
+[18:48:08] (Console) added ExtraDipus to group superadmin on 1 days
+[18:50:49] ExtraDipus slapped Themself with 0 damage
+[18:50:52] ExtraDipus slapped Themself with 0 damage
+[18:50:53] ExtraDipus slapped Themself with 0 damage
+[18:51:01] ExtraDipus gagged Themself
+[18:51:05] ExtraDipus gagged Themself
+[18:51:14] ExtraDipus muted Themself
+[18:51:22] ExtraDipus teleported to Titanovsky
+[18:51:33] ExtraDipus returned Themself to their original position
+[18:51:49] ExtraDipus ungagged Themself
+[18:51:51] ExtraDipus unmuted Themself
+[18:54:22] ExtraDipus suicided!
+[18:54:28] ExtraDipus suicided!
+[18:56:12] ExtraDipus brought Titanovsky
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x8x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x05.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x05x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/025x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x05x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x150x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x05x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x1to2x2.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x3x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle2x2.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle4x4.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube3x8x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x8x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube075x2x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025x05.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x05x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x05x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x8x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x1x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube2x4x05.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x05x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x2x05.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/circle4x4.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x1x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x4x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/triangles/1x05x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned vehicle models/nova/jeep_seat.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x8x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube1x1x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate075x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate075x1.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube05x1x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x4x025.mdl
+[19:00:51] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:01] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:01:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:04:45] ExtraDipus<STEAM_0:0:164590602> spawned vehicle models/buggy.mdl
+[19:08:49] Dropped "ExtraDipus" from server<STEAM_0:0:164590602>
+[20:44:59] Titanovsky removed rank from Themself
+[20:45:12] Titanovsky: /puka
+[20:45:12] (Console) added Titanovsky to group superadmin on 1 days
+[20:47:20] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[20:47:21] Client "Titanovsky" connected.
+[20:47:29] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[20:48:56] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[20:48:57] Client "Titanovsky" connected.
+[20:49:04] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[21:36:19] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:36:19] Client "Titanovsky" connected.
+[21:36:27] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[22:48:16] Server is shutting down/changing levels.
+
+
+
+[22:48:35] New map: gm_rus
+[22:49:23] Client "Titanovsky" connected.
+[22:49:30] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[22:50:58] (SILENT) Titanovsky ran rcon command: bot
+[22:50:58] Client "Bot01" connected.
+[22:50:58] Client "Bot01" spawned in server <BOT> (took 144 seconds).
+[22:50:59] (SILENT) Titanovsky ran rcon command: bot
+[22:50:59] Client "Bot02" connected.
+[22:50:59] Client "Bot02" spawned in server <BOT> (took 145 seconds).
+[22:51:00] (SILENT) Titanovsky ran rcon command: bot
+[22:51:00] Client "Bot03" connected.
+[22:51:00] Client "Bot03" spawned in server <BOT> (took 146 seconds).
+[23:00:37] Server is shutting down/changing levels.
+
+
+
+[23:00:55] New map: gm_rus
+[23:01:14] Client "Titanovsky" connected.
+[23:01:21] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:01:39] (SILENT) Titanovsky ran rcon command: bot
+[23:01:39] Client "Bot01" connected.
+[23:01:39] Client "Bot01" spawned in server <BOT> (took 45 seconds).
+[23:01:40] (SILENT) Titanovsky ran rcon command: bot
+[23:01:40] Client "Bot02" connected.
+[23:01:40] Client "Bot02" spawned in server <BOT> (took 46 seconds).
+[23:01:42] (SILENT) Titanovsky ran rcon command: bot
+[23:01:42] Client "Bot03" connected.
+[23:01:42] Client "Bot03" spawned in server <BOT> (took 48 seconds).
+[23:02:53] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:02:53] Dropped "Bot01" from server<BOT>
+[23:02:53] Dropped "Bot02" from server<BOT>
+[23:02:53] Dropped "Bot03" from server<BOT>
+[23:02:54] Client "Titanovsky" connected.
+[23:03:01] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:03:17] (SILENT) Titanovsky ran rcon command: bot
+[23:03:17] Client "Bot04" connected.
+[23:03:17] Client "Bot04" spawned in server <BOT> (took 143 seconds).
+[23:03:17] (SILENT) Titanovsky ran rcon command: bot
+[23:03:17] Client "Bot05" connected.
+[23:03:17] Client "Bot05" spawned in server <BOT> (took 143 seconds).
+[23:07:08] Server is shutting down/changing levels.
+
+
+
+[23:07:26] New map: gm_rus
+[23:08:10] Client "Titanovsky" connected.
+[23:08:17] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:08:26] (SILENT) Titanovsky ran rcon command: bot
+[23:08:26] Client "Bot01" connected.
+[23:08:26] Client "Bot01" spawned in server <BOT> (took 61 seconds).
+[23:08:27] (SILENT) Titanovsky ran rcon command: bot
+[23:08:27] Client "Bot02" connected.
+[23:08:27] Client "Bot02" spawned in server <BOT> (took 62 seconds).
+[23:12:14] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:12:14] Dropped "Bot01" from server<BOT>
+[23:12:14] Dropped "Bot02" from server<BOT>
+[23:12:15] Client "Titanovsky" connected.
+[23:12:22] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:15:46] (SILENT) Titanovsky ran rcon command: bot
+[23:15:46] Client "Bot03" connected.
+[23:15:46] Client "Bot03" spawned in server <BOT> (took 501 seconds).
+[23:15:47] (SILENT) Titanovsky ran rcon command: bot
+[23:15:47] Client "Bot04" connected.
+[23:15:47] Client "Bot04" spawned in server <BOT> (took 502 seconds).
+[23:16:16] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:16:16] Dropped "Bot03" from server<BOT>
+[23:16:16] Dropped "Bot04" from server<BOT>
+[23:16:16] Client "Titanovsky" connected.
+[23:16:24] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[23:17:02] (SILENT) Titanovsky ran rcon command: bot
+[23:17:02] Client "Bot05" connected.
+[23:17:02] Client "Bot05" spawned in server <BOT> (took 577 seconds).
+[23:17:02] (SILENT) Titanovsky ran rcon command: bot
+[23:17:02] Client "Bot06" connected.
+[23:17:02] Client "Bot06" spawned in server <BOT> (took 577 seconds).
+[23:17:02] (SILENT) Titanovsky ran rcon command: bot
+[23:17:02] Client "Bot07" connected.
+[23:17:02] Client "Bot07" spawned in server <BOT> (took 577 seconds).
+[23:17:38] Server is shutting down/changing levels.
+
+
+
+[23:17:56] New map: gm_rus
+[23:18:24] Client "Titanovsky" connected.
+[23:18:32] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[23:18:53] (SILENT) Titanovsky ran rcon command: bot
+[23:18:53] Client "Bot01" connected.
+[23:18:53] Client "Bot01" spawned in server <BOT> (took 58 seconds).
+[23:18:53] (SILENT) Titanovsky ran rcon command: bot
+[23:18:53] Client "Bot02" connected.
+[23:18:53] Client "Bot02" spawned in server <BOT> (took 58 seconds).
+[23:18:54] (SILENT) Titanovsky ran rcon command: bot
+[23:18:54] Client "Bot03" connected.
+[23:18:54] Client "Bot03" spawned in server <BOT> (took 59 seconds).
+[23:25:09] Server is shutting down/changing levels.
+
+
+
+[23:25:27] New map: gm_rus
+[23:25:30] Client "Titanovsky" connected.
+[23:25:37] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:25:49] (SILENT) Titanovsky ran rcon command: bot
+[23:25:49] Client "Bot01" connected.
+[23:25:49] Client "Bot01" spawned in server <BOT> (took 23 seconds).
+[23:25:50] (SILENT) Titanovsky ran rcon command: bot
+[23:25:50] Client "Bot02" connected.
+[23:25:50] Client "Bot02" spawned in server <BOT> (took 24 seconds).
+[23:25:50] (SILENT) Titanovsky ran rcon command: bot
+[23:25:50] Client "Bot03" connected.
+[23:25:50] Client "Bot03" spawned in server <BOT> (took 24 seconds).
+[23:26:27] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:26:27] Dropped "Bot01" from server<BOT>
+[23:26:27] Dropped "Bot02" from server<BOT>
+[23:26:27] Dropped "Bot03" from server<BOT>
+[23:26:27] Client "Titanovsky" connected.
+[23:26:35] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[23:28:53] (SILENT) Titanovsky ran rcon command: bot
+[23:28:53] Client "Bot04" connected.
+[23:28:53] Client "Bot04" spawned in server <BOT> (took 207 seconds).
+[23:28:53] (SILENT) Titanovsky ran rcon command: bot
+[23:28:53] Client "Bot05" connected.
+[23:28:53] Client "Bot05" spawned in server <BOT> (took 207 seconds).
+[23:28:54] (SILENT) Titanovsky ran rcon command: bot
+[23:28:54] Client "Bot06" connected.
+[23:28:54] Client "Bot06" spawned in server <BOT> (took 208 seconds).
+[23:30:00] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:30:00] Dropped "Bot04" from server<BOT>
+[23:30:00] Dropped "Bot05" from server<BOT>
+[23:30:00] Dropped "Bot06" from server<BOT>
+[23:30:01] Client "Titanovsky" connected.
+[23:30:09] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 8 seconds).
+[23:33:04] (SILENT) Titanovsky ran rcon command: bot
+[23:33:04] Client "Bot07" connected.
+[23:33:04] Client "Bot07" spawned in server <BOT> (took 458 seconds).
+[23:33:05] (SILENT) Titanovsky ran rcon command: bot
+[23:33:05] Client "Bot08" connected.
+[23:33:05] Client "Bot08" spawned in server <BOT> (took 459 seconds).
+[23:33:11] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:33:11] Dropped "Bot07" from server<BOT>
+[23:33:11] Dropped "Bot08" from server<BOT>
+[23:33:11] Client "Titanovsky" connected.
+[23:33:20] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 9 seconds).
+[23:38:17] (SILENT) Titanovsky ran rcon command: bot
+[23:38:17] Client "Bot09" connected.
+[23:38:17] Client "Bot09" spawned in server <BOT> (took 771 seconds).
+[23:38:17] (SILENT) Titanovsky ran rcon command: bot
+[23:38:17] Client "Bot10" connected.
+[23:38:17] Client "Bot10" spawned in server <BOT> (took 771 seconds).
+[23:46:51] Server is shutting down/changing levels.
+
+
+
+[23:47:09] New map: gm_rus
+[23:47:12] Client "Titanovsky" connected.
+[23:47:19] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 7 seconds).
+[23:53:59] Titanovsky suicided!
+[23:54:29] Titanovsky suicided!
+[23:54:52] Titanovsky suicided!
+[23:55:50] Titanovsky suicided!
+[23:56:01] Titanovsky suicided!
+[23:56:16] Titanovsky<STEAM_0:1:95303327> spawned model models/props_borealis/bluebarrel001.mdl
+[23:56:29] Titanovsky<STEAM_0:1:95303327> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:56:59] Titanovsky suicided!
+<Logging continued in "data/ulx_logs/07-31-20.txt">

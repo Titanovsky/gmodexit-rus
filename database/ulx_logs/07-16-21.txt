@@ -1,0 +1,351 @@
+<Logging continued from "data/ulx_logs/07-15-21.txt">
+[00:10:03] ExtraDipus<STEAM_0:0:164590602> spawned sent mediaplayer_tv
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:14:55] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:20:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:21:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:07] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:22:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:27:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:31:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:19] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:33:44] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:17] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:34:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:35:53] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:16] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:36:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:39:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:39:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:39:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:39:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:39:18] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:41:24] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:41:24] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:41:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:41:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:41:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:41:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate025.mdl
+[00:42:58] ExtraDipus brought Bot02
+[00:43:19] ExtraDipus brought Bot02,Bot03,Bot04,Bot05,Bot06
+[00:43:22] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 1
+[00:43:24] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 99
+[00:43:27] ExtraDipus brought Bot02,Bot03,Bot04,Bot05,Bot06
+[00:45:07] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 99
+[00:46:04] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 99
+[00:46:13] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 99
+[00:46:44] ExtraDipus set the hp for Bot02,Bot03,Bot04,Bot05,Bot06 to 99
+[00:47:33] Bot04 suicided!
+[00:47:33] Bot02 suicided!
+[00:47:54] Bot06 suicided!
+[00:48:00] Bot05 suicided!
+[00:48:07] Bot03 suicided!
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:31] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:49:38] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:51:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:52:40] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:56:09] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:57:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:57:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:57:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:57:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:57:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:20] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:58:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:00] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:12] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[00:59:41] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:34] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:48] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:48] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:48] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:48] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:00:48] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:15] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:15] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:15] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:15] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:15] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:22] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:26] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:28] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:33] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:35] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:39] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:39] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:39] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:39] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:01:39] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:02:58] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:11] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:08:30] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:14] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:32] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:09:49] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:11:16] ExtraDipus<STEAM_0:0:164590602> spawned vehicle models/props_c17/furniturecouch002a.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:03] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/tubes/tube4x4x16.mdl
+[01:12:08] ExtraDipus<STEAM_0:0:164590602> spawned vehicle models/props_c17/furniturecouch002a.mdl
+[01:12:47] ExtraDipus<STEAM_0:0:164590602> spawned model models/mechanics/roboticslarge/a1.mdl
+[01:13:01] ExtraDipus was killed by prop_physics
+[01:13:29] ExtraDipus<STEAM_0:0:164590602> spawned ragdoll models/mossman.mdl
+[01:13:33] ExtraDipus<STEAM_0:0:164590602> spawned ragdoll models/mossman.mdl
+[01:13:35] ExtraDipus<STEAM_0:0:164590602> spawned ragdoll models/mossman.mdl
+[01:13:37] ExtraDipus<STEAM_0:0:164590602> spawned ragdoll models/mossman.mdl
+[01:14:06] ExtraDipus was killed by prop_ragdoll
+[01:14:19] ExtraDipus was killed by prop_ragdoll
+[02:06:06] ExtraDipus<STEAM_0:0:164590602> spawned model models/hunter/plates/plate175.mdl
+[02:14:21] ExtraDipus<STEAM_0:0:164590602> spawned model models/holograms/hq_rcube.mdl
+[02:19:21] ExtraDipus: 1
+[02:19:31] ExtraDipus: 90
+[02:19:40] ExtraDipus: 110
+[02:19:49] ExtraDipus: 120
+[02:21:28] ExtraDipus: 90
+[02:39:18] Client "hudduh" connected.
+[04:39:02] Client "𝕷𝕴𝕷𝕬𝕶𝕾𝕺𝕹" connected.
+[06:05:06] Server is shutting down/changing levels.
+
+
+
+[06:06:38] New map: gm_construct
+[06:59:13] Server is shutting down/changing levels.
+
+
+
+[07:04:05] New map: gm_construct

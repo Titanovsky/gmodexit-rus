@@ -1,0 +1,32 @@
+<Logging continued from "data/ulx_logs/01-01-23.txt">
+[00:20:04] Server is shutting down/changing levels.
+
+
+
+[00:23:01] New map: gm_rus_old_xmas
+[01:52:58] Server is shutting down/changing levels.
+
+
+
+[01:55:46] New map: gm_rus_old_xmas
+[01:58:03] Client "Titanovsky" connected.
+[02:02:05] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 242 seconds).
+[02:03:00] (SILENT) Титантра ran rcon command: changelevel rp_downtown_winter
+[02:03:00] Server is shutting down/changing levels.
+
+
+
+[02:04:24] New map: rp_downtown_winter
+[02:06:19] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 165 seconds).
+[02:16:40] Титантра<STEAM_0:1:95303327> spawned NPC npc_monk
+[02:53:31] Dropped "Титантра" from server<STEAM_0:1:95303327>
+
+
+
+[03:07:10] New map: gm_rus_old_xmas
+[13:47:55] Client "francesco.colnaghi4" connected.
+[19:14:19] Client "лысый" connected.
+[19:16:57] Client "лысый" connected.
+[19:17:31] Client "лысый" connected.
+[19:17:40] Client "лысый" connected.
+<Logging continued in "data/ulx_logs/01-03-23.txt">

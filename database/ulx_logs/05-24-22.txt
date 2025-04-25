@@ -1,0 +1,181 @@
+<Logging continued from "data/ulx_logs/05-23-22.txt">
+[05:05:05] Server is shutting down/changing levels.
+
+
+
+[05:06:53] New map: gm_construct
+[05:30:58] Client "Miku" connected.
+[05:32:17] Client "Miku" spawned in server <STEAM_0:0:448732644> (took 79 seconds).
+[06:56:22] Dropped "♫-Miku-♫" from server<STEAM_0:0:448732644>
+[11:06:05] Client "TimurKar9" connected.
+[11:08:21] Client "TimurKar9" spawned in server <STEAM_0:0:658442037> (took 136 seconds).
+[11:11:05] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_machine.mdl
+[11:11:12] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/chair_casual.mdl
+[11:11:14] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_pot.mdl
+[11:11:17] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_machine.mdl
+[11:11:18] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_machine.mdl
+[11:11:18] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_machine.mdl
+[11:11:19] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/coffe_machine.mdl
+[11:11:30] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:33] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:35] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:36] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:37] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:38] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:40] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:41] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:41] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:46] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:47] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:48] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:48] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:49] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:51] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:11:59] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:00] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:01] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:02] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:02] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:03] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:04] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:07] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:12:08] TimurKar9<STEAM_0:0:658442037> spawned model models/props_canteen/vendingmachine01.mdl
+[11:13:58] TimurKar9<STEAM_0:0:658442037> spawned model models/dav0r/tnt/tnt.mdl
+[11:14:00] TimurKar9<STEAM_0:0:658442037> spawned model models/dav0r/tnt/tnt.mdl
+[11:14:01] TimurKar9<STEAM_0:0:658442037> spawned model models/dav0r/tnt/tnt.mdl
+[11:14:02] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/button_03.mdl
+[11:14:28] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:33] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:34] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:34] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:35] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:36] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:36] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:37] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:14:38] TimurKar9<STEAM_0:0:658442037> spawned model models/maxofs2d/hover_classic.mdl
+[11:15:06] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:09] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:11] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:11] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:12] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:16] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:17] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:19] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:38] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:40] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:42] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:43] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:45] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:47] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:49] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:51] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combine_train02a.mdl
+[11:15:53] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combinetrain01a.mdl
+[11:15:56] TimurKar9<STEAM_0:0:658442037> spawned model models/props_combine/combinetrain01a.mdl
+[11:23:19] Server is shutting down/changing levels.
+
+
+
+[11:23:58] New map: gm_functional_flatgrass3
+[11:26:07] Client "TimurKar9" spawned in server <STEAM_0:0:658442037> (took 145 seconds).
+[11:28:10] TimurKar9<STEAM_0:0:658442037> spawned model models/sprops/trans/train/double_72.mdl
+[11:29:00] TimurKar9<STEAM_0:0:658442037> spawned model models/sprops/trans/train/double_72.mdl
+[11:34:14] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/altkunohaus.mdl
+[11:36:21] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/altkunohaus.mdl
+[11:36:37] TimurKar9<STEAM_0:0:658442037> spawned model models/rusroadsigns/5/ru_znak__5-23-2.mdl
+[11:38:08] TimurKar9<STEAM_0:0:658442037> spawned model models/props_office/table_square.mdl
+[11:38:59] TimurKar9<STEAM_0:0:658442037> spawned model models/props/d_shack_1_single.mdl
+[11:39:06] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/ah_ash_tree_med.mdl
+[12:13:36] TimurKar9<STEAM_0:0:658442037> spawned model models/props_lab/retinalscanner.mdl
+[12:13:37] TimurKar9<STEAM_0:0:658442037> spawned model models/props_lab/retinalscanner.mdl
+[12:13:44] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:48] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:51] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:53] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:13:54] TimurKar9<STEAM_0:0:658442037> spawned model models/props_foliage/r_maple1.mdl
+[12:15:03] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:06] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:09] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:16] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:19] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:22] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:25] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:26] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:27] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:28] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:15:28] TimurKar9<STEAM_0:0:658442037> spawned model models/kunoszeug/bunkerhaus.mdl
+[12:16:34] Server is shutting down/changing levels.
+
+
+
+[12:17:13] New map: gm_arid_mesa
+[12:17:13] Client "шоколад" connected.
+[12:17:13] Client "шоколад" connected.
+[12:17:13] Client "шоколад" connected.
+[12:17:13] Client "шоколад" connected.
+[12:19:22] Client "TimurKar9" spawned in server <STEAM_0:0:658442037> (took 146 seconds).
+[12:20:43] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:47] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:49] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:50] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:51] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:51] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:20:52] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/fence02a.mdl
+[12:21:18] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:21:36] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:21:41] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:21:48] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:21:54] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:22:00] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:22:28] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:23:07] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:23:13] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:23:24] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:23:40] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:23:53] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:24:06] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:24:23] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:24:31] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:25:29] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:25:39] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:25:54] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:26:10] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/utilitypole03a.mdl
+[12:26:35] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:38] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:39] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:41] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:42] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:42] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:43] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:44] TimurKar9<STEAM_0:0:658442037> spawned model models/props_c17/furnituresink001a.mdl
+[12:26:54] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/blu/conscript_apc.mdl
+[12:26:57] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/blu/tanks/leopard2a7.mdl
+[12:29:45] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/novelty/vortex.mdl
+[12:30:07] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/novelty/vortex.mdl
+[12:31:39] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/petro.mdl
+[12:31:52] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/petro.mdl
+[12:32:05] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/petrotr.mdl
+[12:32:27] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/petrotr.mdl
+[12:32:45] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/linerun.mdl
+[12:32:57] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/linerun.mdl
+[12:33:11] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/linerun.mdl
+[12:33:27] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/industrial/artict1.mdl
+[12:33:54] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/gta_sa/tuners/sultan.mdl
+[12:34:10] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/sim_fphys_daewoo_lanos_sport/daewoo_lanos_sport.mdl
+[12:35:07] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/buggy.mdl
+[12:35:09] TimurKar9<STEAM_0:0:658442037> spawned vehicle models/airboat.mdl
+[12:36:21] Dropped "TimurKar9" from server<STEAM_0:0:658442037>
+[17:53:57] Client "IXELPRO" connected.
+[17:59:59] Client "IXELPRO" connected.
+[18:05:06] Client "IXELPRO" spawned in server <STEAM_0:1:515801145> (took 307 seconds).
+[18:06:22] NonofireG12: /content
+[18:08:32] Dropped "NonofireG12" from server<STEAM_0:1:515801145>
+[20:30:31] Client "Мамонт" connected.
+[20:33:02] Client "Мамонт" spawned in server <STEAM_0:1:536221893> (took 151 seconds).
+[20:38:31] Dropped "Солнце из фнафа" from server<STEAM_0:1:536221893>
+[22:56:55] Client "бывалый(m8)" connected.
+<Logging continued in "data/ulx_logs/05-25-22.txt">

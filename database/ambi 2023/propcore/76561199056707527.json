@@ -1,0 +1,1 @@
+{"6":{"movetype":6.0,"map":"gm_amb_remeselnik_island","color":{"r":255.0,"b":255.0,"a":255.0,"g":255.0},"solid":6.0,"model":"models/galaxy/rust/wood_wall.mdl","collision":0.0,"class":"prop_physics","mat":"","pos":"[5632.2764 -7277.2451 -202.4159]","motion":true,"owner":"STEAM_0:1:548220899","ang":"{0 169.008 90}","maxhp":3000.0,"hp":1000.0,"sleep":false}}

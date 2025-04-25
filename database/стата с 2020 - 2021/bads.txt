@@ -1,0 +1,78 @@
+1 | Darth Maul | АДМИН ШЛЮХА | STEAM_0:0:232956470 | Player [8][Titanovsky] Admin | Reason: Ming | Mon Aug 10 14:57:38 2020
+2 | Hamsa | A.B.K | STEAM_0:0:552956067 | Player [8][Titanovsky] Admin | Reason: Ming | Mon Aug 10 16:17:34 2020
+3 | intelrx8 | xsaaewfs | STEAM_0:1:550709448 | Player [8][Titanovsky] Admin | Reason: ming | Mon Aug 10 16:18:08 2020
+4 | offline | offline | STEAM_0:1:222493314 | Titanovsky Admin | Reason: Crasher | Tue Aug 11 22:21:07 2020
+5 | offline | offline | STEAM_0:0:225565664 | Titanovsky Admin | Reason: Ming | Tue Aug 11 23:15:55 2020
+6 | offline | offline | STEAM_0:0:545894707 | Titanovsky Admin | Reason: Ming | Tue Aug 11 23:55:48 2020
+7 | offline | offline | STEAM_0:1:448945767 | Titanovsky Admin | Reason: Crasher | Tue Aug 11 23:56:45 2020
+8 | offline | offline | STEAM_0:1:64700748 | Titanovsky Admin | Reason: Crasher+DDoS | Tue Aug 11 23:56:56 2020
+9 | offline | offline | STEAM_0:1:107419719 | Titanovsky Admin | Reason: Crasher | Tue Aug 11 23:57:12 2020
+10 | Sorokin Andrey Alekseevich | Андрей Сорокин | STEAM_0:1:521181835 | Player [1][Titanovsky] Admin | Reason: Ming | Wed Aug 12 14:17:02 2020
+11 | PERCHIK(IS) | PERCHIK | STEAM_0:1:464951025 | Player [1][Titanovsky] Admin | Reason: ming | Wed Aug 12 20:06:56 2020
+12 | Na'Vi_Hacker | Boba | STEAM_0:1:117576487 | Player [1][Titanovsky] Admin | Reason: Crasher | Wed Aug 12 21:10:24 2020
+13 | МочаОслика | dsa | STEAM_0:0:181983816 | Player [1][Titanovsky] Admin | Reason: Crasher | Wed Aug 12 21:12:21 2020
+14 | offline | offline | STEAM_0:1:417027154 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:26:46 2020
+15 | offline | offline | STEAM_0:1:224990124 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:27:00 2020
+16 | offline | offline | STEAM_0:0:80953253 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:27:11 2020
+17 | offline | offline | STEAM_0:1:181610184 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:27:22 2020
+18 | offline | offline | STEAM_0:0:532738296 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:27:33 2020
+19 | offline | offline | STEAM_0:0:96561678 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:27:43 2020
+20 | offline | offline | STEAM_0:0:63644275 | Titanovsky Admin | Reason: Cheat_Aim | Wed Aug 12 21:27:59 2020
+21 | offline | offline | STEAM_0:0:502333239 | Titanovsky Admin | Reason: Ming | Wed Aug 12 21:28:16 2020
+22 | offline | offline | STEAM_0:1:79676177 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:28:49 2020
+23 | offline | offline | STEAM_0:0:100410382 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:29:00 2020
+24 | offline | offline | STEAM_0:1:196011722 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:29:14 2020
+25 | offline | offline | STEAM_0:0:57488075 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:29:25 2020
+26 | offline | offline | STEAM_0:1:526952245 | Titanovsky Admin | Reason: Cheater | Wed Aug 12 21:30:31 2020
+27 | offline | offline | STEAM_0:0:49589430 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:30:41 2020
+28 | offline | offline | STEAM_0:1:486519735 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:30:51 2020
+29 | offline | offline | STEAM_0:1:431230640 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 21:31:02 2020
+30 | offline | offline | STEAM_0:0:532513261 | Titanovsky Admin | Reason: Ming | Wed Aug 12 21:31:11 2020
+31 | offline | offline | STEAM_0:0:237647331 | Titanovsky Admin | Reason: Ming | Wed Aug 12 21:31:23 2020
+32 | offline | offline | STEAM_0:1:232150542 | Titanovsky Admin | Reason: Crasher_Unicoder | Wed Aug 12 21:31:52 2020
+33 | offline | offline | STEAM_0:0:503696107 | Titanovsky Admin | Reason: Crasher_Twink | Wed Aug 12 21:32:14 2020
+34 | offline | offline | STEAM_0:1:199310864 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 21:32:34 2020
+35 | offline | offline | STEAM_0:1:517363626 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 22:00:48 2020
+36 | offline | offline | STEAM_0:1:28364276 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 22:00:57 2020
+37 | offline | offline | STEAM_0:1:542375628 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 22:01:06 2020
+38 | offline | offline | STEAM_0:1:437360610 | Titanovsky Admin | Reason: Ming | Wed Aug 12 22:01:17 2020
+39 | offline | offline | STEAM_0:0:166760169 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 22:01:28 2020
+40 | offline | offline | STEAM_0:0:78466721 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 22:01:42 2020
+41 | offline | offline | STEAM_0:0:549584813 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 22:01:52 2020
+42 | offline | offline | STEAM_0:1:440341039 | Titanovsky Admin | Reason: Ming | Wed Aug 12 22:02:05 2020
+43 | offline | offline | STEAM_0:1:243030542 | Titanovsky Admin | Reason: Crasher | Wed Aug 12 22:02:16 2020
+44 | offline | offline | STEAM_0:1:204659303 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 22:02:27 2020
+45 | offline | offline | STEAM_0:1:532256779 | Titanovsky Admin | Reason: Cheat | Wed Aug 12 22:02:40 2020
+46 | offline | offline | STEAM_0:1:511987199 | Titanovsky Admin | Reason: Ming | Wed Aug 12 22:03:51 2020
+47 | offline | offline | STEAM_0:0:520338281 | Titanovsky Admin | Reason: Ming | Thu Aug 13 15:28:59 2020
+48 | offline | offline | STEAM_0:0:510668354 | Titanovsky Admin | Reason: Crasher | Thu Aug 13 15:29:09 2020
+49 | Stalker | Tutkach | STEAM_0:1:554334480 | Player [2][Titanovsky] Admin | Reason: ming | Thu Aug 13 17:14:10 2020
+50 | Eraser | Eraser | STEAM_0:1:439488669 | Player [5][Titanovsky] Admin | Reason: Ming | Thu Aug 13 19:21:33 2020
+51 | ☆ Richard ☆ | Lalka | STEAM_0:1:64168894 | Player [4][Titanovsky] Admin | Reason: Ming | Sat Aug 15 20:07:40 2020
+52 | offline | offline | STEAM_0:0:71487523 | Titanovsky Admin | Reason: crasher | Sat Aug 15 22:53:58 2020
+53 | offline | offline | STEAM_0:1:155337894 | Titanovsky Admin | Reason: Crasher | Sun Aug 16 22:58:45 2020
+54 | offline | offline | STEAM_0:1:478690573 | Titanovsky Admin | Reason: Ming | Sun Aug 16 23:01:45 2020
+55 | offline | offline | STEAM_0:1:18616862 | [CONSOLE] Admin | Reason: Crasher | Mon Aug 17 21:31:22 2020
+56 | offline | offline | STEAM_0:0:463307030 | Titanovsky Admin | Reason: Crasher | Tue Aug 18 21:24:39 2020
+57 | offline | offline | STEAM_0:0:186588020 | Titanovsky Admin | Reason: Crasher | Wed Aug 19 12:48:36 2020
+58 | offline | offline | STEAM_0:0:71382347 | Titanovsky Admin | Reason: Ming | Wed Aug 19 12:49:11 2020
+59 | sorokin.ingener | ooooooo | STEAM_0:0:511743192 | Player [8][Titanovsky] Admin | Reason: Ming | Wed Aug 19 13:20:00 2020
+60 | Evaldas Mirtis | big pp guy | STEAM_0:0:55438990 | Player [6][Titanovsky] Admin | Reason: Ming | Wed Aug 19 23:15:58 2020
+61 | offline | offline | STEAM_0:0:552644344 | [CONSOLE] Admin | Reason: Cheater | Fri Aug 21 13:00:15 2020
+62 | ℌύńŧēŕ | Hunter | STEAM_0:0:517514293 | Player [10][Titanovsky] Admin | Reason: Ming | Sat Aug 22 18:58:54 2020
+63 | bumbucha | mamuebal | STEAM_0:1:156158233 | Player [3][Titanovsky] Admin | Reason: Ming | Mon Aug 24 18:48:42 2020
+64 | offline | offline | STEAM_0:0:45629087 | Titanovsky Admin | Reason: Дело: 1 | Mon Aug 24 21:50:22 2020
+65 | offline | offline | STEAM_0:1:85387776 | Titanovsky Admin | Reason: Дело: 1 | Mon Aug 24 21:59:57 2020
+66 | offline | offline | STEAM_0:1:444893565 | Titanovsky Admin | Reason: Дело: 1 | Mon Aug 24 22:00:53 2020
+67 | offline | offline | STEAM_0:0:121499542 | Titanovsky Admin | Reason: Дело: 1 | Mon Aug 24 22:34:36 2020
+68 | ReSpE | ReSpE | STEAM_0:0:527318483 | Player [7][Titanovsky] Admin | Reason: Ming | Tue Aug 25 17:28:51 2020
+69 | offline | offline | STEAM_0:0:103621012 | Titanovsky Admin | Reason: ming | Thu Aug 27 17:25:56 2020
+70 | luv is rage | 'FLGHDOPF NT | STEAM_0:1:147338463 | Player [1][Titanovsky] Admin | Reason: Ming | Wed Sep  9 07:50:09 2020
+71 | AknizGaming | Akniz | STEAM_0:0:103884251 | Player [4][Titanovsky] Admin | Reason: Ming | Wed Sep  9 17:27:26 2020
+72 | Мамин Троль | Adam Wolker | STEAM_0:1:99205320 | Player [4][Titanovsky] Admin | Reason: Ming | Wed Sep  9 17:27:30 2020
+73 | offline | offline | STEAM_0:0:229275723 | Titanovsky Admin | Reason: Ming | Thu Sep 17 19:31:03 2020
+74 | offline | offline | STEAM_0:1:35380146 | [CONSOLE] Admin | Reason: Crasher | Thu Sep 17 20:58:27 2020
+75 | ♥♥♥₭ℝᵰℬİᶄ..♥) | KRABIK | STEAM_0:1:537299089 | Player [6][Titanovsky] Admin | Reason: E2 Ming | Sun Sep 20 15:25:17 2020
+76 | offline | offline | STEAM_0:1:171671339 | [CONSOLE] Admin | Reason: Ming | Sun Sep 27 16:39:50 2020
+77 | offline | offline | STEAM_0:0:227388576 | [CONSOLE] Admin | Reason: 0 | Thu Oct 15 18:41:41 2020
+78 | котмурзик | Dunil  | STEAM_0:0:446073467 | Player [1][ExtraDipus] Admin | Reason: Chuti | Sat Dec 12 00:12:13 2020
