@@ -1,0 +1,1 @@
+Ambi.Kit.Config.kits = AMB.Kit.Config.kits or {}

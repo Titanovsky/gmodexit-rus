@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\tigg_l85a2\sa80_rails_col"
+	"$bumpmap" "models\weapons\v_models\tigg_l85a2\sa80_rails_n"
+
+	"$PhongExponentTexture" "models\weapons\v_models\tigg_l85a2\sa80_rails_s"
+
+	"$envmap"			"env_cubemap"
+	"$envmapfresnel" 			"1"
+	"$envmapFresnelMinMaxExp"		"[0 .4 1]"
+	"$phongtint"   			"[.15 .17 .2]"
+	"$envmaptint"   			"[.005 .005 .005]"
+	"$normalmapalphaenvmapmask" 	"1"
+ 	"$phong" 			"1"
+
+	"$phongboost" 			"2"
+	"$phongfresnelranges"		"[7 4.5 9]"
+	"$phongalbedotint" 			"1"
+        "$phongalbedoboost" "50"
+	"$rimlight"     "1"
+	"$rimlightexponent"   "30" 
+	"$rimlightboost"   "1"
+	"$rimmask"      "1"
+		$ambientocclusion			1 
+$nocull 1
+
+}

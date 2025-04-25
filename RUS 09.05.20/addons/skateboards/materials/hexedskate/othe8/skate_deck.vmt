@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "hexedskate\othe8\skate_deck"
+    "$surfaceprop" "concrete"
+}

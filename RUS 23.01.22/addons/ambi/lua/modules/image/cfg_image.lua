@@ -1,0 +1,1 @@
+Ambi.Image.Config.net_send_all = 'ambi_image_send_all'

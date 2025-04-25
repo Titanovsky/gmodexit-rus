@@ -1,0 +1,1 @@
+Ambi.ChatCommands.Config.prefix = '/' -- Префикс для чатовых команд

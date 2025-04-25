@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "glass"
+	"$basetexture" "models\weapons\v_models\tigg_l85a2\reflectmap"
+	"$bumpmap" "models\weapons\v_models\tigg_l85a2\reflectmap_n"
+
+	"$envmap"			"env_cubemap"
+	"$envmapfresnel" 			"1"
+	"$envmapFresnelMinMaxExp"		"[1 .4 4]"
+	"$phongtint"   			"[.1 .1 .1]"
+	"$envmaptint"        "[.02 .02 .02]"
+	"$normalmapalphaenvmapmask" 	"1"
+ 	"$phong" 			"1"
+	"$phongboost" 			"3"
+	"$phongfresnelranges"		"[7 4.5 9]"
+        "$translucent" "1"
+
+
+}

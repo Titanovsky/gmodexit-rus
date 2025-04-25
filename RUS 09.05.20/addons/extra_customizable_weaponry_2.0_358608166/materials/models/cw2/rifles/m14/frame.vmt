@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\cw2\rifles\m14\Frame"
+	"$bumpmap" "models\cw2\rifles\m14\Frame_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "0.1"
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"
+}

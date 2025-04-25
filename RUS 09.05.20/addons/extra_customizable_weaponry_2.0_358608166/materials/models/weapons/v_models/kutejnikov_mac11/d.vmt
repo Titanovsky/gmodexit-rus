@@ -1,0 +1,16 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "models\weapons\v_models\Kutejnikov_mac11\D"
+	"$bumpmap"     "models\weapons\v_models\Kutejnikov_mac11\N"
+	
+	
+	
+"$phong" "1"
+"$phongboost"   "0.1"
+"$phongfresnelranges"   "[0.5 6.5 3.5]"
+"$phongexponent" "50"
+"$phongexponenttexture" 	"models\weapons\v_models\Kutejnikov_mac11\G"
+
+
+"$nocull" "1"
+}

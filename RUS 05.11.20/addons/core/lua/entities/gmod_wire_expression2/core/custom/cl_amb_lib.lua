@@ -1,0 +1,6 @@
+E2Helper.Descriptions["ambPosUp"] = "Передвигает entity() Наверх на n количество юнитов."
+E2Helper.Descriptions["ambPosDown"] = "Передвигает entity() Вниз на n количество юнитов."
+E2Helper.Descriptions["ambPosFront"] = "Передвигает entity() Вперёд на n количество юнитов."
+E2Helper.Descriptions["ambPosBehind"] = "Передвигает entity() Взад на n количество юнитов."
+E2Helper.Descriptions["ambPosRight"] = "Передвигает entity() Вправо на n количество юнитов."
+E2Helper.Descriptions["ambPosLeft"] = "Передвигает entity() Влево на n количество юнитов."

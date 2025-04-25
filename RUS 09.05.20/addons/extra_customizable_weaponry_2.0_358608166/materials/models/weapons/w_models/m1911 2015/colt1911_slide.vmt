@@ -1,0 +1,22 @@
+Vertexlitgeneric
+{
+"$basetexture" "models\weapons\v_models\M1911 2015\colt1911_D"
+"$bumpmap" "models\weapons\v_models\M1911 2015\colt1911_N"
+"$phongexponenttexture" "models\weapons\v_models\M1911 2015\colt1911_S"
+"$envmap"                        "env_cubemap"      
+"$envmaptint"                    "[.3 .3 .3]" 
+"$normalmapalphaenvmapmask"      "1"  
+"$phong"                         "1"                      
+"$phongboost"                    ".7"          
+"$phongfresnelranges" "[1.6 3 4.6]"            
+"$phongtint"                  "[1 1.2 1.5]"
+"$phongalbedotint"			"1"
+"$phongalbedoboost"			"25"
+"$rimlight" 	 "1"
+"$rimlightboost"	".3"
+"$rimlightexponent" 	"25"	
+"$rimmask"  "1"    
+"$nocull" "1"
+
+
+}

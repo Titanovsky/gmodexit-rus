@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "\cw2\rifles\vss\SR3M2"
+	"$bumpmap" "\cw2\rifles\vss\SR3M2_N"
+//	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

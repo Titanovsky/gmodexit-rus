@@ -1,0 +1,57 @@
+Ambi.Rus.restrict_items[ 'NPC' ] = {
+    [ 'npc_monk' ] = { level = 1, delay = 5, max = 1 },
+    [ 'npc_crow' ] = { level = 2, delay = 5, max = 1 },
+    [ 'npc_pigeon' ] = { level = 2, delay = 5, max = 1 },
+    [ 'npc_seagull' ] = { level = 2, delay = 5, max = 1 },
+
+    -------------------------------------------------------------------------------
+    [ 'Combine Elite' ] = { level = 1, delay = 5, max = 4 },
+    [ 'npc_combine_s' ] = { level = 1, delay = 5, max = 4 },
+    [ 'npc_combinedropship' ] = { level = 35, delay = 15, max = 1 },
+    [ 'npc_combinegunship' ] = { level = 25, delay = 40, max = 1 },
+    [ 'npc_vj_elite_synth' ] = { level = 5, delay = 6, max = 1 },
+    [ 'npc_helicopter' ] = { level = 5, delay = 40, max = 1 },
+    [ 'npc_manhack' ] = { level = 2, delay = 2, max = 2 },
+    [ 'npc_metropolice' ] = { level = 1, delay = 10, max = 2 },
+    [ 'npc_rollermine' ] = { level = 1, delay = 4, max = 1 },
+    [ 'npc_stalker' ] = { level = 1, delay = 10, max = 2 },
+    [ 'npc_strider' ] = { level = 5, delay = 25, max = 1 },
+    [ 'npc_turret_floor' ] = { level = 3, delay = 30, max = 1 },
+
+    -------------------------------------------------------------------------------
+    [ 'npc_alyx' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_barney' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_eli' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_gman' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_dog' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_kleiner' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_mossman' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_odessa' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_breen' ] = { level = 1, delay = 6, max = 1 },
+    [ 'npc_vortigaunt' ] = { level = 1, delay = 12, max = 3 },
+    [ 'npc_citizen' ] = { level = 1, delay = 12, max = 3 },
+    [ 'npc_tf2_ghost' ] = { level = 15, delay = 1, max = 1 },
+
+    -------------------------------------------------------------------------------
+    [ 'npc_headcrab' ] = { level = 1, delay = 5, max = 3 },
+    [ 'npc_headcrab_black' ] = { level = 1, delay = 5, max = 2 },
+    [ 'npc_headcrab_fast' ] = { level = 1, delay = 10, max = 1 },
+    [ 'npc_zombie_torso' ] = { level = 3, delay = 5, max = 1 },
+    [ 'npc_zombie' ] = { level = 1, delay = 15, max = 2 },
+    [ 'npc_fastzombie_torso' ] = { level = 6, delay = 15, max = 1 },
+    [ 'npc_fastzombie' ] = { level = 1, delay = 15, max = 2 },
+    [ 'npc_antlion' ] = { level = 2, delay = 15, max = 3 },
+    [ 'npc_antlionguard' ] = { level = 2, delay = 40, max = 1 },
+
+    -------------------------------------------------------------------------------
+    [ 'npc_combine_camera' ] = { level = 5, delay = 6, max = 3 },
+    [ 'npc_turret_ceiling' ] = { level = 5, delay = 6, max = 3 },
+    [ 'npc_clawscanner' ] = { level = 5, delay = 6, max = 3 },
+    [ 'npc_cscanner' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'npc_dvtaxi' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'npc_decentvehicle' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'sent_vj_test' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'npc_vj_mortarsynth' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'npc_poisonzombie' ] = { level = 5, delay = 6, max = 2, admin = true },
+    [ 'npc_barnacle' ] = { level = 5, delay = 6, max = 2, admin = true },
+}

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\cw2\smgs\ump\weapon_ump45_dm"
+	"$bumpmap" 			"models\cw2\smgs\ump\weapon_ump45_nm"
+	
+	"$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask 	"1"
+
+	 $phongtint 			"[.6 .8 1]"
+
+	$phong 				"1"
+	//$PhongAlbedoTint 		"0"	
+	//$BasemapLuminancePhongMask	"1"
+	
+	$phongexponent 			"15"
+	$phongboost 			"1     "
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}

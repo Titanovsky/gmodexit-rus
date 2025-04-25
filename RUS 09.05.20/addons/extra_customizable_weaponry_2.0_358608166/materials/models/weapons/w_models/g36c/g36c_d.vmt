@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\g36c\g36c_d"
+	"$bumpmap" "models\weapons\v_models\g36c\g36c_n"
+
+	"$PhongExponentTexture" "models\weapons\v_models\g36c\g36c_s"
+
+	"$envmap"			"env_cubemap"
+	"$envmapfresnel" 			"1"
+	"$envmapFresnelMinMaxExp"		"[0 .4 1]"
+	"$phongtint"   			"[.18 .19 .2]"
+	"$envmaptint"   			"[.018 .019 .02]"
+	"$normalmapalphaenvmapmask" 	"1"
+ 	"$phong" 			"1"
+
+	"$phongboost" 			"3"
+	"$phongfresnelranges"		"[7 4.5 9]"
+	"$phongalbedotint" 			"1"
+        "$phongalbedoboost" "10"
+	"$rimlight"     "1"
+	"$rimlightexponent"   "30" 
+	"$rimlightboost"   "1"
+	"$rimmask"      "1"
+	$ambientocclusion			1 
+}

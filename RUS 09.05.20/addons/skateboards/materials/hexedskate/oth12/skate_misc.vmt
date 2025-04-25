@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "hexedskate\oth12\skate_misc"
+    "$surfaceprop" "concrete"
+}

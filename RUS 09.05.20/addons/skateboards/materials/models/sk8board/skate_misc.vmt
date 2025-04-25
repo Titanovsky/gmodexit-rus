@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "models/sk8board/skate_misc"
+    "$surfaceprop" "concrete"
+}

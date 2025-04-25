@@ -1,0 +1,1 @@
+Ambi.AutoSpawn.Config.list = Ambi.AutoSpawn.Config.list or {}

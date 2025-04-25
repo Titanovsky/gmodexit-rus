@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vgui/entities/0xadg_chair"
+	"$nolod" 1
+}

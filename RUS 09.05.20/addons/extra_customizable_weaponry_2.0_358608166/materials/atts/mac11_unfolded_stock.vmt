@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "atts/mac11_unfolded_stock"
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
